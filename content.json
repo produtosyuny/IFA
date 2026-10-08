@@ -4,7 +4,7 @@
     "name": "Ọ̀nà Yorùbá — Ifá e Língua",
     "language": "pt-BR",
     "description": "Árvore de estudo de língua Yorùbá e Ifá.",
-    "version": "0.9.0",
+    "version": "0.10.0",
     "contentStatus": "camadas-1-e-2-em-revisao",
     "emptyFieldPolicy": "Campos ainda não desenvolvidos ficam vazios para receber conteúdo depois.",
     "sharedFields": [
@@ -21,7 +21,7 @@
       "sources",
       "cards"
     ],
-    "lastExpansion": "Níveis 2, 3 e 4 de Ifá e Aprofundamento escritos por completo: contexto de cada tema, explicação de cada verbete e frases de uso.",
+    "lastExpansion": "Seção Ìtàn com 6 histórias e Bloco 1 (Ifá N1 e Ire/Ibi) reescrito com explicações aprofundadas e mais frases.",
     "pronunciationKey": {
       "é / ó": "vogais abertas (ẹ, ọ), como em pé e pó",
       "ê / ô": "vogais fechadas (e, o), como em vê e avô",
@@ -8925,7 +8925,7 @@
               "yoruba": "Ifá",
               "pronunciation": "I-fa",
               "summary": "sistema de conhecimento, consulta e orientação",
-              "explanation": "Ifá pode nomear uma tradição viva de conhecimento, consulta, narrativas, valores e orientação. Não há uma única tradução curta que cubra todos os seus sentidos.",
+              "explanation": "Ifá é, ao mesmo tempo, uma divindade, um corpo de conhecimento e um sistema de consulta. Como divindade, é associado a Ọ̀rúnmìlà — tanto que os dois nomes muitas vezes se usam um pelo outro. Como conhecimento, é o conjunto dos 256 Odù e dos milhares de versos (ẹ̀sẹ̀) que eles reúnem. Como consulta, é o caminho para saber o que o destino de cada um pede.\n\nPara quem está no Ifá, ele não é adivinhação de curiosidades: é uma orientação de vida, transmitida por mestres e linhagens, com ética própria.\n\nEm 2005, a UNESCO proclamou o sistema de adivinhação de Ifá Patrimônio Cultural Imaterial da Humanidade.",
               "uses": [
                 "Nomear a tradição de conhecimento.",
                 "Falar de consulta e ensinamentos."
@@ -8941,6 +8941,18 @@
                   "yoruba": "Babaláwo ń dá Ifá",
                   "portuguese": "O babaláwo está consultando Ifá",
                   "pronunciation": "Ba-ba-la-uô n da I-fa",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ifá ló ní",
+                  "portuguese": "Foi Ifá quem disse",
+                  "pronunciation": "I-fa lô ni",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ẹ bá mi dá Ifá",
+                  "portuguese": "Consulte Ifá para mim (respeitoso)",
+                  "pronunciation": "É ba mi da I-fa",
                   "note": ""
                 }
               ],
@@ -8981,7 +8993,7 @@
               "yoruba": "Ọ̀rúnmìlà",
               "pronunciation": "Ó-run-mi-la",
               "summary": "orixá associado à sabedoria, ao destino e ao testemunho do caminho",
-              "explanation": "Ọ̀rúnmìlà é uma figura central de sabedoria e testemunho do destino em muitas tradições de Ifá; a classificação teológica varia por linhagem.",
+              "explanation": "Ọ̀rúnmìlà é a divindade da sabedoria e do conhecimento de Ifá. Seu título mais conhecido é Ẹlẹ́rìí Ìpín, “a testemunha do destino”: ele estava presente quando cada pessoa escolheu seu Orí antes de nascer. Por isso, ao consultar Ifá, é como se perguntássemos a quem viu essa escolha.\n\nOs versos o mostram como um sábio que aconselha, mas que também erra e aprende — como na história com Ìwà, sua esposa.\n\nA classificação de Ọ̀rúnmìlà como “orixá” varia por linhagem; muitas casas preferem tratá-lo à parte, como o próprio Ifá.",
               "uses": [
                 "Estudar suas funções sem fixar uma descrição universal."
               ],
@@ -8990,6 +9002,12 @@
                   "yoruba": "Ọ̀rúnmìlà, Ẹlẹ́rìí Ìpín",
                   "portuguese": "Ọ̀rúnmìlà, testemunha do destino",
                   "pronunciation": "Ó-run-mi-la, É-lé-ri-i I-pin",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ìbà Ọ̀rúnmìlà",
+                  "portuguese": "Reverência a Ọ̀rúnmìlà",
+                  "pronunciation": "I-ba Ó-run-mi-la",
                   "note": ""
                 }
               ],
@@ -9029,9 +9047,16 @@
               "yoruba": "Ọgbọ́n",
               "pronunciation": "Ó-gbón",
               "summary": "conhecimento que orienta escolhas e conduta",
-              "explanation": "Sabedoria prática. Costuma vir junto de ìmọ̀ (conhecimento) e òye (compreensão), trio muito citado em rezas e ensinamentos.",
+              "explanation": "Ọgbọ́n é a sabedoria prática, a que resolve problemas. Costuma vir em trio com ìmọ̀ (conhecimento) e òye (compreensão): saber, entender e saber usar.\n\nÉ um dos atributos de Ọ̀rúnmìlà, e uma das coisas que mais se pede nas rezas.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ọgbọ́n, ìmọ̀ àti òye",
+                  "portuguese": "Sabedoria, conhecimento e compreensão",
+                  "pronunciation": "Ó-gbón, i-mó a-ti ô-iê",
+                  "note": ""
+                }
+              ],
               "context": "Ifá é a tradição de conhecimento e consulta associada a Ọ̀rúnmìlà. Este tema reúne os termos de base para falar dela.",
               "variations": [],
               "related": [
@@ -9064,9 +9089,16 @@
               "yoruba": "Àkúnlẹ̀yàn",
               "pronunciation": "A-kun-lé-ian",
               "summary": "aquilo que a pessoa escolhe ou assume antes de vir ao mundo",
-              "explanation": "Literalmente “o que se escolheu ajoelhado” (kúnlẹ̀ = ajoelhar; yàn = escolher): segundo os ensinamentos, a pessoa escolhe seu destino antes de nascer. Forma trio com àkúnlẹ̀gbà e àyànmọ́.",
+              "explanation": "Literalmente “o que se escolheu ajoelhado”: kúnlẹ̀ (ajoelhar) + yàn (escolher). Os ensinamentos dizem que, antes de nascer, cada pessoa se ajoelha diante do criador e escolhe seu destino.\n\nForma um trio com àkúnlẹ̀gbà (o destino recebido) e àyànmọ́ (o destino fixado). A história de Afuwapé mostra como essa escolha pode ser mais sábia.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Àkúnlẹ̀yàn mi",
+                  "portuguese": "O destino que escolhi",
+                  "pronunciation": "A-kun-lé-ian mi",
+                  "note": ""
+                }
+              ],
               "context": "Ifá é a tradição de conhecimento e consulta associada a Ọ̀rúnmìlà. Este tema reúne os termos de base para falar dela.",
               "variations": [],
               "related": [
@@ -9090,6 +9122,15 @@
               },
               "tags": [
                 "akunleyan"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ori",
+                  "titulo": "A escolha do Orí: Afuwapé e seus amigos",
+                  "texto": "Três amigos — Afuwapé, Orísẹ̀kú e Orílẹ̀mọ̀ru — estavam no ọ̀run, prestes a vir ao mundo. Antes da viagem, cada um precisava escolher um Orí na casa de Àjàlá, o oleiro que molda as cabeças. Àjàlá era descuidado: muitas cabeças saíam rachadas ou mal cozidas.\n\nAfuwapé, antes de ir, consultou Ifá. Os babaláwo o orientaram a fazer ẹbọ, e ele fez. Os outros dois foram direto, sem consultar ninguém.\n\nNa casa de Àjàlá, Orísẹ̀kú e Orílẹ̀mọ̀ru escolheram cabeças bonitas por fora, mas defeituosas. Afuwapé, guiado pela orientação recebida, escolheu um Orí bom. Na terra, ele prosperou; os amigos, por mais que se esforçassem, viviam em dificuldade, e só então entenderam a diferença.",
+                  "licao": "O destino se escolhe antes de nascer, mas a escolha é feita com mais sabedoria por quem consulta, ouve e age. Daí a importância de Ifá e do ẹbọ.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -9099,9 +9140,16 @@
               "yoruba": "Ìwà",
               "pronunciation": "I-ua",
               "summary": "caráter, existência e modo de ser",
-              "explanation": "Caráter, conduta. Um ditado conhecido diz que o caráter é a verdadeira beleza (Ìwà lẹwà).",
+              "explanation": "Ìwà é o caráter, o modo de ser e de agir. Para Ifá, o caráter é a medida da pessoa — mais que riqueza ou posição.\n\nUm ditado diz: Ìwà lẹwà, o caráter é a verdadeira beleza. A história de Ọ̀rúnmìlà e Ìwà dá corpo a essa ideia.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ìwà rẹ̀ dára",
+                  "portuguese": "O caráter dele(a) é bom",
+                  "pronunciation": "I-ua ré da-ra",
+                  "note": ""
+                }
+              ],
               "context": "Ifá é a tradição de conhecimento e consulta associada a Ọ̀rúnmìlà. Este tema reúne os termos de base para falar dela.",
               "variations": [],
               "related": [
@@ -9126,6 +9174,15 @@
               },
               "tags": [
                 "iwa"
+              ],
+              "itan": [
+                {
+                  "id": "itan-iwa",
+                  "titulo": "Ọ̀rúnmìlà e Ìwà",
+                  "texto": "Ọ̀rúnmìlà casou-se com Ìwà, uma mulher de beleza e qualidades raras — em várias versões, filha de Sùúrù, a Paciência. Ìwà tinha seus próprios modos, e com o tempo Ọ̀rúnmìlà perdeu a paciência com ela e a tratou mal. Ìwà foi embora.\n\nDepois da partida dela, tudo começou a dar errado: a fortuna de Ọ̀rúnmìlà se desfez, o respeito das pessoas sumiu. Ele saiu à procura de Ìwà, cantando e perguntando por ela por toda parte. Quando finalmente a encontrou, ela não quis voltar, mas lhe ensinou que, se ele cuidasse do próprio caráter, ela estaria sempre com ele.",
+                  "licao": "Riqueza, prestígio e até um bom Orí não se sustentam sem bom caráter. Ìwà (caráter) e Sùúrù (paciência) andam juntas.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -9135,9 +9192,22 @@
               "yoruba": "Ìmọ̀",
               "pronunciation": "I-mó",
               "summary": "aprendizado; compreensão adquirida",
-              "explanation": "Conhecimento adquirido, saber. Mọ̀ = saber, conhecer.",
+              "explanation": "Ìmọ̀ é o conhecimento adquirido — o que se aprende. Vem de mọ̀, saber, conhecer.\n\nSozinho, o conhecimento não basta: precisa de òye (compreensão) e de ọgbọ́n (sabedoria para usá-lo).",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Mo mọ̀",
+                  "portuguese": "Eu sei",
+                  "pronunciation": "Mô mó",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Mi ò mọ̀",
+                  "portuguese": "Eu não sei",
+                  "pronunciation": "Mi ô mó",
+                  "note": ""
+                }
+              ],
               "context": "Ifá é a tradição de conhecimento e consulta associada a Ọ̀rúnmìlà. Este tema reúne os termos de base para falar dela.",
               "variations": [],
               "related": [
@@ -9170,7 +9240,7 @@
               "yoruba": "Olódùmarè",
               "pronunciation": "Ô-lô-du-ma-rê",
               "summary": "o Deus supremo",
-              "explanation": "O ser supremo, fonte de tudo. Não recebe culto direto como os Òrìṣà; as divindades e o próprio Orí fazem a ponte. Também chamado Ọlọ́run, “o dono do ọ̀run”.",
+              "explanation": "Olódùmarè é o Deus supremo, a fonte de tudo e de todo àṣẹ. Também é chamado Ọlọ́run, “o dono do ọ̀run”.\n\nNão recebe culto direto como os Òrìṣà: as divindades e o próprio Orí fazem a ponte. Mas é saudado primeiro nas rezas (Ìbà Olódùmarè), e muitas falas terminam com Àṣẹ Olódùmarè.\n\nNo Brasil, é mais conhecido como Olorum.",
               "uses": [],
               "phrases": [
                 {
@@ -9183,6 +9253,12 @@
                   "yoruba": "Àṣẹ Olódùmarè",
                   "portuguese": "Pelo àṣẹ de Olódùmarè",
                   "pronunciation": "A-ché Ô-lô-du-ma-rê",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ọlọ́run á ṣe é",
+                  "portuguese": "Deus fará (se Deus quiser)",
+                  "pronunciation": "Ó-ló-run a chê ê",
                   "note": ""
                 }
               ],
@@ -9222,7 +9298,7 @@
               "yoruba": "Ìkọ́fá",
               "pronunciation": "I-kó-fa",
               "summary": "primeira iniciação em Ifá — 'mão de Ifá'",
-              "explanation": "A cerimônia em que a pessoa recebe Ifá (os ikin) pela primeira vez, a chamada “mão de Ifá”. É diferente da iniciação completa como awo (ìtẹ̀fá).",
+              "explanation": "A cerimônia em que a pessoa recebe Ifá pela primeira vez — os ikin que passam a representá-lo na sua casa. No Brasil, é chamada de “mão de Ifá” ou “mão de Orunmilá”.\n\nNão forma um awo: é o primeiro passo, que estabelece a ligação da pessoa com Ifá e costuma revelar o seu Odù. A iniciação completa como awo é a ìtẹ̀fá.\n\nO nome e o procedimento variam entre casas.",
               "uses": [],
               "phrases": [],
               "context": "É o conceito central desta árvore; os sentidos devem ser lidos conforme o contexto e a linhagem.",
@@ -9267,11 +9343,24 @@
               "yoruba": "Awo",
               "pronunciation": "A-uô",
               "summary": "Conhecimento profundo, segredo ou tradição de conhecimento.",
-              "explanation": "Awo pode nomear conhecimento reservado, mistério ou a pessoa/tradição ligada a esse conhecimento, conforme o contexto.",
+              "explanation": "Awo é o segredo, o mistério — e também quem o detém. É ao mesmo tempo o conhecimento reservado de Ifá e a pessoa iniciada nele. Entre iniciados, “awo” é usado como tratamento: chamar alguém de awo é reconhecê-lo como guardião do saber.\n\nA palavra está em babaláwo (pai do segredo), ìyánífá/ìyáláwo, ọmọ awo (aprendiz) e olúwo (o mais velho dos awo).\n\nSer awo implica guardar: o que se aprende na iniciação não se expõe.",
               "uses": [
                 "Não confundir reservado com licença para expor ou assumir autoridade."
               ],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Awo ni wá",
+                  "portuguese": "Somos awo",
+                  "pronunciation": "A-uô ni ua",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Àṣírí awo",
+                  "portuguese": "O segredo do awo",
+                  "pronunciation": "A-chi-ri a-uô",
+                  "note": ""
+                }
+              ],
               "context": "A palavra aparece em babaláwo (pai do segredo) e ọmọ awo (aprendiz), e também é usada como tratamento entre iniciados.",
               "variations": [],
               "related": [
@@ -9304,9 +9393,16 @@
               "yoruba": "Awo",
               "pronunciation": "A-uô",
               "summary": "conhecimento reservado ou profundo; também pode designar a tradição iniciática",
-              "explanation": "Awo sob o ângulo do segredo: o saber que se aprende por iniciação e não se expõe publicamente.",
+              "explanation": "Aqui, awo no sentido de segredo: o conhecimento que se recebe por iniciação e não se expõe em público.\n\nGuardar o segredo não é esconder por esconder: é proteger o que só faz sentido dentro do caminho e da relação com o mestre.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Awo ni",
+                  "portuguese": "É segredo",
+                  "pronunciation": "A-uô ni",
+                  "note": ""
+                }
+              ],
               "context": "Awo é o saber reservado de Ifá e também quem o detém. Este tema trata de quem estuda, ensina e pratica.",
               "variations": [],
               "related": [
@@ -9339,9 +9435,22 @@
               "yoruba": "Babaláwo",
               "pronunciation": "Ba-ba-la-uô",
               "summary": "especialista consagrado ao estudo e à prática de Ifá",
-              "explanation": "Literalmente “pai que tem o segredo” (baba + ní + awo). Sacerdote iniciado em Ifá, que consulta e interpreta os Odù.",
+              "explanation": "Literalmente “pai que tem o segredo” (baba + ní + awo). É o sacerdote iniciado em Ifá: consulta, interpreta os Odù, recita os versos e indica os ẹbọ.\n\nA formação de um babaláwo é longa — anos de estudo com um mestre, memorizando versos. Para saudá-lo, diz-se Àbọrú àbọyè.\n\nNo Brasil, também se diz babalaô.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Àbọrú àbọyè, Bàbá",
+                  "portuguese": "Saudação ao babaláwo",
+                  "pronunciation": "A-bó-ru a-bó-iê, Ba-ba",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Babaláwo mi",
+                  "portuguese": "Meu babaláwo",
+                  "pronunciation": "Ba-ba-la-uô mi",
+                  "note": ""
+                }
+              ],
               "context": "Awo é o saber reservado de Ifá e também quem o detém. Este tema trata de quem estuda, ensina e pratica.",
               "variations": [],
               "related": [
@@ -9375,9 +9484,16 @@
               "yoruba": "Ìyáláwo",
               "pronunciation": "I-ia-la-uô",
               "summary": "mulher dedicada ao conhecimento e à prática de Ifá, conforme a linhagem",
-              "explanation": "Mulher iniciada no saber de Ifá. As formas Ìyánífá e Ìyáláwo convivem, e o uso varia por linhagem.",
+              "explanation": "A mulher iniciada no saber de Ifá. As duas formas convivem: Ìyánífá (“mãe que tem Ifá”) e Ìyáláwo (“mãe que tem o segredo”). O papel e o nome usados variam entre linhagens e regiões.\n\nAssim como o babaláwo, é saudada com Àbọrú àbọyè.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Àbọrú àbọyè, Ìyá",
+                  "portuguese": "Saudação à ìyánífá",
+                  "pronunciation": "A-bó-ru a-bó-iê, I-ia",
+                  "note": ""
+                }
+              ],
               "context": "Awo é o saber reservado de Ifá e também quem o detém. Este tema trata de quem estuda, ensina e pratica.",
               "variations": [
                 "Forma mais difundida: Ìyánífá. 'Ìyáláwo' é usada em algumas linhagens e contestada em outras."
@@ -9413,9 +9529,16 @@
               "yoruba": "Ọmọ Awo",
               "pronunciation": "Ó-mó A-uô",
               "summary": "pessoa em formação no caminho do conhecimento",
-              "explanation": "Literalmente “filho do segredo”: aprendiz ou iniciado que estuda com um babaláwo.",
+              "explanation": "Literalmente “filho do segredo”. É o aprendiz ou iniciado que estuda com um babaláwo, aprendendo a recitar, interpretar e servir.\n\nA relação entre mestre e ọmọ awo é de respeito, disciplina e confiança.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ọmọ awo ni mí",
+                  "portuguese": "Sou aprendiz de Ifá",
+                  "pronunciation": "Ó-mó a-uô ni mi",
+                  "note": ""
+                }
+              ],
               "context": "Awo é o saber reservado de Ifá e também quem o detém. Este tema trata de quem estuda, ensina e pratica.",
               "variations": [],
               "related": [
@@ -9448,9 +9571,16 @@
               "yoruba": "Ẹ̀kọ́",
               "pronunciation": "É-kó",
               "summary": "aprendizado disciplinado; não apenas informação",
-              "explanation": "Estudo, ensino. Kẹ́kọ̀ọ́ (estudar) e olùkọ́ (professor) vêm da mesma raiz kọ́, ensinar/aprender.",
+              "explanation": "Ẹ̀kọ́ é estudo, ensino, lição. Da mesma raiz vêm kẹ́kọ̀ọ́ (estudar) e olùkọ́ (professor).\n\nNo caminho de Ifá, ẹ̀kọ́ é mais que informação: é formação de conduta.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ̀kọ́ yìí dára",
+                  "portuguese": "Esta lição é boa",
+                  "pronunciation": "É-kó i-i da-ra",
+                  "note": ""
+                }
+              ],
               "context": "Awo é o saber reservado de Ifá e também quem o detém. Este tema trata de quem estuda, ensina e pratica.",
               "variations": [],
               "related": [
@@ -9483,9 +9613,16 @@
               "yoruba": "Ọ̀wọ̀",
               "pronunciation": "Ó-uó",
               "summary": "postura de reverência, cuidado e consideração",
-              "explanation": "Respeito. Bọ̀wọ̀ fún = respeitar alguém.",
+              "explanation": "Ọ̀wọ̀ é respeito. Bọ̀wọ̀ fún = respeitar alguém.\n\nNa casa, o respeito aparece no pronome (ẹ para os mais velhos), no gesto (ajoelhar, prostrar-se) e na escuta.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ bọ̀wọ̀ fún àgbà",
+                  "portuguese": "Respeitem os mais velhos",
+                  "pronunciation": "É bó-uó fun a-gba",
+                  "note": ""
+                }
+              ],
               "context": "Awo é o saber reservado de Ifá e também quem o detém. Este tema trata de quem estuda, ensina e pratica.",
               "variations": [],
               "related": [
@@ -9526,7 +9663,7 @@
               "yoruba": "Odù",
               "pronunciation": "Ô-du",
               "summary": "estrutura-símbolo que organiza padrões, ensinamentos e possibilidades",
-              "explanation": "Odù é uma estrutura de sinais, versos e caminhos interpretativos de Ifá; não é simplesmente um signo astrológico.",
+              "explanation": "Odù é cada uma das 256 configurações de Ifá. Cada Odù tem um nome, uma marca de quatro linhas e um conjunto de versos com histórias, conselhos e orientações de ẹbọ.\n\nOs 16 principais são os Odù Méjì; da combinação deles, dois a dois, nascem os outros 240. Na consulta, o Odù que “sai” indica de que parte do conhecimento de Ifá vem a resposta.\n\nCada pessoa também tem um Odù ligado a ela, revelado na iniciação, que acompanha a sua vida.",
               "uses": [
                 "Aprender sua relação com registro, Ẹ̀sẹ̀ Ifá e interpretação."
               ],
@@ -9535,6 +9672,12 @@
                   "yoruba": "Odù wo ló yọ?",
                   "portuguese": "Qual Odù saiu?",
                   "pronunciation": "Ô-du uô lô ió?",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Odù mi",
+                  "portuguese": "Meu Odù",
+                  "pronunciation": "Ô-du mi",
                   "note": ""
                 }
               ],
@@ -9573,7 +9716,7 @@
               "yoruba": "Ojú Odù",
               "pronunciation": "Ô-dju Ô-du",
               "summary": "os dezesseis Odù principais",
-              "explanation": "Designação dos 16 Odù principais (os Odù Méjì), dos quais derivam as combinações. A terminologia exata varia por linhagem.",
+              "explanation": "Designação dos 16 Odù principais, os Odù Méjì, base de todos os outros. Veja a lista com nome, ordem e marca no tema “Os 16 Odù Méjì”.\n\nA terminologia exata para esse grupo varia entre linhagens.",
               "uses": [],
               "phrases": [],
               "context": "Odù são as configurações de Ifá. Este tema reúne o vocabulário para falar de sinais, caminhos e interpretação.",
@@ -9608,9 +9751,16 @@
               "yoruba": "Àmì",
               "pronunciation": "A-mi",
               "summary": "marca ou sinal que aponta para uma leitura",
-              "explanation": "Sinal, marca. Na consulta, o sinal marcado indica qual Odù se apresentou.",
+              "explanation": "Àmì é sinal, marca. Na consulta, cada lance de ikin ou de ọ̀pẹ̀lẹ̀ gera um sinal — um traço ou dois — e o conjunto dos quatro forma a marca do Odù.\n\nNo dia a dia, àmì também é qualquer sinal ou indício.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Àmì rere",
+                  "portuguese": "Um bom sinal",
+                  "pronunciation": "A-mi rê-rê",
+                  "note": ""
+                }
+              ],
               "context": "Odù são as configurações de Ifá. Este tema reúne o vocabulário para falar de sinais, caminhos e interpretação.",
               "variations": [],
               "related": [
@@ -9643,9 +9793,22 @@
               "yoruba": "Ọ̀nà",
               "pronunciation": "Ó-na",
               "summary": "via, direção e possibilidade de passagem",
-              "explanation": "Caminho. Dá nome a este site: Ọ̀nà Yorùbá. Em Ifá, cada Odù abre caminhos de interpretação e de ação.",
+              "explanation": "Ọ̀nà é caminho. Dá nome a este site: Ọ̀nà Yorùbá, o caminho Yorùbá.\n\nEm Ifá, cada Odù abre caminhos — de interpretação e de ação. Fala-se de caminho aberto e caminho fechado, e Èṣù é quem guarda os caminhos.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ọ̀nà là",
+                  "portuguese": "O caminho se abriu",
+                  "pronunciation": "Ó-na la",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ọ̀nà tútù",
+                  "portuguese": "Caminho fresco, tranquilo",
+                  "pronunciation": "Ó-na tu-tu",
+                  "note": ""
+                }
+              ],
               "context": "Odù são as configurações de Ifá. Este tema reúne o vocabulário para falar de sinais, caminhos e interpretação.",
               "variations": [],
               "related": [
@@ -9679,7 +9842,7 @@
               "yoruba": "Ẹ̀sẹ̀",
               "pronunciation": "É-sé",
               "summary": "unidade de ensinamento associada a um Odù",
-              "explanation": "Verso. Cada Odù reúne muitos versos, com histórias e ensinamentos.",
+              "explanation": "Ẹ̀sẹ̀ é o verso. Cada Odù reúne muitos versos, com histórias e ensinamentos. Veja o verbete Ẹ̀sẹ̀ Ifá.",
               "uses": [],
               "phrases": [],
               "context": "Odù são as configurações de Ifá. Este tema reúne o vocabulário para falar de sinais, caminhos e interpretação.",
@@ -9714,9 +9877,16 @@
               "yoruba": "Àlàyé",
               "pronunciation": "A-la-iê",
               "summary": "explicação cuidadosa do sentido; depende do contexto",
-              "explanation": "Explicação, interpretação. Ṣàlàyé = explicar.",
+              "explanation": "Àlàyé é explicação, interpretação. Ṣàlàyé = explicar.\n\nDepois do Odù e do verso, vem a àlàyé: o que aquilo significa para a pessoa e a situação.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ jọ̀ọ́, ẹ ṣàlàyé",
+                  "portuguese": "Por favor, expliquem",
+                  "pronunciation": "É djó-ó, é cha-la-iê",
+                  "note": ""
+                }
+              ],
               "context": "Odù são as configurações de Ifá. Este tema reúne o vocabulário para falar de sinais, caminhos e interpretação.",
               "variations": [],
               "related": [
@@ -9757,11 +9927,18 @@
               "yoruba": "Ẹ̀sẹ̀ Ifá",
               "pronunciation": "É-sé I-fa",
               "summary": "Versos, narrativas e ensinamentos transmitidos pela tradição.",
-              "explanation": "Ẹ̀sẹ̀ Ifá reúne versos, narrativas e ensinamentos transmitidos no corpo de conhecimento de Ifá.",
+              "explanation": "Os versos de Ifá são o coração do conhecimento. Cada Odù reúne muitos versos, e cada verso costuma seguir um padrão: quem consultou Ifá, o que foi dito, se a pessoa fez ou não o ẹbọ, e o que aconteceu depois.\n\nOs personagens podem ser pessoas, divindades, animais e até plantas — e a história sempre traz uma lição para quem ouve.\n\nPor séculos, os versos foram guardados só na memória dos babaláwo, transmitidos de boca em boca. Hoje parte deles é estudada por escrito, mas a recitação continua oral.",
               "uses": [
                 "Estudar sentidos públicos sem reproduzir material reservado."
               ],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ̀sẹ̀ Ifá kan",
+                  "portuguese": "Um verso de Ifá",
+                  "pronunciation": "É-sé I-fa kan",
+                  "note": ""
+                }
+              ],
               "context": "Os versos foram preservados oralmente, de mestre para aprendiz; só no século XX começaram a ser registrados por escrito por estudiosos como Wándé Abímbọ́lá.",
               "variations": [],
               "related": [
@@ -9794,7 +9971,7 @@
               "yoruba": "Ẹ̀sẹ̀ Ifá",
               "pronunciation": "É-sé I-fa",
               "summary": "narrativa ou ensinamento transmitido pela tradição",
-              "explanation": "Os versos de Ifá narram situações vividas por personagens das narrativas e o que lhes foi recomendado; o estudo busca a lição para a vida.",
+              "explanation": "O verso de Ifá. Narra uma situação vivida por personagens que consultaram Ifá, o que lhes foi recomendado e o que aconteceu. O estudo busca a lição para a vida de quem ouve.",
               "uses": [],
               "phrases": [],
               "context": "Ẹ̀sẹ̀ Ifá são os versos da tradição. Este tema trata de narrativa, ensinamento e memória.",
@@ -9829,7 +10006,7 @@
               "yoruba": "Ẹ̀kọ́",
               "pronunciation": "É-kó",
               "summary": "lição extraída do verso e aplicada à vida",
-              "explanation": "Aqui, no sentido de lição tirada de um verso.",
+              "explanation": "A lição tirada de um verso. Ẹ̀kọ́ = ensinamento, estudo.",
               "uses": [],
               "phrases": [],
               "context": "Ẹ̀sẹ̀ Ifá são os versos da tradição. Este tema trata de narrativa, ensinamento e memória.",
@@ -9864,9 +10041,16 @@
               "yoruba": "Ìtàn",
               "pronunciation": "I-tan",
               "summary": "relato que preserva memória, valores e orientação",
-              "explanation": "História, narrativa. Ìtàn também é a palavra para 'história' como disciplina.",
+              "explanation": "Ìtàn é história, narrativa. As histórias de Ifá carregam a memória e os valores da tradição. Ìtàn também é a palavra para 'história' como disciplina.\n\nNeste site, a seção Ìtàn traz algumas das histórias mais conhecidas.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ sọ ìtàn kan fún wa",
+                  "portuguese": "Contem-nos uma história",
+                  "pronunciation": "É só i-tan kan fun ua",
+                  "note": ""
+                }
+              ],
               "context": "Ẹ̀sẹ̀ Ifá são os versos da tradição. Este tema trata de narrativa, ensinamento e memória.",
               "variations": [],
               "related": [
@@ -9899,9 +10083,16 @@
               "yoruba": "Ìmọ̀ràn",
               "pronunciation": "I-mó-ran",
               "summary": "orientação oferecida para uma situação concreta",
-              "explanation": "Conselho: o saber (ìmọ̀) aplicado a uma questão (ọ̀ràn).",
+              "explanation": "Ìmọ̀ràn é conselho: o saber (ìmọ̀) aplicado a um assunto (ọ̀ràn). É o que a pessoa leva da consulta.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ fún mi ní ìmọ̀ràn",
+                  "portuguese": "Me deem um conselho",
+                  "pronunciation": "É fun mi ni i-mó-ran",
+                  "note": ""
+                }
+              ],
               "context": "Ẹ̀sẹ̀ Ifá são os versos da tradição. Este tema trata de narrativa, ensinamento e memória.",
               "variations": [],
               "related": [
@@ -9934,7 +10125,7 @@
               "yoruba": "Ìyẹ̀rẹ̀",
               "pronunciation": "I-ié-ré",
               "summary": "canto ou recitação dos versos de Ifá",
-              "explanation": "Canto ou recitação dos versos de Ifá, feito em ritmo próprio. O termo exato varia por linhagem.",
+              "explanation": "O canto ou recitação dos versos de Ifá, feito em ritmo e melodia próprios. O termo exato e o estilo variam entre linhagens.",
               "uses": [],
               "phrases": [],
               "context": "Ẹ̀sẹ̀ Ifá são os versos da tradição. Este tema trata de narrativa, ensinamento e memória.",
@@ -9969,9 +10160,16 @@
               "yoruba": "Ìrántí",
               "pronunciation": "I-ran-ti",
               "summary": "continuidade oral e preservação dos ensinamentos",
-              "explanation": "Memória, lembrança. A tradição de Ifá foi transmitida principalmente de memória, de mestre para aprendiz.",
+              "explanation": "Ìrántí é memória, lembrança. Rántí = lembrar-se.\n\nA tradição de Ifá foi transmitida principalmente de memória, de mestre para aprendiz, ao longo de gerações.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Mo rántí",
+                  "portuguese": "Eu me lembro",
+                  "pronunciation": "Mô ran-ti",
+                  "note": ""
+                }
+              ],
               "context": "Ẹ̀sẹ̀ Ifá são os versos da tradição. Este tema trata de narrativa, ensinamento e memória.",
               "variations": [],
               "related": [
@@ -10012,7 +10210,7 @@
               "yoruba": "Orí",
               "pronunciation": "Ô-ri",
               "summary": "cabeça; também dimensão interior ligada ao destino e à orientação pessoal",
-              "explanation": "Orí significa cabeça e, em muitos contextos, também se relaciona a orientação pessoal, destino e interioridade.",
+              "explanation": "Orí é a cabeça — e muito mais. Além da cabeça física, é o Orí inú, a cabeça interior: o destino pessoal que cada um escolheu antes de nascer. Os ensinamentos tratam o Orí como a primeira divindade de cada pessoa.\n\nUm princípio muito citado: nenhum Òrìṣà apoia alguém sem o consentimento do seu Orí. Por isso o Orí é saudado, cuidado e consultado.\n\nDuas histórias ajudam a entender: a dos três amigos que escolheram o Orí na casa de Àjàlá, e a do único que pode acompanhar alguém além do mar.",
               "uses": [
                 "Relacionar Orí a escolha, caráter e responsabilidade."
               ],
@@ -10021,6 +10219,18 @@
                   "yoruba": "Orí mi, gbè mí",
                   "portuguese": "Meu Orí, me apoie",
                   "pronunciation": "Ô-ri mi, gbê mi",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ìbà Orí mi",
+                  "portuguese": "Saúdo meu Orí",
+                  "pronunciation": "I-ba Ô-ri mi",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Orí rere",
+                  "portuguese": "Um bom Orí",
+                  "pronunciation": "Ô-ri rê-rê",
                   "note": ""
                 }
               ],
@@ -10047,6 +10257,22 @@
               },
               "tags": [
                 "ori"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ori",
+                  "titulo": "A escolha do Orí: Afuwapé e seus amigos",
+                  "texto": "Três amigos — Afuwapé, Orísẹ̀kú e Orílẹ̀mọ̀ru — estavam no ọ̀run, prestes a vir ao mundo. Antes da viagem, cada um precisava escolher um Orí na casa de Àjàlá, o oleiro que molda as cabeças. Àjàlá era descuidado: muitas cabeças saíam rachadas ou mal cozidas.\n\nAfuwapé, antes de ir, consultou Ifá. Os babaláwo o orientaram a fazer ẹbọ, e ele fez. Os outros dois foram direto, sem consultar ninguém.\n\nNa casa de Àjàlá, Orísẹ̀kú e Orílẹ̀mọ̀ru escolheram cabeças bonitas por fora, mas defeituosas. Afuwapé, guiado pela orientação recebida, escolheu um Orí bom. Na terra, ele prosperou; os amigos, por mais que se esforçassem, viviam em dificuldade, e só então entenderam a diferença.",
+                  "licao": "O destino se escolhe antes de nascer, mas a escolha é feita com mais sabedoria por quem consulta, ouve e age. Daí a importância de Ifá e do ẹbọ.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                },
+                {
+                  "id": "itan-ori-mar",
+                  "titulo": "Quem pode seguir alguém além do mar?",
+                  "texto": "Conta-se que Ọ̀rúnmìlà perguntou a seus seguidores — divindades e pessoas — quem seria capaz de acompanhá-lo numa viagem para além do grande mar, de onde ninguém volta. Um a um, todos deram desculpas: tinham compromissos, tinham medo, não podiam.\n\nSó um respondeu que iria até o fim com ele: o Orí. Porque o Orí é o único que acompanha cada pessoa em toda a sua jornada, até depois da morte.",
+                  "licao": "Nenhuma divindade apoia alguém sem o consentimento do seu Orí. Por isso se saúda e se cuida do Orí antes de tudo.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -10056,9 +10282,22 @@
               "yoruba": "Ìwà Pẹ̀lẹ́",
               "pronunciation": "I-ua Pé-lé",
               "summary": "Caráter sereno, equilibrado e cuidadoso.",
-              "explanation": "Ìwà (caráter) + pẹ̀lẹ́ (suave, sereno): o caráter gentil e equilibrado. É apontado nos ensinamentos de Ifá como a qualidade que sustenta todas as outras.",
+              "explanation": "Ìwà (caráter) + pẹ̀lẹ́ (suave, sereno): o caráter gentil e equilibrado. É o grande ideal ético de Ifá.\n\nOs ensinamentos dizem que um bom Orí sem bom caráter não se realiza: o destino precisa do caráter para florescer. A história de Ọ̀rúnmìlà e Ìwà mostra o que acontece quando o caráter é maltratado.\n\nUm provérbio resume: Ìwà lẹwà — o caráter é a beleza.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ìwà lẹwà",
+                  "portuguese": "O caráter é a beleza",
+                  "pronunciation": "I-ua lé-ua",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ó ní ìwà pẹ̀lẹ́",
+                  "portuguese": "Ele(a) tem bom caráter",
+                  "pronunciation": "Ô ni i-ua pé-lé",
+                  "note": ""
+                }
+              ],
               "context": "Orí e Ìwà (destino interior e caráter) são dois eixos da ética de Ifá. Este tema reúne as virtudes ligadas a eles.",
               "variations": [],
               "related": [
@@ -10082,6 +10321,15 @@
               },
               "tags": [
                 "iwa pele"
+              ],
+              "itan": [
+                {
+                  "id": "itan-iwa",
+                  "titulo": "Ọ̀rúnmìlà e Ìwà",
+                  "texto": "Ọ̀rúnmìlà casou-se com Ìwà, uma mulher de beleza e qualidades raras — em várias versões, filha de Sùúrù, a Paciência. Ìwà tinha seus próprios modos, e com o tempo Ọ̀rúnmìlà perdeu a paciência com ela e a tratou mal. Ìwà foi embora.\n\nDepois da partida dela, tudo começou a dar errado: a fortuna de Ọ̀rúnmìlà se desfez, o respeito das pessoas sumiu. Ele saiu à procura de Ìwà, cantando e perguntando por ela por toda parte. Quando finalmente a encontrou, ela não quis voltar, mas lhe ensinou que, se ele cuidasse do próprio caráter, ela estaria sempre com ele.",
+                  "licao": "Riqueza, prestígio e até um bom Orí não se sustentam sem bom caráter. Ìwà (caráter) e Sùúrù (paciência) andam juntas.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -10091,7 +10339,7 @@
               "yoruba": "Ìwà Pẹ̀lẹ́",
               "pronunciation": "I-ua Pé-lé",
               "summary": "caráter sereno, equilibrado e cuidadoso",
-              "explanation": "Caráter sereno e gentil, ideal ético central nos ensinamentos de Ifá.",
+              "explanation": "O caráter sereno e gentil — o ideal ético de Ifá. Veja o verbete Ìwà Pẹ̀lẹ́ e a história de Ọ̀rúnmìlà e Ìwà.",
               "uses": [],
               "phrases": [],
               "context": "Orí e Ìwà (destino interior e caráter) são dois eixos da ética de Ifá. Este tema reúne as virtudes ligadas a eles.",
@@ -10126,7 +10374,7 @@
               "yoruba": "Àṣàyàn",
               "pronunciation": "A-cha-ian",
               "summary": "seleção, decisão ou escolha consciente",
-              "explanation": "Escolha, seleção. Liga-se à ideia de que o destino envolve uma escolha (àkúnlẹ̀yàn).",
+              "explanation": "Àṣàyàn é escolha, seleção. Liga-se à escolha do destino antes de nascer (àkúnlẹ̀yàn) e às escolhas de cada dia, que dão continuidade a ela.",
               "uses": [],
               "phrases": [],
               "context": "Orí e Ìwà (destino interior e caráter) são dois eixos da ética de Ifá. Este tema reúne as virtudes ligadas a eles.",
@@ -10162,9 +10410,22 @@
               "yoruba": "Sùúrù",
               "pronunciation": "Su-u-ru",
               "summary": "virtude de esperar, perseverar e agir com equilíbrio",
-              "explanation": "Paciência, muito valorizada nos ensinamentos e provérbios.",
+              "explanation": "Sùúrù é paciência. Diz-se Sùúrù baba ìwà: a paciência é o pai do caráter. Em várias versões, Ìwà é filha de Sùúrù.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Sùúrù baba ìwà",
+                  "portuguese": "A paciência é o pai do caráter",
+                  "pronunciation": "Su-u-ru ba-ba i-ua",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ẹ ní sùúrù",
+                  "portuguese": "Tenham paciência",
+                  "pronunciation": "É ni su-u-ru",
+                  "note": ""
+                }
+              ],
               "context": "Orí e Ìwà (destino interior e caráter) são dois eixos da ética de Ifá. Este tema reúne as virtudes ligadas a eles.",
               "variations": [],
               "related": [
@@ -10189,6 +10450,15 @@
               "tags": [
                 "suru",
                 "suuru"
+              ],
+              "itan": [
+                {
+                  "id": "itan-iwa",
+                  "titulo": "Ọ̀rúnmìlà e Ìwà",
+                  "texto": "Ọ̀rúnmìlà casou-se com Ìwà, uma mulher de beleza e qualidades raras — em várias versões, filha de Sùúrù, a Paciência. Ìwà tinha seus próprios modos, e com o tempo Ọ̀rúnmìlà perdeu a paciência com ela e a tratou mal. Ìwà foi embora.\n\nDepois da partida dela, tudo começou a dar errado: a fortuna de Ọ̀rúnmìlà se desfez, o respeito das pessoas sumiu. Ele saiu à procura de Ìwà, cantando e perguntando por ela por toda parte. Quando finalmente a encontrou, ela não quis voltar, mas lhe ensinou que, se ele cuidasse do próprio caráter, ela estaria sempre com ele.",
+                  "licao": "Riqueza, prestígio e até um bom Orí não se sustentam sem bom caráter. Ìwà (caráter) e Sùúrù (paciência) andam juntas.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -10198,9 +10468,16 @@
               "yoruba": "Òtítọ́",
               "pronunciation": "Ô-ti-tó",
               "summary": "retidão, verdade e coerência na conduta",
-              "explanation": "Verdade, honestidade, retidão.",
+              "explanation": "Òtítọ́ é verdade, honestidade. Na consulta, a verdade de quem pergunta é tão importante quanto a de quem responde.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Òtítọ́ ni",
+                  "portuguese": "É verdade",
+                  "pronunciation": "Ô-ti-tó ni",
+                  "note": ""
+                }
+              ],
               "context": "Orí e Ìwà (destino interior e caráter) são dois eixos da ética de Ifá. Este tema reúne as virtudes ligadas a eles.",
               "variations": [],
               "related": [
@@ -10241,7 +10518,7 @@
               "yoruba": "Àṣẹ",
               "pronunciation": "A-ché",
               "summary": "força realizadora; autorização ou potência de fazer acontecer",
-              "explanation": "Àṣẹ pode indicar poder realizador, autoridade, palavra eficaz ou força de realização; o sentido depende do contexto.",
+              "explanation": "Àṣẹ é a força que faz as coisas acontecerem. É poder, autoridade, permissão e a palavra eficaz — a palavra dita que se cumpre.\n\nNo dia a dia, Àṣẹ é também a resposta a uma oração ou bênção: “que assim seja”. E fala-se de àṣẹ como a autoridade de uma casa ou de um sacerdote para realizar algo.\n\nNo Brasil, “axé” virou palavra de uso amplo, mas o sentido original é preciso: força realizadora que vem de Olódùmarè.",
               "uses": [
                 "Não usar Àṣẹ como explicação genérica para qualquer fenômeno."
               ],
@@ -10250,6 +10527,12 @@
                   "yoruba": "Àṣẹ o!",
                   "portuguese": "Que assim seja!",
                   "pronunciation": "A-ché ô!",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Àṣẹ Olódùmarè",
+                  "portuguese": "Pelo àṣẹ de Olódùmarè",
+                  "pronunciation": "A-ché Ô-lô-du-ma-rê",
                   "note": ""
                 }
               ],
@@ -10289,9 +10572,16 @@
               "yoruba": "Ọ̀rọ̀",
               "pronunciation": "Ó-ró",
               "summary": "fala, assunto e expressão; a palavra tem responsabilidade",
-              "explanation": "Palavra, fala, assunto. Na tradição, a palavra dita tem peso e consequência.",
+              "explanation": "Ọ̀rọ̀ é palavra, fala, assunto. Na tradição, a palavra tem peso: a palavra dita com àṣẹ se cumpre. Por isso se fala com cuidado.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ọ̀rọ̀ yìí ṣe pàtàkì",
+                  "portuguese": "Este assunto é importante",
+                  "pronunciation": "Ó-ró i-i chê pa-ta-ki",
+                  "note": ""
+                }
+              ],
               "context": "Àṣẹ é força realizadora. Este tema reúne palavras ligadas à palavra, à bênção e à vida.",
               "variations": [],
               "related": [
@@ -10324,9 +10614,16 @@
               "yoruba": "Ìbùkún",
               "pronunciation": "I-bu-kun",
               "summary": "desejo ou transmissão de prosperidade e proteção",
-              "explanation": "Bênção. Súre = abençoar.",
+              "explanation": "Ìbùkún é bênção. Súre = abençoar. Pede-se a bênção aos mais velhos: Ẹ súre fún mi.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ súre fún mi",
+                  "portuguese": "Abençoe-me",
+                  "pronunciation": "É su-rê fun mi",
+                  "note": ""
+                }
+              ],
               "context": "Àṣẹ é força realizadora. Este tema reúne palavras ligadas à palavra, à bênção e à vida.",
               "variations": [],
               "related": [
@@ -10360,7 +10657,7 @@
               "yoruba": "Ìyè",
               "pronunciation": "I-iê",
               "summary": "vida, vitalidade e continuidade",
-              "explanation": "Vida, vitalidade.",
+              "explanation": "Ìyè é vida, vitalidade. Àìkú (não morrer cedo) e ìyè andam juntos nos pedidos por vida longa.",
               "uses": [],
               "phrases": [],
               "context": "Àṣẹ é força realizadora. Este tema reúne palavras ligadas à palavra, à bênção e à vida.",
@@ -10395,9 +10692,16 @@
               "yoruba": "Agbára",
               "pronunciation": "A-gba-ra",
               "summary": "capacidade, poder ou vigor",
-              "explanation": "Força, poder, capacidade.",
+              "explanation": "Agbára é força, poder, capacidade.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ó ní agbára",
+                  "portuguese": "Ele(a) tem força",
+                  "pronunciation": "Ô ni a-gba-ra",
+                  "note": ""
+                }
+              ],
               "context": "Àṣẹ é força realizadora. Este tema reúne palavras ligadas à palavra, à bênção e à vida.",
               "variations": [],
               "related": [
@@ -10430,9 +10734,16 @@
               "yoruba": "Ojúṣe",
               "pronunciation": "Ô-dju-chê",
               "summary": "dever e compromisso com o que se faz",
-              "explanation": "Dever, responsabilidade: aquilo que cabe a cada um fazer.",
+              "explanation": "Ojúṣe é dever, responsabilidade: aquilo que cabe a cada um fazer.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ojúṣe mi ni",
+                  "portuguese": "É minha responsabilidade",
+                  "pronunciation": "Ô-dju-chê mi ni",
+                  "note": ""
+                }
+              ],
               "context": "Àṣẹ é força realizadora. Este tema reúne palavras ligadas à palavra, à bênção e à vida.",
               "variations": [],
               "related": [
@@ -10474,7 +10785,7 @@
               "yoruba": "Ẹbọ",
               "pronunciation": "É-bó",
               "summary": "oferenda ou ação ritual prescrita para uma finalidade específica",
-              "explanation": "Ẹbọ é uma oferenda ou ação prescrita em contexto religioso específico; não é receita universal.",
+              "explanation": "Ẹbọ é a oferenda — e, de modo mais amplo, a ação prescrita por Ifá para uma situação. É a resposta prática da consulta: depois de saber o que está acontecendo, faz-se o que foi indicado.\n\nNos versos, quem faz o ẹbọ prospera, e quem o ignora sofre as consequências. É Èṣù quem leva o ẹbọ e recebe sempre a sua parte.\n\nCada ẹbọ é indicado para uma pessoa e uma situação; não existe receita universal. Este site explica o conceito, mas não descreve como realizar nenhum ẹbọ.",
               "uses": [
                 "Estudar o conceito sem transformar a página em instrução de execução."
               ],
@@ -10510,6 +10821,15 @@
               "tags": [
                 "ebo",
                 "ebó"
+              ],
+              "itan": [
+                {
+                  "id": "itan-esu-ebo",
+                  "titulo": "Por que Èṣù recebe parte de todo ẹbọ",
+                  "texto": "Nos versos, quem consulta Ifá recebe uma orientação de ẹbọ. Os que fazem o ẹbọ e reservam a parte de Èṣù veem o caminho se abrir; os que ignoram a orientação ou esquecem Èṣù encontram o caminho fechado. Esse padrão se repete em inúmeras histórias.\n\nÈṣù é quem leva o ẹbọ ao ọ̀run e quem faz a ponte entre as pessoas, os Òrìṣà e Olódùmarè. Por isso ele é saudado primeiro e recebe a sua parte.",
+                  "licao": "Fazer o que foi orientado — e reconhecer o mensageiro — é parte da resposta.",
+                  "fonte": "Ensinamento recorrente nos versos de Ifá. Confirmar com o baba a prática da casa."
+                }
               ]
             },
             {
@@ -10519,7 +10839,7 @@
               "yoruba": "Ẹbọ",
               "pronunciation": "É-bó",
               "summary": "oferenda ritual indicada na consulta; ver Ẹbọ",
-              "explanation": "A oferenda indicada na consulta. O conteúdo e a forma de cada ẹbọ dependem da orientação recebida.",
+              "explanation": "A oferenda indicada na consulta. O conteúdo e a forma de cada ẹbọ dependem da orientação recebida para aquela pessoa e situação.",
               "uses": [],
               "phrases": [],
               "context": "Ẹbọ é a oferenda indicada na consulta. Este tema reúne o vocabulário de oferecer, corrigir e equilibrar. O site não descreve como realizar nenhum ẹbọ.",
@@ -10545,6 +10865,15 @@
               },
               "tags": [
                 "ebo"
+              ],
+              "itan": [
+                {
+                  "id": "itan-esu-ebo",
+                  "titulo": "Por que Èṣù recebe parte de todo ẹbọ",
+                  "texto": "Nos versos, quem consulta Ifá recebe uma orientação de ẹbọ. Os que fazem o ẹbọ e reservam a parte de Èṣù veem o caminho se abrir; os que ignoram a orientação ou esquecem Èṣù encontram o caminho fechado. Esse padrão se repete em inúmeras histórias.\n\nÈṣù é quem leva o ẹbọ ao ọ̀run e quem faz a ponte entre as pessoas, os Òrìṣà e Olódùmarè. Por isso ele é saudado primeiro e recebe a sua parte.",
+                  "licao": "Fazer o que foi orientado — e reconhecer o mensageiro — é parte da resposta.",
+                  "fonte": "Ensinamento recorrente nos versos de Ifá. Confirmar com o baba a prática da casa."
+                }
               ]
             },
             {
@@ -10554,9 +10883,16 @@
               "yoruba": "Ìrúbọ",
               "pronunciation": "I-ru-bó",
               "summary": "ato de oferecer; o sentido concreto depende da orientação ritual",
-              "explanation": "Ato de oferecer: rú (oferecer) + ẹbọ.",
+              "explanation": "Ìrúbọ é o ato de oferecer: rú (oferecer) + ẹbọ. Rú ẹbọ = fazer o ẹbọ.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "A rú ẹbọ",
+                  "portuguese": "Fizemos o ẹbọ",
+                  "pronunciation": "A ru é-bó",
+                  "note": ""
+                }
+              ],
               "context": "Ẹbọ é a oferenda indicada na consulta. Este tema reúne o vocabulário de oferecer, corrigir e equilibrar. O site não descreve como realizar nenhum ẹbọ.",
               "variations": [],
               "related": [
@@ -10580,6 +10916,15 @@
               },
               "tags": [
                 "irubo"
+              ],
+              "itan": [
+                {
+                  "id": "itan-esu-ebo",
+                  "titulo": "Por que Èṣù recebe parte de todo ẹbọ",
+                  "texto": "Nos versos, quem consulta Ifá recebe uma orientação de ẹbọ. Os que fazem o ẹbọ e reservam a parte de Èṣù veem o caminho se abrir; os que ignoram a orientação ou esquecem Èṣù encontram o caminho fechado. Esse padrão se repete em inúmeras histórias.\n\nÈṣù é quem leva o ẹbọ ao ọ̀run e quem faz a ponte entre as pessoas, os Òrìṣà e Olódùmarè. Por isso ele é saudado primeiro e recebe a sua parte.",
+                  "licao": "Fazer o que foi orientado — e reconhecer o mensageiro — é parte da resposta.",
+                  "fonte": "Ensinamento recorrente nos versos de Ifá. Confirmar com o baba a prática da casa."
+                }
               ]
             },
             {
@@ -10589,7 +10934,7 @@
               "yoruba": "Àtúnṣe",
               "pronunciation": "A-tun-chê",
               "summary": "reorganização, correção ou restauração",
-              "explanation": "Correção, reparo: tún (de novo) + ṣe (fazer) — “refazer”.",
+              "explanation": "Àtúnṣe é correção, reparo: tún (de novo) + ṣe (fazer). Muitas orientações de Ifá são de àtúnṣe: corrigir um caminho.",
               "uses": [],
               "phrases": [],
               "context": "Ẹbọ é a oferenda indicada na consulta. Este tema reúne o vocabulário de oferecer, corrigir e equilibrar. O site não descreve como realizar nenhum ẹbọ.",
@@ -10625,7 +10970,7 @@
               "yoruba": "Ìwọ̀ntúnwọ̀nsì",
               "pronunciation": "I-uón-tun-uón-si",
               "summary": "estado de ajuste entre forças, escolhas e circunstâncias",
-              "explanation": "Moderação, equilíbrio, a medida certa.",
+              "explanation": "Ìwọ̀ntúnwọ̀nsì é moderação, equilíbrio, a medida certa — nem de mais, nem de menos.",
               "uses": [],
               "phrases": [],
               "context": "Ẹbọ é a oferenda indicada na consulta. Este tema reúne o vocabulário de oferecer, corrigir e equilibrar. O site não descreve como realizar nenhum ẹbọ.",
@@ -10660,9 +11005,16 @@
               "yoruba": "Ìdáfá",
               "pronunciation": "I-da-fa",
               "summary": "processo de buscar orientação; a prática varia entre linhagens",
-              "explanation": "O ato de consultar Ifá (de dá Ifá, “lançar Ifá”) para buscar orientação.",
+              "explanation": "Ìdáfá é o ato de consultar Ifá — de dá Ifá, “lançar Ifá”. É a consulta feita pelo babaláwo com ikin ou ọ̀pẹ̀lẹ̀.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Mo lọ dá Ifá",
+                  "portuguese": "Fui consultar Ifá",
+                  "pronunciation": "Mô ló da I-fa",
+                  "note": ""
+                }
+              ],
               "context": "Ẹbọ é a oferenda indicada na consulta. Este tema reúne o vocabulário de oferecer, corrigir e equilibrar. O site não descreve como realizar nenhum ẹbọ.",
               "variations": [],
               "related": [
@@ -10703,7 +11055,7 @@
               "yoruba": "Ìbà",
               "pronunciation": "I-ba",
               "summary": "Expressão de respeito, saudação ou reverência.",
-              "explanation": "Ìbà é saudação, reverência ou reconhecimento respeitoso, dependendo da situação.",
+              "explanation": "Ìbà é a reverência, a homenagem. Antes de rezar, recitar ou falar em contexto religioso, começa-se com Ìbà: saudando Olódùmarè, os ancestrais, os mais velhos, o próprio Orí e as divindades.\n\nÉ o gesto de reconhecer quem veio antes e pedir licença para falar. Mo júbà (eu presto homenagem) vem da mesma ideia.",
               "uses": [
                 "Distinguir cumprimentar, honrar e realizar uma saudação ritual."
               ],
@@ -10712,6 +11064,18 @@
                   "yoruba": "Mo júbà Ọ̀rúnmìlà",
                   "portuguese": "Presto homenagem a Ọ̀rúnmìlà",
                   "pronunciation": "Mô dju-ba Ó-run-mi-la",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ìbà Olódùmarè",
+                  "portuguese": "Reverência a Olódùmarè",
+                  "pronunciation": "I-ba Ô-lô-du-ma-rê",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Mo júbà",
+                  "portuguese": "Presto homenagem",
+                  "pronunciation": "Mô dju-ba",
                   "note": ""
                 }
               ],
@@ -10747,7 +11111,7 @@
               "yoruba": "Èṣù",
               "pronunciation": "Ê-chu",
               "summary": "orixá ligado à comunicação, às encruzilhadas, ao movimento e à mediação",
-              "explanation": "Èṣù ocupa lugar central em muitas tradições Yorùbá e de Òrìṣà, associado a comunicação, movimento, escolha e mediação em diferentes contextos.",
+              "explanation": "Èṣù é o mensageiro: leva as mensagens e as oferendas entre as pessoas, os Òrìṣà e Olódùmarè. Sem ele, nada chega ao destino — por isso é saudado primeiro e recebe parte de todo ẹbọ.\n\nÉ também o senhor dos caminhos e das encruzilhadas (oríta), da comunicação e do movimento. Testa as pessoas, revela o que estava escondido e cobra o que foi esquecido.\n\nNo Brasil, foi por muito tempo confundido com o diabo cristão — uma leitura que a tradição rejeita. Èṣù não é o mal: é o princípio que faz as coisas circularem.",
               "uses": [
                 "Estudar o termo sem caricaturas demonizantes ou mistura de sistemas distintos."
               ],
@@ -10757,10 +11121,18 @@
                   "portuguese": "Èṣù, abra o caminho para mim",
                   "pronunciation": "Ê-chu, la ó-na fun mi",
                   "note": ""
+                },
+                {
+                  "yoruba": "Láróyè!",
+                  "portuguese": "Saudação a Èṣù",
+                  "pronunciation": "La-rô-iê!",
+                  "note": ""
                 }
               ],
               "context": "Èṣù leva as mensagens e as oferendas; por isso está presente em todo ẹbọ. No Brasil foi muitas vezes confundido com o diabo cristão — leitura que a tradição rejeita.",
-              "variations": [],
+              "variations": [
+                "No Brasil: Exu. Saudação: Laroyê."
+              ],
               "related": [
                 "iba",
                 "ifa1-03-odu-4"
@@ -10784,6 +11156,22 @@
                 "eshu",
                 "esu",
                 "exu"
+              ],
+              "itan": [
+                {
+                  "id": "itan-esu-fila",
+                  "titulo": "O chapéu de duas cores de Èṣù",
+                  "texto": "Dois amigos inseparáveis tinham roças vizinhas, separadas por um caminho. Todos os dias trabalhavam lado a lado e diziam que nada no mundo os faria brigar — e se esqueciam de reconhecer Èṣù.\n\nUm dia, Èṣù passou pelo caminho entre os dois usando um chapéu vermelho de um lado e branco do outro. Depois que ele passou, um amigo comentou o homem de chapéu vermelho; o outro jurou que o chapéu era branco. Cada um tinha visto um lado só. A discussão virou briga, e a briga quase acabou com a amizade, até que Èṣù voltou e mostrou o chapéu inteiro.",
+                  "licao": "Cada um vê a sua parte da verdade. E quem esquece de reconhecer Èṣù, o senhor dos caminhos e da comunicação, descobre como uma palavra mal-entendida pode virar conflito.",
+                  "fonte": "Narrativa tradicional Yorùbá muito difundida, contada em várias versões (a cor dos lados varia). Confirmar com o baba a versão da casa."
+                },
+                {
+                  "id": "itan-esu-ebo",
+                  "titulo": "Por que Èṣù recebe parte de todo ẹbọ",
+                  "texto": "Nos versos, quem consulta Ifá recebe uma orientação de ẹbọ. Os que fazem o ẹbọ e reservam a parte de Èṣù veem o caminho se abrir; os que ignoram a orientação ou esquecem Èṣù encontram o caminho fechado. Esse padrão se repete em inúmeras histórias.\n\nÈṣù é quem leva o ẹbọ ao ọ̀run e quem faz a ponte entre as pessoas, os Òrìṣà e Olódùmarè. Por isso ele é saudado primeiro e recebe a sua parte.",
+                  "licao": "Fazer o que foi orientado — e reconhecer o mensageiro — é parte da resposta.",
+                  "fonte": "Ensinamento recorrente nos versos de Ifá. Confirmar com o baba a prática da casa."
+                }
               ]
             },
             {
@@ -10793,7 +11181,7 @@
               "yoruba": "Ìbà",
               "pronunciation": "I-ba",
               "summary": "expressão de respeito a uma divindade, ancestral ou autoridade",
-              "explanation": "Reverência, homenagem. Rezas e recitações costumam começar com Ìbà, saudando ancestrais e divindades.",
+              "explanation": "Ìbà é reverência, homenagem. Rezas e recitações começam com Ìbà, saudando quem veio antes.",
               "uses": [],
               "phrases": [],
               "context": "Ìbà (reverência) e Èṣù (o mensageiro) abrem e conduzem a comunicação. Este tema reúne termos de saudação, encontro e comunicação.",
@@ -10828,7 +11216,7 @@
               "yoruba": "Oríta",
               "pronunciation": "Ô-ri-ta",
               "summary": "imagem de escolha e encontro de caminhos; o uso pode variar",
-              "explanation": "Encruzilhada, encontro de caminhos (oríta mẹ́ta = encruzilhada de três caminhos), lugar simbolicamente associado a Èṣù.",
+              "explanation": "Oríta é a encruzilhada, o encontro de caminhos. Oríta mẹ́ta é a encruzilhada de três caminhos.\n\nLugar de escolha e de passagem, é simbolicamente associado a Èṣù.",
               "uses": [],
               "phrases": [],
               "context": "Ìbà (reverência) e Èṣù (o mensageiro) abrem e conduzem a comunicação. Este tema reúne termos de saudação, encontro e comunicação.",
@@ -10863,7 +11251,7 @@
               "yoruba": "Ìbánisọ̀rọ̀",
               "pronunciation": "I-ba-ni-só-ró",
               "summary": "troca de mensagens e compreensão entre pessoas e dimensões",
-              "explanation": "Comunicação, conversa entre as partes.",
+              "explanation": "Ìbánisọ̀rọ̀ é comunicação, conversa entre as partes. Èṣù é o senhor da comunicação — e da confusão quando ela falha, como mostra a história do chapéu de duas cores.",
               "uses": [],
               "phrases": [],
               "context": "Ìbà (reverência) e Èṣù (o mensageiro) abrem e conduzem a comunicação. Este tema reúne termos de saudação, encontro e comunicação.",
@@ -10889,6 +11277,15 @@
               },
               "tags": [
                 "ibanisoro"
+              ],
+              "itan": [
+                {
+                  "id": "itan-esu-fila",
+                  "titulo": "O chapéu de duas cores de Èṣù",
+                  "texto": "Dois amigos inseparáveis tinham roças vizinhas, separadas por um caminho. Todos os dias trabalhavam lado a lado e diziam que nada no mundo os faria brigar — e se esqueciam de reconhecer Èṣù.\n\nUm dia, Èṣù passou pelo caminho entre os dois usando um chapéu vermelho de um lado e branco do outro. Depois que ele passou, um amigo comentou o homem de chapéu vermelho; o outro jurou que o chapéu era branco. Cada um tinha visto um lado só. A discussão virou briga, e a briga quase acabou com a amizade, até que Èṣù voltou e mostrou o chapéu inteiro.",
+                  "licao": "Cada um vê a sua parte da verdade. E quem esquece de reconhecer Èṣù, o senhor dos caminhos e da comunicação, descobre como uma palavra mal-entendida pode virar conflito.",
+                  "fonte": "Narrativa tradicional Yorùbá muito difundida, contada em várias versões (a cor dos lados varia). Confirmar com o baba a versão da casa."
+                }
               ]
             },
             {
@@ -10898,7 +11295,7 @@
               "yoruba": "Ìṣípayá",
               "pronunciation": "I-chi-pa-ia",
               "summary": "revelação, abertura ou manifestação de algo oculto",
-              "explanation": "Revelação, desvelamento; ṣí = abrir.",
+              "explanation": "Ìṣípayá é revelação, desvelamento; ṣí = abrir. O que estava oculto se mostra.",
               "uses": [],
               "phrases": [],
               "context": "Ìbà (reverência) e Èṣù (o mensageiro) abrem e conduzem a comunicação. Este tema reúne termos de saudação, encontro e comunicação.",
@@ -10942,9 +11339,16 @@
               "yoruba": "Àyé",
               "pronunciation": "A-iê",
               "summary": "mundo da experiência vivida e das relações",
-              "explanation": "O mundo da vida, onde vivemos. Faz par com ọ̀run.",
+              "explanation": "Àyé é o mundo da vida, onde vivemos. Também significa “a humanidade, as pessoas”: àyé ń wò = o mundo está olhando.\n\nUm ditado diz: Ayé lọjà, ọ̀run nilé — o mundo é um mercado, o ọ̀run é o lar.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ayé lọjà, ọ̀run nilé",
+                  "portuguese": "O mundo é um mercado, o ọ̀run é o lar",
+                  "pronunciation": "A-iê ló-dja, ó-run ni-lê",
+                  "note": ""
+                }
+              ],
               "context": "Àyé (o mundo vivido) e Ọ̀run (o domínio espiritual) formam o par básico da visão de mundo Yorùbá. Este tema trata de vida, morte e ancestralidade.",
               "variations": [],
               "related": [
@@ -10977,7 +11381,7 @@
               "yoruba": "Ọ̀run",
               "pronunciation": "Ó-run",
               "summary": "domínio espiritual; não equivale simplesmente a “céu”",
-              "explanation": "O domínio espiritual; não equivale ao 'céu' cristão. Um ditado diz que o mundo é um mercado e o ọ̀run é o lar (ayé lọjà, ọ̀run nilé).",
+              "explanation": "Ọ̀run é o domínio espiritual, de onde viemos e para onde voltamos. Não equivale ao céu cristão: é a morada de Olódùmarè, das divindades e dos ancestrais.\n\nNo ditado Ayé lọjà, ọ̀run nilé, a vida na terra é uma ida ao mercado, e o ọ̀run é a casa para onde se volta.",
               "uses": [],
               "phrases": [],
               "context": "Àyé (o mundo vivido) e Ọ̀run (o domínio espiritual) formam o par básico da visão de mundo Yorùbá. Este tema trata de vida, morte e ancestralidade.",
@@ -11014,9 +11418,16 @@
               "yoruba": "Àgbà",
               "pronunciation": "A-gba",
               "summary": "pessoa mais velha ou figura de autoridade; pode ter sentido ancestral",
-              "explanation": "Mais velho, ancião. A senioridade organiza o respeito na sociedade Yorùbá.",
+              "explanation": "Àgbà é o mais velho, o ancião. A senioridade organiza o respeito na sociedade Yorùbá. Um provérbio: Àgbà kì í wà lọ́jà kí orí ọmọ títún wọ́ — onde há um mais velho no mercado, a criança não carrega a carga torta.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ bọ̀wọ̀ fún àgbà",
+                  "portuguese": "Respeitem os mais velhos",
+                  "pronunciation": "É bó-uó fun a-gba",
+                  "note": ""
+                }
+              ],
               "context": "Àyé (o mundo vivido) e Ọ̀run (o domínio espiritual) formam o par básico da visão de mundo Yorùbá. Este tema trata de vida, morte e ancestralidade.",
               "variations": [],
               "related": [
@@ -11049,7 +11460,7 @@
               "yoruba": "Ìran àwọn baba ńlá",
               "pronunciation": "I-ran a-uón ba-ba n-la",
               "summary": "memória e continuidade dos antepassados; expressão explicativa",
-              "explanation": "Linhagem dos antepassados; expressão explicativa.",
+              "explanation": "A linhagem dos antepassados, que continua viva na família. Os ancestrais são lembrados, saudados e consultados.",
               "uses": [],
               "phrases": [],
               "context": "Àyé (o mundo vivido) e Ọ̀run (o domínio espiritual) formam o par básico da visão de mundo Yorùbá. Este tema trata de vida, morte e ancestralidade.",
@@ -11084,7 +11495,7 @@
               "yoruba": "Ìbí",
               "pronunciation": "I-bi",
               "summary": "nascimento e entrada na experiência da vida",
-              "explanation": "Nascimento; bí = dar à luz.",
+              "explanation": "Ìbí é o nascimento; bí = dar à luz. Na tradição, o nascimento é a chegada ao àyé de alguém que fez sua escolha no ọ̀run.",
               "uses": [],
               "phrases": [],
               "context": "Àyé (o mundo vivido) e Ọ̀run (o domínio espiritual) formam o par básico da visão de mundo Yorùbá. Este tema trata de vida, morte e ancestralidade.",
@@ -11119,12 +11530,28 @@
               "yoruba": "Ikú",
               "pronunciation": "I-ku",
               "summary": "morte; tema tratado com respeito e dentro de cada tradição",
-              "explanation": "Morte. Nas narrativas de Ifá, Ikú também aparece como personagem.",
+              "explanation": "Ikú é a morte. Em Ifá, é a primeira dos ajogun, as forças contra o ser humano. A tradição não promete vencê-la para sempre: busca-se afastar a morte antes do tempo (ikú àìtọ́jọ́) e chegar à velhice.\n\nNas narrativas, Ikú aparece como personagem — que pode ser afastado com ẹbọ, levado por Èṣù. Veja também Ibi ikú e Ajogun.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ikú kò ní pa wá o",
+                  "portuguese": "Que a morte não nos leve",
+                  "pronunciation": "I-ku kô ni pa ua ô",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ẹ ó gbó, ẹ ó tọ́",
+                  "portuguese": "Que vocês envelheçam com saúde",
+                  "pronunciation": "É ô gbô, é ô tó",
+                  "note": ""
+                }
+              ],
               "context": "Àyé (o mundo vivido) e Ọ̀run (o domínio espiritual) formam o par básico da visão de mundo Yorùbá. Este tema trata de vida, morte e ancestralidade.",
               "variations": [],
               "related": [
+                "ire-10",
+                "ire-14",
+                "ire-2",
                 "ifa1-09-aye-orun-1",
                 "ifa1-09-aye-orun-2",
                 "ifa1-09-aye-orun-3",
@@ -11162,9 +11589,16 @@
               "yoruba": "Béèrè",
               "pronunciation": "Bê-ê-rê",
               "summary": "buscar compreensão com humildade",
-              "explanation": "Perguntar. Ìbéèrè = pergunta.",
+              "explanation": "Béèrè é perguntar. Ìbéèrè é a pergunta. Perguntar bem é o começo de uma boa consulta.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Mo fẹ́ béèrè nǹkan kan",
+                  "portuguese": "Quero perguntar uma coisa",
+                  "pronunciation": "Mô fé bê-ê-rê n-n-kan kan",
+                  "note": ""
+                }
+              ],
               "context": "Este tema reúne as atitudes de quem estuda e consulta: perguntar, ouvir, praticar, discernir e respeitar.",
               "variations": [],
               "related": [
@@ -11198,9 +11632,22 @@
               "yoruba": "Gbọ́",
               "pronunciation": "Gbó",
               "summary": "escutar e acolher o ensinamento",
-              "explanation": "Ouvir; conforme o contexto, também entender e obedecer.",
+              "explanation": "Gbọ́ é ouvir — e também entender, e às vezes obedecer. “Ṣé o gbọ́?” = entendeu?",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ṣé ẹ gbọ́?",
+                  "portuguese": "Entenderam?",
+                  "pronunciation": "Chê é gbó?",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Mo gbọ́",
+                  "portuguese": "Entendi",
+                  "pronunciation": "Mô gbó",
+                  "note": ""
+                }
+              ],
               "context": "Este tema reúne as atitudes de quem estuda e consulta: perguntar, ouvir, praticar, discernir e respeitar.",
               "variations": [],
               "related": [
@@ -11233,9 +11680,16 @@
               "yoruba": "Ṣe",
               "pronunciation": "Chê",
               "summary": "colocar em ação; conhecimento pede conduta",
-              "explanation": "Fazer; um dos verbos mais usados do Yorùbá.",
+              "explanation": "Ṣe é fazer — um dos verbos mais usados do Yorùbá. Conhecimento de Ifá pede prática: ouvir, entender e fazer.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ ṣe é",
+                  "portuguese": "Façam isso",
+                  "pronunciation": "É chê ê",
+                  "note": ""
+                }
+              ],
               "context": "Este tema reúne as atitudes de quem estuda e consulta: perguntar, ouvir, praticar, discernir e respeitar.",
               "variations": [],
               "related": [
@@ -11269,9 +11723,16 @@
               "yoruba": "Òye",
               "pronunciation": "Ô-iê",
               "summary": "compreensão e capacidade de distinguir",
-              "explanation": "Compreensão, discernimento.",
+              "explanation": "Òye é a compreensão profunda, o discernimento. Faz trio com ìmọ̀ (conhecimento) e ọgbọ́n (sabedoria).",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ó yé mi",
+                  "portuguese": "Eu entendi",
+                  "pronunciation": "Ô iê mi",
+                  "note": ""
+                }
+              ],
               "context": "Este tema reúne as atitudes de quem estuda e consulta: perguntar, ouvir, praticar, discernir e respeitar.",
               "variations": [],
               "related": [
@@ -11304,7 +11765,7 @@
               "yoruba": "Ìrẹ̀lẹ̀",
               "pronunciation": "I-ré-lé",
               "summary": "reconhecer limites e permanecer aberto ao aprendizado",
-              "explanation": "Humildade.",
+              "explanation": "Ìrẹ̀lẹ̀ é a humildade: reconhecer limites e continuar aprendendo.",
               "uses": [],
               "phrases": [],
               "context": "Este tema reúne as atitudes de quem estuda e consulta: perguntar, ouvir, praticar, discernir e respeitar.",
@@ -11339,7 +11800,7 @@
               "yoruba": "Ìbọ̀wọ̀ fún ìran",
               "pronunciation": "I-bó-uó fun i-ran",
               "summary": "valorizar casa, família, idioma e orientação recebida",
-              "explanation": "Respeito à linhagem; expressão explicativa, não termo fixo.",
+              "explanation": "Respeito à linhagem: honrar a casa, os mestres e de onde vem o ensinamento. É uma expressão explicativa, não um termo fixo.",
               "uses": [],
               "phrases": [],
               "context": "Este tema reúne as atitudes de quem estuda e consulta: perguntar, ouvir, praticar, discernir e respeitar.",
@@ -12603,6 +13064,15 @@
               },
               "tags": [
                 "iba ori mi"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ori-mar",
+                  "titulo": "Quem pode seguir alguém além do mar?",
+                  "texto": "Conta-se que Ọ̀rúnmìlà perguntou a seus seguidores — divindades e pessoas — quem seria capaz de acompanhá-lo numa viagem para além do grande mar, de onde ninguém volta. Um a um, todos deram desculpas: tinham compromissos, tinham medo, não podiam.\n\nSó um respondeu que iria até o fim com ele: o Orí. Porque o Orí é o único que acompanha cada pessoa em toda a sua jornada, até depois da morte.",
+                  "licao": "Nenhuma divindade apoia alguém sem o consentimento do seu Orí. Por isso se saúda e se cuida do Orí antes de tudo.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -12683,9 +13153,22 @@
               "yoruba": "Ire",
               "pronunciation": "I-rê",
               "summary": "bem, boa sorte, bênção",
-              "explanation": "Tudo o que é bom e vem para a pessoa. É o contrário de ibi. Cada tipo de ire tem um nome próprio: ire àìkú, ire ìlera, ire ajé…",
+              "explanation": "Ire é tudo o que é bom e chega para a pessoa: sorte, saúde, prosperidade, filhos, paz, vida longa. É o contrário de ibi.\n\nNa consulta ao obì, quando a resposta é positiva, pergunta-se qual ire está vindo. E Ire o! é também um voto: “bênçãos!”.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ire o!",
+                  "portuguese": "Bênçãos!",
+                  "pronunciation": "I-rê ô!",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ire wo ni?",
+                  "portuguese": "Qual ire é?",
+                  "pronunciation": "I-rê uô ni?",
+                  "note": ""
+                }
+              ],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
               "variations": [],
               "related": [
@@ -12725,9 +13208,16 @@
               "yoruba": "Ire àìkú",
               "pronunciation": "I-rê a-i-ku",
               "summary": "o bem da vida longa",
-              "explanation": "Àìkú = não morrer (cedo), vida longa.",
+              "explanation": "Àìkú = não morrer (cedo). O bem da vida longa — chegar à velhice com saúde. É dos pedidos mais importantes, ligado a afastar ikú àìtọ́jọ́, a morte antes do tempo.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ire àìkú",
+                  "portuguese": "O bem da vida longa",
+                  "pronunciation": "I-rê a-i-ku",
+                  "note": ""
+                }
+              ],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
               "variations": [],
               "related": [
@@ -12766,9 +13256,16 @@
               "yoruba": "Ire ìlera",
               "pronunciation": "I-rê i-lê-ra",
               "summary": "o bem da saúde",
-              "explanation": "Ìlera = saúde.",
+              "explanation": "Ìlera = saúde. O bem da saúde do corpo e da mente.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ìlera ni ọrọ̀",
+                  "portuguese": "Saúde é riqueza",
+                  "pronunciation": "I-lê-ra ni ó-ró",
+                  "note": ""
+                }
+              ],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
               "variations": [],
               "related": [
@@ -12808,7 +13305,7 @@
               "yoruba": "Ire ajé",
               "pronunciation": "I-rê a-djê",
               "summary": "o bem da prosperidade",
-              "explanation": "Ajé = prosperidade, riqueza; também nome da divindade da riqueza.",
+              "explanation": "Ajé = prosperidade, riqueza. Ajé também é o nome da divindade da riqueza. A prosperidade em Ifá é ampla: inclui sustento, trabalho e fartura.",
               "uses": [],
               "phrases": [],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
@@ -12850,7 +13347,7 @@
               "yoruba": "Ire ọmọ",
               "pronunciation": "I-rê ó-mó",
               "summary": "o bem dos filhos",
-              "explanation": "Ọmọ = filho(a).",
+              "explanation": "Ọmọ = filho(a). O bem dos filhos — ter filhos e que eles estejam bem. Um ditado: Ọmọ lẹ̀ṣọ́ ayé, os filhos são o ornamento da vida.",
               "uses": [],
               "phrases": [],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
@@ -12892,7 +13389,7 @@
               "yoruba": "Ire owó",
               "pronunciation": "I-rê ô-uô",
               "summary": "o bem do dinheiro",
-              "explanation": "Owó = dinheiro. Atenção: ọwọ́ (com tons altos e ọ) é mão.",
+              "explanation": "Owó = dinheiro. Atenção: ọwọ́ (com ọ e tons altos) é mão.",
               "uses": [],
               "phrases": [],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
@@ -12934,7 +13431,7 @@
               "yoruba": "Ire ìṣẹ́gun",
               "pronunciation": "I-rê i-ché-gun",
               "summary": "o bem da vitória (sobre inimigos)",
-              "explanation": "Ìṣẹ́gun = vitória. Ìṣẹ́gun ọ̀tá = vitória sobre inimigos.",
+              "explanation": "Ìṣẹ́gun = vitória. Ìṣẹ́gun ọ̀tá: vitória sobre os inimigos e sobre os obstáculos.",
               "uses": [],
               "phrases": [],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
@@ -12979,7 +13476,7 @@
               "yoruba": "Ire aya",
               "pronunciation": "I-rê a-ia",
               "summary": "o bem de um bom casamento",
-              "explanation": "Aya = esposa; ọkọ = marido. Na apostila aparece como Ire Yawo (de ìyàwó, esposa).",
+              "explanation": "Aya = esposa; ọkọ = marido. O bem de um bom casamento e de uma boa relação.",
               "uses": [],
               "phrases": [],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
@@ -13023,7 +13520,7 @@
               "yoruba": "Ibi",
               "pronunciation": "I-bi",
               "summary": "o mal, o alerta — contrário de ire",
-              "explanation": "O que é ruim ou ameaça a pessoa. Na apostila da casa: o ibi não é sentença: é um alerta para ter mais atenção ao que está acontecendo.",
+              "explanation": "Ibi é o mal, o alerta — o contrário de ire. Na consulta ao obì, quando a resposta é negativa, pergunta-se qual ibi está rondando.\n\nIbi não é sentença: é aviso. Saber dele é a chance de agir — com cuidado, mudança de conduta e o que for orientado.",
               "uses": [],
               "phrases": [],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
@@ -13067,12 +13564,30 @@
               "yoruba": "Ibi ikú",
               "pronunciation": "I-bi i-ku",
               "summary": "alerta de morte precoce ou acidente",
-              "explanation": "Ikú = morte. Na tradição, Ikú é também uma das forças personificadas.",
+              "explanation": "Ibi ikú é o alerta de morte ou acidente. Em Ifá, não é condenação: é o aviso de que algo precisa ser feito. A tradição busca afastar ikú àìtọ́jọ́ — a morte antes do tempo — e esse alerta é justamente a oportunidade de fazê-lo.\n\nIkú é a primeira dos ajogun. Nas narrativas, aparece como personagem que pode ser afastado com ẹbọ, levado por Èṣù.",
               "uses": [],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ikú kò ní pa wá o",
+                  "portuguese": "Que a morte não nos leve",
+                  "pronunciation": "I-ku kô ni pa ua ô",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Àṣẹ o",
+                  "portuguese": "Que assim seja",
+                  "pronunciation": "A-ché ô",
+                  "note": ""
+                }
+              ],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
               "variations": [],
               "related": [
+                "ire-14",
+                "ire-2",
+                "esu",
+                "ebo",
+                "ifa1-09-aye-orun-6",
                 "ire-8",
                 "ire-9",
                 "ire-11",
@@ -13109,7 +13624,7 @@
               "yoruba": "Ibi àrùn",
               "pronunciation": "I-bi a-run",
               "summary": "alerta de doença",
-              "explanation": "Àrùn = doença.",
+              "explanation": "Àrùn = doença. Um dos ajogun. O alerta pede atenção à saúde.",
               "uses": [],
               "phrases": [],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
@@ -13152,7 +13667,7 @@
               "yoruba": "Ibi ẹ̀pè",
               "pronunciation": "I-bi é-pê",
               "summary": "alerta de praga, maldição",
-              "explanation": "Ẹ̀pè = praga, maldição. Na apostila da casa: praga familiar.",
+              "explanation": "Ẹ̀pè = praga, maldição — também um dos ajogun. Na apostila da casa: praga familiar.",
               "uses": [],
               "phrases": [],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
@@ -13194,7 +13709,7 @@
               "yoruba": "Ibi ọ̀tá",
               "pronunciation": "I-bi ó-ta",
               "summary": "alerta de inimigos",
-              "explanation": "Ọ̀tá = inimigo.",
+              "explanation": "Ọ̀tá = inimigo. O alerta de que há quem queira mal — ou de conflitos a evitar.",
               "uses": [],
               "phrases": [],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
@@ -13235,13 +13750,16 @@
               "yoruba": "Ajogun",
               "pronunciation": "A-djô-gun",
               "summary": "as forças que lutam contra o ser humano",
-              "explanation": "Os ajogun são, nos ensinamentos de Ifá, as forças negativas que ameaçam a vida: entre elas Ikú (morte) e Àrùn (doença). Na apostila da casa: aparece como Ibi ajogun.",
+              "explanation": "Os ajogun são as forças que lutam contra o ser humano. Na tradição, são oito: Ikú (morte), Àrùn (doença), Òfò (perda), Ẹ̀gbà (paralisia), Ọ̀ràn (grandes problemas), Èpè (maldição), Ẹ̀wọ̀n (prisão) e Èṣe (aflição).\n\nDo outro lado estão os ire. Boa parte dos versos de Ifá trata de como afastar os ajogun e atrair os ire — e o ẹbọ é a ferramenta para isso.",
               "uses": [],
               "phrases": [],
               "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
               "variations": [],
               "related": [
+                "ire-10",
+                "ire-11",
                 "ire-12",
+                "ire-1",
                 "ire-13"
               ],
               "exercises": [],
@@ -14732,6 +15250,15 @@
               },
               "tags": [
                 "akunleyan"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ori",
+                  "titulo": "A escolha do Orí: Afuwapé e seus amigos",
+                  "texto": "Três amigos — Afuwapé, Orísẹ̀kú e Orílẹ̀mọ̀ru — estavam no ọ̀run, prestes a vir ao mundo. Antes da viagem, cada um precisava escolher um Orí na casa de Àjàlá, o oleiro que molda as cabeças. Àjàlá era descuidado: muitas cabeças saíam rachadas ou mal cozidas.\n\nAfuwapé, antes de ir, consultou Ifá. Os babaláwo o orientaram a fazer ẹbọ, e ele fez. Os outros dois foram direto, sem consultar ninguém.\n\nNa casa de Àjàlá, Orísẹ̀kú e Orílẹ̀mọ̀ru escolheram cabeças bonitas por fora, mas defeituosas. Afuwapé, guiado pela orientação recebida, escolheu um Orí bom. Na terra, ele prosperou; os amigos, por mais que se esforçassem, viviam em dificuldade, e só então entenderam a diferença.",
+                  "licao": "O destino se escolhe antes de nascer, mas a escolha é feita com mais sabedoria por quem consulta, ouve e age. Daí a importância de Ifá e do ẹbọ.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -14897,6 +15424,22 @@
               },
               "tags": [
                 "ori inu"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ori",
+                  "titulo": "A escolha do Orí: Afuwapé e seus amigos",
+                  "texto": "Três amigos — Afuwapé, Orísẹ̀kú e Orílẹ̀mọ̀ru — estavam no ọ̀run, prestes a vir ao mundo. Antes da viagem, cada um precisava escolher um Orí na casa de Àjàlá, o oleiro que molda as cabeças. Àjàlá era descuidado: muitas cabeças saíam rachadas ou mal cozidas.\n\nAfuwapé, antes de ir, consultou Ifá. Os babaláwo o orientaram a fazer ẹbọ, e ele fez. Os outros dois foram direto, sem consultar ninguém.\n\nNa casa de Àjàlá, Orísẹ̀kú e Orílẹ̀mọ̀ru escolheram cabeças bonitas por fora, mas defeituosas. Afuwapé, guiado pela orientação recebida, escolheu um Orí bom. Na terra, ele prosperou; os amigos, por mais que se esforçassem, viviam em dificuldade, e só então entenderam a diferença.",
+                  "licao": "O destino se escolhe antes de nascer, mas a escolha é feita com mais sabedoria por quem consulta, ouve e age. Daí a importância de Ifá e do ẹbọ.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                },
+                {
+                  "id": "itan-ori-mar",
+                  "titulo": "Quem pode seguir alguém além do mar?",
+                  "texto": "Conta-se que Ọ̀rúnmìlà perguntou a seus seguidores — divindades e pessoas — quem seria capaz de acompanhá-lo numa viagem para além do grande mar, de onde ninguém volta. Um a um, todos deram desculpas: tinham compromissos, tinham medo, não podiam.\n\nSó um respondeu que iria até o fim com ele: o Orí. Porque o Orí é o único que acompanha cada pessoa em toda a sua jornada, até depois da morte.",
+                  "licao": "Nenhuma divindade apoia alguém sem o consentimento do seu Orí. Por isso se saúda e se cuida do Orí antes de tudo.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -14927,6 +15470,15 @@
               },
               "tags": [
                 "iwa pele"
+              ],
+              "itan": [
+                {
+                  "id": "itan-iwa",
+                  "titulo": "Ọ̀rúnmìlà e Ìwà",
+                  "texto": "Ọ̀rúnmìlà casou-se com Ìwà, uma mulher de beleza e qualidades raras — em várias versões, filha de Sùúrù, a Paciência. Ìwà tinha seus próprios modos, e com o tempo Ọ̀rúnmìlà perdeu a paciência com ela e a tratou mal. Ìwà foi embora.\n\nDepois da partida dela, tudo começou a dar errado: a fortuna de Ọ̀rúnmìlà se desfez, o respeito das pessoas sumiu. Ele saiu à procura de Ìwà, cantando e perguntando por ela por toda parte. Quando finalmente a encontrou, ela não quis voltar, mas lhe ensinou que, se ele cuidasse do próprio caráter, ela estaria sempre com ele.",
+                  "licao": "Riqueza, prestígio e até um bom Orí não se sustentam sem bom caráter. Ìwà (caráter) e Sùúrù (paciência) andam juntas.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -15026,6 +15578,15 @@
               "tags": [
                 "suru",
                 "suuru"
+              ],
+              "itan": [
+                {
+                  "id": "itan-iwa",
+                  "titulo": "Ọ̀rúnmìlà e Ìwà",
+                  "texto": "Ọ̀rúnmìlà casou-se com Ìwà, uma mulher de beleza e qualidades raras — em várias versões, filha de Sùúrù, a Paciência. Ìwà tinha seus próprios modos, e com o tempo Ọ̀rúnmìlà perdeu a paciência com ela e a tratou mal. Ìwà foi embora.\n\nDepois da partida dela, tudo começou a dar errado: a fortuna de Ọ̀rúnmìlà se desfez, o respeito das pessoas sumiu. Ele saiu à procura de Ìwà, cantando e perguntando por ela por toda parte. Quando finalmente a encontrou, ela não quis voltar, mas lhe ensinou que, se ele cuidasse do próprio caráter, ela estaria sempre com ele.",
+                  "licao": "Riqueza, prestígio e até um bom Orí não se sustentam sem bom caráter. Ìwà (caráter) e Sùúrù (paciência) andam juntas.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -16090,6 +16651,15 @@
               },
               "tags": [
                 "mo iyato"
+              ],
+              "itan": [
+                {
+                  "id": "itan-esu-fila",
+                  "titulo": "O chapéu de duas cores de Èṣù",
+                  "texto": "Dois amigos inseparáveis tinham roças vizinhas, separadas por um caminho. Todos os dias trabalhavam lado a lado e diziam que nada no mundo os faria brigar — e se esqueciam de reconhecer Èṣù.\n\nUm dia, Èṣù passou pelo caminho entre os dois usando um chapéu vermelho de um lado e branco do outro. Depois que ele passou, um amigo comentou o homem de chapéu vermelho; o outro jurou que o chapéu era branco. Cada um tinha visto um lado só. A discussão virou briga, e a briga quase acabou com a amizade, até que Èṣù voltou e mostrou o chapéu inteiro.",
+                  "licao": "Cada um vê a sua parte da verdade. E quem esquece de reconhecer Èṣù, o senhor dos caminhos e da comunicação, descobre como uma palavra mal-entendida pode virar conflito.",
+                  "fonte": "Narrativa tradicional Yorùbá muito difundida, contada em várias versões (a cor dos lados varia). Confirmar com o baba a versão da casa."
+                }
               ]
             },
             {
@@ -16610,6 +17180,15 @@
               "tags": [
                 "orisa",
                 "orixa"
+              ],
+              "itan": [
+                {
+                  "id": "itan-osun",
+                  "titulo": "Ọ̀ṣun e os dezesseis",
+                  "texto": "Quando as divindades vieram organizar o mundo, os dezesseis primeiros se reuniram para decidir tudo e deixaram Ọ̀ṣun de fora, por ser mulher. Nada do que faziam dava certo: a chuva não caía, as coisas não frutificavam.\n\nEles foram a Olódùmarè perguntar o que estava errado. Olódùmarè quis saber quantos tinham vindo e por que Ọ̀ṣun não estava entre eles. Os dezesseis voltaram, pediram desculpas a Ọ̀ṣun e a incluíram nas decisões — e o mundo passou a funcionar. Em muitas versões, o filho de Ọ̀ṣun dá nome ao Odù Ọ̀sẹ́tùrá.",
+                  "licao": "Nada se completa sem o feminino. Excluir quem tem seu lugar desequilibra o todo.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -16641,6 +17220,15 @@
               "tags": [
                 "esu",
                 "exu"
+              ],
+              "itan": [
+                {
+                  "id": "itan-esu-fila",
+                  "titulo": "O chapéu de duas cores de Èṣù",
+                  "texto": "Dois amigos inseparáveis tinham roças vizinhas, separadas por um caminho. Todos os dias trabalhavam lado a lado e diziam que nada no mundo os faria brigar — e se esqueciam de reconhecer Èṣù.\n\nUm dia, Èṣù passou pelo caminho entre os dois usando um chapéu vermelho de um lado e branco do outro. Depois que ele passou, um amigo comentou o homem de chapéu vermelho; o outro jurou que o chapéu era branco. Cada um tinha visto um lado só. A discussão virou briga, e a briga quase acabou com a amizade, até que Èṣù voltou e mostrou o chapéu inteiro.",
+                  "licao": "Cada um vê a sua parte da verdade. E quem esquece de reconhecer Èṣù, o senhor dos caminhos e da comunicação, descobre como uma palavra mal-entendida pode virar conflito.",
+                  "fonte": "Narrativa tradicional Yorùbá muito difundida, contada em várias versões (a cor dos lados varia). Confirmar com o baba a versão da casa."
+                }
               ]
             },
             {
@@ -17798,6 +18386,15 @@
               },
               "tags": [
                 "ori"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ori-mar",
+                  "titulo": "Quem pode seguir alguém além do mar?",
+                  "texto": "Conta-se que Ọ̀rúnmìlà perguntou a seus seguidores — divindades e pessoas — quem seria capaz de acompanhá-lo numa viagem para além do grande mar, de onde ninguém volta. Um a um, todos deram desculpas: tinham compromissos, tinham medo, não podiam.\n\nSó um respondeu que iria até o fim com ele: o Orí. Porque o Orí é o único que acompanha cada pessoa em toda a sua jornada, até depois da morte.",
+                  "licao": "Nenhuma divindade apoia alguém sem o consentimento do seu Orí. Por isso se saúda e se cuida do Orí antes de tudo.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -19301,6 +19898,15 @@
               },
               "tags": [
                 "iwa"
+              ],
+              "itan": [
+                {
+                  "id": "itan-iwa",
+                  "titulo": "Ọ̀rúnmìlà e Ìwà",
+                  "texto": "Ọ̀rúnmìlà casou-se com Ìwà, uma mulher de beleza e qualidades raras — em várias versões, filha de Sùúrù, a Paciência. Ìwà tinha seus próprios modos, e com o tempo Ọ̀rúnmìlà perdeu a paciência com ela e a tratou mal. Ìwà foi embora.\n\nDepois da partida dela, tudo começou a dar errado: a fortuna de Ọ̀rúnmìlà se desfez, o respeito das pessoas sumiu. Ele saiu à procura de Ìwà, cantando e perguntando por ela por toda parte. Quando finalmente a encontrou, ela não quis voltar, mas lhe ensinou que, se ele cuidasse do próprio caráter, ela estaria sempre com ele.",
+                  "licao": "Riqueza, prestígio e até um bom Orí não se sustentam sem bom caráter. Ìwà (caráter) e Sùúrù (paciência) andam juntas.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
