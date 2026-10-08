@@ -4,7 +4,7 @@
     "name": "Ọ̀nà Yorùbá — Ifá e Língua",
     "language": "pt-BR",
     "description": "Árvore de estudo de língua Yorùbá e Ifá.",
-    "version": "0.6.0",
+    "version": "0.7.0",
     "contentStatus": "camadas-1-e-2-em-revisao",
     "emptyFieldPolicy": "Campos ainda não desenvolvidos ficam vazios para receber conteúdo depois.",
     "sharedFields": [
@@ -21,7 +21,7 @@
       "sources",
       "cards"
     ],
-    "lastExpansion": "Conteúdo editorial completo para Língua N1 e Fundamentos de Ifá N1 (explicação, contexto, frases e exercícios próprios de cada verbete).",
+    "lastExpansion": "Saudações de respeito, A casa de axé, animais e comidas de terreiro, os 16 Odù Méjì e mais frases de exemplo.",
     "pronunciationKey": {
       "é / ó": "vogais abertas (ẹ, ọ), como em pé e pó",
       "ê / ô": "vogais fechadas (e, o), como em vê e avô",
@@ -134,6 +134,12 @@
                   "portuguese": "Bom dia",
                   "pronunciation": "É ka-a-a-ró",
                   "note": ""
+                },
+                {
+                  "yoruba": "Ẹ káàárọ̀, Bàbá",
+                  "portuguese": "Bom dia, Baba",
+                  "pronunciation": "É ka-a-a-ró, Ba-ba",
+                  "note": ""
                 }
               ],
               "context": "Na cultura Yorùbá, cumprimentar é obrigação social: deixar de saudar alguém, sobretudo um mais velho, é falta de educação. Há saudações próprias para cada hora do dia e para cada situação.",
@@ -201,6 +207,12 @@
                   "portuguese": "Boa tarde",
                   "pronunciation": "É ka-a-san",
                   "note": ""
+                },
+                {
+                  "yoruba": "Ẹ káàsán, Ìyá",
+                  "portuguese": "Boa tarde, Ìyá",
+                  "pronunciation": "É ka-a-san, I-ia",
+                  "note": ""
                 }
               ],
               "context": "Na cultura Yorùbá, cumprimentar é obrigação social: deixar de saudar alguém, sobretudo um mais velho, é falta de educação. Há saudações próprias para cada hora do dia e para cada situação.",
@@ -266,6 +278,12 @@
                   "yoruba": "Ẹ káalẹ́",
                   "portuguese": "Boa noite",
                   "pronunciation": "É ka-a-lé",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ẹ káalẹ́ o",
+                  "portuguese": "Boa noite (ao chegar)",
+                  "pronunciation": "É ka-a-lé ô",
                   "note": ""
                 }
               ],
@@ -667,6 +685,12 @@
                   "portuguese": "Não",
                   "pronunciation": "Ra-ra",
                   "note": ""
+                },
+                {
+                  "yoruba": "Rárá, ẹ ṣé",
+                  "portuguese": "Não, obrigado(a)",
+                  "pronunciation": "Ra-ra, é chê",
+                  "note": ""
                 }
               ],
               "context": "Na cultura Yorùbá, cumprimentar é obrigação social: deixar de saudar alguém, sobretudo um mais velho, é falta de educação. Há saudações próprias para cada hora do dia e para cada situação.",
@@ -776,6 +800,643 @@
               "translations": [
                 "Com licença / força"
               ]
+            }
+          ]
+        },
+        {
+          "id": "saudacoes-respeito",
+          "kind": "topic",
+          "label": "Saudações de respeito",
+          "category": "língua",
+          "children": [
+            {
+              "id": "saudacoes-1",
+              "kind": "concept",
+              "label": "Saudação ao babaláwo",
+              "yoruba": "Àbọrú àbọyè",
+              "pronunciation": "A-bó-ru a-bó-iê",
+              "summary": "saudação tradicional a um babaláwo ou ìyánífá",
+              "explanation": "Saudação própria para sacerdotes de Ifá. As três palavras da fórmula completa falam de ẹbọ: àbọrú (que a oferenda seja feita), àbọyè (que seja aceita) e àbọṣíṣẹ (que surta efeito). Quem saúda diz “Àbọrú àbọyè”; a resposta costuma acrescentar “àbọṣíṣẹ”.",
+              "uses": [
+                "Ao encontrar um babaláwo ou ìyánífá, antes de qualquer conversa."
+              ],
+              "phrases": [
+                {
+                  "yoruba": "Àbọrú àbọyè, Bàbá",
+                  "portuguese": "Saudação ao baba",
+                  "pronunciation": "A-bó-ru a-bó-iê, Ba-ba",
+                  "note": ""
+                }
+              ],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [
+                "Resposta usual: Àbọrú àbọyè àbọṣíṣẹ.",
+                "A forma exata da resposta pode variar entre casas."
+              ],
+              "related": [
+                "saudacoes-2",
+                "saudacoes-3"
+              ],
+              "exercises": [
+                "Separe a saudação em àbọrú, àbọyè e àbọṣíṣẹ e diga o que cada parte deseja.",
+                "Leia “Àbọrú àbọyè” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Àbọrú àbọyè”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Saudação ao babaláwo"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "Confirmar com Ya/baba a forma de resposta usada na casa.",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-2",
+              "kind": "concept",
+              "label": "Eu presto homenagem",
+              "yoruba": "Mo júbà",
+              "pronunciation": "Mô dju-ba",
+              "summary": "eu presto homenagem, eu reverencio",
+              "explanation": "Mo = eu; júbà = prestar ìbà (reverência). É a fórmula usada para abrir rezas e falas pedindo licença aos ancestrais, às divindades e aos mais velhos.",
+              "uses": [
+                "No começo de uma reza ou de uma fala importante."
+              ],
+              "phrases": [
+                {
+                  "yoruba": "Mo júbà o",
+                  "portuguese": "Eu presto homenagem",
+                  "pronunciation": "Mô dju-ba ô",
+                  "note": ""
+                }
+              ],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [],
+              "related": [
+                "saudacoes-1",
+                "saudacoes-3",
+                "saudacoes-4"
+              ],
+              "exercises": [
+                "Que relação há entre júbà e a palavra ìbà?",
+                "Leia “Mo júbà” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Mo júbà”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Eu presto homenagem"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-3",
+              "kind": "concept",
+              "label": "Que assim seja",
+              "yoruba": "Àṣẹ o",
+              "pronunciation": "A-ché ô",
+              "summary": "que assim seja (resposta a reza ou bênção)",
+              "explanation": "Resposta a uma oração, bênção ou desejo bom: confirma e acolhe o que foi dito. O “o” final dá ênfase e calor.",
+              "uses": [
+                "Quando alguém abençoa você ou termina uma reza."
+              ],
+              "phrases": [],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [
+                "Também se diz apenas Àṣẹ, ou Àṣẹ o!"
+              ],
+              "related": [
+                "saudacoes-1",
+                "saudacoes-2",
+                "saudacoes-4",
+                "saudacoes-5"
+              ],
+              "exercises": [
+                "Alguém diz: 'Ire o!'. Como você responde?",
+                "Leia “Àṣẹ o” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Àṣẹ o”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Que assim seja"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-4",
+              "kind": "concept",
+              "label": "Bênçãos!",
+              "yoruba": "Ire o",
+              "pronunciation": "I-rê ô",
+              "summary": "bênçãos, boa sorte — votos de bem",
+              "explanation": "Ire é tudo o que é bom: sorte, saúde, prosperidade, paz. Dizer “Ire o” é desejar esse bem a alguém; é muito ouvido entre pessoas de Ifá.",
+              "uses": [
+                "Para desejar o bem ao se despedir ou cumprimentar."
+              ],
+              "phrases": [],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [
+                "Resposta comum: Àṣẹ o."
+              ],
+              "related": [
+                "saudacoes-2",
+                "saudacoes-3",
+                "saudacoes-5",
+                "saudacoes-6"
+              ],
+              "exercises": [
+                "Em que situações faz sentido dizer 'Ire o'?",
+                "Leia “Ire o” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ire o”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Bênçãos!"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-5",
+              "kind": "concept",
+              "label": "Bom dia, dormiu bem?",
+              "yoruba": "Ṣé ẹ jí ire?",
+              "pronunciation": "Chê é dji i-rê?",
+              "summary": "vocês acordaram bem? — saudação da manhã",
+              "explanation": "Literalmente “acordaram em bem?” (jí = acordar; ire = bem). Saudação respeitosa de manhã, muito usada com os mais velhos da casa.",
+              "uses": [
+                "De manhã, depois de Ẹ káàárọ̀."
+              ],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ káàárọ̀ Ìyá, ṣé ẹ jí ire?",
+                  "portuguese": "Bom dia, Ìyá, a senhora acordou bem?",
+                  "pronunciation": "É ka-a-a-ró I-ia, chê é dji i-rê?",
+                  "note": ""
+                }
+              ],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [],
+              "related": [
+                "saudacoes-3",
+                "saudacoes-4",
+                "saudacoes-6",
+                "saudacoes-7"
+              ],
+              "exercises": [
+                "Monte a saudação completa da manhã para o baba.",
+                "Leia “Ṣé ẹ jí ire?” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ṣé ẹ jí ire?”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Bom dia, dormiu bem?"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-6",
+              "kind": "concept",
+              "label": "Saudação a quem trabalha",
+              "yoruba": "Ẹ kú iṣẹ́",
+              "pronunciation": "É ku i-ché",
+              "summary": "saudação a quem está trabalhando",
+              "explanation": "Ẹ kú + iṣẹ́ (trabalho). Saúda e reconhece o esforço de quem está trabalhando — inclusive quem está cuidando dos afazeres da casa.",
+              "uses": [
+                "Ao chegar onde alguém está trabalhando."
+              ],
+              "phrases": [],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [
+                "Entre iguais: Kú iṣẹ́ o."
+              ],
+              "related": [
+                "saudacoes-4",
+                "saudacoes-5",
+                "saudacoes-7",
+                "saudacoes-8"
+              ],
+              "exercises": [
+                "Use a fórmula Ẹ kú + … para criar a saudação a quem trabalha.",
+                "Leia “Ẹ kú iṣẹ́” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ kú iṣẹ́”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Saudação a quem trabalha"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-7",
+              "kind": "concept",
+              "label": "Boas-vindas",
+              "yoruba": "Ẹ kú àbọ̀",
+              "pronunciation": "É ku a-bó",
+              "summary": "bem-vindo(a) — a quem chega ou volta",
+              "explanation": "Ẹ kú + àbọ̀ (chegada, volta). Dita por quem recebe a pessoa que chega.",
+              "uses": [
+                "Quando alguém chega à casa ou volta de viagem."
+              ],
+              "phrases": [],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [],
+              "related": [
+                "saudacoes-5",
+                "saudacoes-6",
+                "saudacoes-8",
+                "saudacoes-9"
+              ],
+              "exercises": [
+                "Quem diz Ẹ kú àbọ̀: quem chega ou quem recebe?",
+                "Leia “Ẹ kú àbọ̀” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ kú àbọ̀”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Boas-vindas"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-8",
+              "kind": "concept",
+              "label": "Saudação ao chegar a uma casa",
+              "yoruba": "Ẹ kú ilé o",
+              "pronunciation": "É ku i-lê ô",
+              "summary": "saudação a quem está em casa",
+              "explanation": "Dita por quem chega, saudando as pessoas da casa. Contrai-se na fala como “Ẹ kúulé o”.",
+              "uses": [
+                "Ao entrar numa casa ou num terreiro."
+              ],
+              "phrases": [],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [
+                "Forma falada: Ẹ kúulé o."
+              ],
+              "related": [
+                "saudacoes-6",
+                "saudacoes-7",
+                "saudacoes-9",
+                "saudacoes-10"
+              ],
+              "exercises": [
+                "Qual a diferença entre Ẹ kú ilé o e Ẹ kú àbọ̀?",
+                "Leia “Ẹ kú ilé o” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ kú ilé o”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Saudação ao chegar a uma casa"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-9",
+              "kind": "concept",
+              "label": "Saudação a quem está sentado",
+              "yoruba": "Ẹ kú ìjókòó",
+              "pronunciation": "É ku i-djô-kô-ô",
+              "summary": "saudação a pessoas reunidas, sentadas",
+              "explanation": "Ẹ kú + ìjókòó (o estar sentado). Usada ao chegar a uma roda ou reunião onde as pessoas já estão sentadas.",
+              "uses": [
+                "Ao chegar a uma reunião ou roda de conversa."
+              ],
+              "phrases": [],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [],
+              "related": [
+                "saudacoes-7",
+                "saudacoes-8",
+                "saudacoes-10",
+                "saudacoes-11"
+              ],
+              "exercises": [
+                "Você chega a uma reunião já começada: o que diz?",
+                "Leia “Ẹ kú ìjókòó” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ kú ìjókòó”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Saudação a quem está sentado"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-10",
+              "kind": "concept",
+              "label": "Saudação de festa anual",
+              "yoruba": "Ẹ kú ọdún",
+              "pronunciation": "É ku ó-dun",
+              "summary": "saudação de festa, de data comemorativa",
+              "explanation": "Ẹ kú + ọdún (ano, festa anual). Usada em festas e datas celebradas a cada ano, inclusive festividades de Òrìṣà.",
+              "uses": [
+                "Em festas anuais e celebrações."
+              ],
+              "phrases": [],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [],
+              "related": [
+                "saudacoes-8",
+                "saudacoes-9",
+                "saudacoes-11",
+                "saudacoes-12"
+              ],
+              "exercises": [
+                "Que outras saudações você conhece que seguem a fórmula Ẹ kú + …?",
+                "Leia “Ẹ kú ọdún” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ kú ọdún”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Saudação de festa anual"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-11",
+              "kind": "concept",
+              "label": "Saudação a quem oferece uma festa",
+              "yoruba": "Ẹ kú ìnáwó",
+              "pronunciation": "É ku i-na-uô",
+              "summary": "parabéns a quem promove uma celebração",
+              "explanation": "Ẹ kú + ìnáwó (gasto, celebração). Saúda os anfitriões de uma festa ou cerimônia, reconhecendo o esforço de recebê-los.",
+              "uses": [
+                "Ao cumprimentar quem organizou uma festa ou cerimônia."
+              ],
+              "phrases": [],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [],
+              "related": [
+                "saudacoes-9",
+                "saudacoes-10",
+                "saudacoes-12",
+                "saudacoes-13"
+              ],
+              "exercises": [
+                "A quem se diz Ẹ kú ìnáwó numa cerimônia?",
+                "Leia “Ẹ kú ìnáwó” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ kú ìnáwó”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Saudação a quem oferece uma festa"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-12",
+              "kind": "concept",
+              "label": "Ajoelhar (saudação)",
+              "yoruba": "Ìkúnlẹ̀",
+              "pronunciation": "I-kun-lé",
+              "summary": "o ato de ajoelhar para saudar",
+              "explanation": "Kúnlẹ̀ = ajoelhar. Na etiqueta Yorùbá, mulheres costumam saudar os mais velhos ajoelhando-se. É a mesma raiz de àkúnlẹ̀yàn, o destino “escolhido ajoelhado”.",
+              "uses": [
+                "Ao saudar um mais velho ou sacerdote, conforme o costume da casa."
+              ],
+              "phrases": [],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [
+                "O gesto exato e quem o faz seguem o costume de cada casa."
+              ],
+              "related": [
+                "saudacoes-10",
+                "saudacoes-11",
+                "saudacoes-13",
+                "saudacoes-14"
+              ],
+              "exercises": [
+                "Que palavra de Ifá compartilha a raiz kúnlẹ̀?",
+                "Leia “Ìkúnlẹ̀” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ìkúnlẹ̀”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Ajoelhar (saudação)"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-13",
+              "kind": "concept",
+              "label": "Prostrar-se (saudação)",
+              "yoruba": "Ìdọ̀bálẹ̀",
+              "pronunciation": "I-dó-ba-lé",
+              "summary": "o ato de se prostrar para saudar",
+              "explanation": "Dọ̀bálẹ̀ = deitar-se de bruços diante de alguém. Na etiqueta Yorùbá, homens costumam saudar os mais velhos prostrando-se.",
+              "uses": [
+                "Ao saudar um mais velho ou sacerdote, conforme o costume da casa."
+              ],
+              "phrases": [],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [
+                "O gesto exato e quem o faz seguem o costume de cada casa."
+              ],
+              "related": [
+                "saudacoes-11",
+                "saudacoes-12",
+                "saudacoes-14",
+                "saudacoes-15"
+              ],
+              "exercises": [
+                "Compare ìkúnlẹ̀ e ìdọ̀bálẹ̀.",
+                "Leia “Ìdọ̀bálẹ̀” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ìdọ̀bálẹ̀”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Prostrar-se (saudação)"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-14",
+              "kind": "concept",
+              "label": "Abençoe-me",
+              "yoruba": "Ẹ súre fún mi",
+              "pronunciation": "É su-rê fun mi",
+              "summary": "pedido de bênção a um mais velho",
+              "explanation": "Ẹ (o senhor / a senhora) + súre (abençoar) + fún mi (para mim). Pedido de bênção ao baba, à Ya ou a qualquer mais velho.",
+              "uses": [
+                "Ao pedir a bênção, na chegada ou na despedida."
+              ],
+              "phrases": [
+                {
+                  "yoruba": "Bàbá, ẹ súre fún mi",
+                  "portuguese": "Baba, me abençoe",
+                  "pronunciation": "Ba-ba, é su-rê fun mi",
+                  "note": ""
+                }
+              ],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [],
+              "related": [
+                "saudacoes-12",
+                "saudacoes-13",
+                "saudacoes-15"
+              ],
+              "exercises": [
+                "Peça a bênção à Ya usando o pronome de respeito.",
+                "Leia “Ẹ súre fún mi” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ súre fún mi”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Abençoe-me"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "saudacoes-15",
+              "kind": "concept",
+              "label": "Obrigado, Baba / Ìyá",
+              "yoruba": "Ẹ ṣé o, Bàbá",
+              "pronunciation": "É chê ô, Ba-ba",
+              "summary": "agradecimento respeitoso a um mais velho",
+              "explanation": "Ẹ ṣé (obrigado, forma respeitosa) + o (ênfase) + o tratamento. Troque Bàbá por Ìyá para falar com a Ya.",
+              "uses": [
+                "Para agradecer a um sacerdote ou mais velho."
+              ],
+              "phrases": [
+                {
+                  "yoruba": "Ẹ ṣé o, Ìyá",
+                  "portuguese": "Obrigado(a), Ìyá",
+                  "pronunciation": "É chê ô, I-ia",
+                  "note": ""
+                }
+              ],
+              "context": "Para quem frequenta uma casa de Ifá ou de Òrìṣà, saber saudar é a primeira lição. O respeito aos mais velhos e aos sacerdotes aparece na palavra (o pronome ẹ), no gesto (ajoelhar, prostrar-se) e na saudação certa para cada situação.",
+              "variations": [],
+              "related": [
+                "saudacoes-13",
+                "saudacoes-14"
+              ],
+              "exercises": [
+                "Agradeça ao baba e depois à Ya.",
+                "Leia “Ẹ ṣé o, Bàbá” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ ṣé o, Bàbá”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Obrigado, Baba / Ìyá"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
             }
           ]
         },
@@ -1925,7 +2586,14 @@
               "uses": [
                 "Use este termo para falar de parentesco e relações familiares."
               ],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ìyá mi ń bọ̀",
+                  "portuguese": "Minha mãe está vindo",
+                  "pronunciation": "I-ia mi n bó",
+                  "note": ""
+                }
+              ],
               "context": "Na família Yorùbá, a idade organiza as relações: os mais novos tratam os mais velhos com o pronome de respeito (ẹ) e evitam chamá-los pelo nome. O possessivo vem depois do substantivo: ìyá mi = minha mãe.",
               "variations": [],
               "related": [
@@ -1981,7 +2649,14 @@
               "uses": [
                 "Use este termo para falar de parentesco e relações familiares."
               ],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Bàbá mi wà nílé",
+                  "portuguese": "Meu pai está em casa",
+                  "pronunciation": "Ba-ba mi ua ni-lê",
+                  "note": ""
+                }
+              ],
               "context": "Na família Yorùbá, a idade organiza as relações: os mais novos tratam os mais velhos com o pronome de respeito (ẹ) e evitam chamá-los pelo nome. O possessivo vem depois do substantivo: ìyá mi = minha mãe.",
               "variations": [],
               "related": [
@@ -2481,6 +3156,301 @@
           ]
         },
         {
+          "id": "casa-axe",
+          "kind": "topic",
+          "label": "A casa de axé",
+          "category": "língua",
+          "children": [
+            {
+              "id": "casa-axe-1",
+              "kind": "concept",
+              "label": "Comunidade, sociedade",
+              "yoruba": "Ẹgbẹ́",
+              "pronunciation": "É-gbé",
+              "summary": "grupo, sociedade, comunidade",
+              "explanation": "Grupo de pessoas unidas por um laço: uma associação, uma comunidade religiosa. Ẹgbẹ́ Ifá = comunidade de Ifá.",
+              "uses": [],
+              "phrases": [],
+              "context": "Muitas palavras usadas nos terreiros brasileiros vêm do Yorùbá, às vezes com a forma adaptada ao português. Este tema liga os termos originais aos usos da casa de axé.",
+              "variations": [],
+              "related": [
+                "casa-axe-2",
+                "casa-axe-3"
+              ],
+              "exercises": [
+                "O que significa Ẹgbẹ́ Ifá?",
+                "Leia “Ẹgbẹ́” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹgbẹ́”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Comunidade, sociedade"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "casa-axe-2",
+              "kind": "concept",
+              "label": "Sacerdote sênior de Ifá",
+              "yoruba": "Olúwo",
+              "pronunciation": "Ô-lu-uô",
+              "summary": "babaláwo sênior, mestre",
+              "explanation": "De olú (senhor, chefe) + awo: o “senhor do segredo”. Título de um babaláwo sênior, que ensina e conduz outros awo.",
+              "uses": [],
+              "phrases": [],
+              "context": "Muitas palavras usadas nos terreiros brasileiros vêm do Yorùbá, às vezes com a forma adaptada ao português. Este tema liga os termos originais aos usos da casa de axé.",
+              "variations": [
+                "O uso do título varia entre casas e linhagens."
+              ],
+              "related": [
+                "casa-axe-1",
+                "casa-axe-3",
+                "casa-axe-4"
+              ],
+              "exercises": [
+                "Leia “Olúwo” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Olúwo”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Sacerdote sênior de Ifá"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "Confirmar com Ya/baba o uso do título na casa.",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "casa-axe-3",
+              "kind": "concept",
+              "label": "Mãe de santo",
+              "yoruba": "Ìyálórìṣà",
+              "pronunciation": "I-ia-lô-ri-cha",
+              "summary": "sacerdotisa de Òrìṣà — no Brasil, iyalorixá",
+              "explanation": "Ìyá + ní + Òrìṣà: “mãe que tem Òrìṣà”. Sacerdotisa responsável por uma casa de Òrìṣà. Deu origem ao português iyalorixá.",
+              "uses": [],
+              "phrases": [],
+              "context": "Muitas palavras usadas nos terreiros brasileiros vêm do Yorùbá, às vezes com a forma adaptada ao português. Este tema liga os termos originais aos usos da casa de axé.",
+              "variations": [],
+              "related": [
+                "casa-axe-1",
+                "casa-axe-2",
+                "casa-axe-4",
+                "casa-axe-5"
+              ],
+              "exercises": [
+                "Leia “Ìyálórìṣà” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ìyálórìṣà”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Mãe de santo"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "casa-axe-4",
+              "kind": "concept",
+              "label": "Pai de santo",
+              "yoruba": "Bàbálórìṣà",
+              "pronunciation": "Ba-ba-lô-ri-cha",
+              "summary": "sacerdote de Òrìṣà — no Brasil, babalorixá",
+              "explanation": "Bàbá + ní + Òrìṣà: “pai que tem Òrìṣà”. Deu origem ao português babalorixá.",
+              "uses": [],
+              "phrases": [],
+              "context": "Muitas palavras usadas nos terreiros brasileiros vêm do Yorùbá, às vezes com a forma adaptada ao português. Este tema liga os termos originais aos usos da casa de axé.",
+              "variations": [],
+              "related": [
+                "casa-axe-2",
+                "casa-axe-3",
+                "casa-axe-5",
+                "casa-axe-6"
+              ],
+              "exercises": [
+                "Leia “Bàbálórìṣà” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Bàbálórìṣà”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Pai de santo"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "casa-axe-5",
+              "kind": "concept",
+              "label": "Filho(a) de santo",
+              "yoruba": "Ọmọ Òrìṣà",
+              "pronunciation": "Ó-mó Ô-ri-cha",
+              "summary": "iniciado(a) de Òrìṣà",
+              "explanation": "Ọmọ (filho) + Òrìṣà. Pessoa iniciada ou ligada a um Òrìṣà.",
+              "uses": [],
+              "phrases": [],
+              "context": "Muitas palavras usadas nos terreiros brasileiros vêm do Yorùbá, às vezes com a forma adaptada ao português. Este tema liga os termos originais aos usos da casa de axé.",
+              "variations": [],
+              "related": [
+                "casa-axe-3",
+                "casa-axe-4",
+                "casa-axe-6",
+                "casa-axe-7"
+              ],
+              "exercises": [
+                "Leia “Ọmọ Òrìṣà” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ọmọ Òrìṣà”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Filho(a) de santo"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "casa-axe-6",
+              "kind": "concept",
+              "label": "Iaô (recém-iniciado)",
+              "yoruba": "Ìyàwó",
+              "pronunciation": "I-ia-uô",
+              "summary": "recém-iniciado — origem de 'iaô'",
+              "explanation": "Ìyàwó é “esposa, noiva”. Nos terreiros brasileiros virou iaô: o recém-iniciado, simbolicamente a “noiva” do Òrìṣà.",
+              "uses": [],
+              "phrases": [],
+              "context": "Muitas palavras usadas nos terreiros brasileiros vêm do Yorùbá, às vezes com a forma adaptada ao português. Este tema liga os termos originais aos usos da casa de axé.",
+              "variations": [],
+              "related": [
+                "casa-axe-4",
+                "casa-axe-5",
+                "casa-axe-7",
+                "casa-axe-8"
+              ],
+              "exercises": [
+                "Por que o recém-iniciado é chamado de ìyàwó?",
+                "Leia “Ìyàwó” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ìyàwó”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Iaô (recém-iniciado)"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "casa-axe-7",
+              "kind": "concept",
+              "label": "Ebomi (iniciado mais velho)",
+              "yoruba": "Ẹ̀gbọ́n mi",
+              "pronunciation": "É-gbón mi",
+              "summary": "'meu mais velho' — origem de 'ebomi'",
+              "explanation": "Ẹ̀gbọ́n (irmão mais velho) + mi (meu). No Brasil virou ebomi: o iniciado que já cumpriu suas obrigações de sete anos e é tratado como mais velho.",
+              "uses": [],
+              "phrases": [],
+              "context": "Muitas palavras usadas nos terreiros brasileiros vêm do Yorùbá, às vezes com a forma adaptada ao português. Este tema liga os termos originais aos usos da casa de axé.",
+              "variations": [],
+              "related": [
+                "casa-axe-5",
+                "casa-axe-6",
+                "casa-axe-8"
+              ],
+              "exercises": [
+                "Que palavra do tema Família deu origem a ebomi?",
+                "Leia “Ẹ̀gbọ́n mi” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ̀gbọ́n mi”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Ebomi (iniciado mais velho)"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "casa-axe-8",
+              "kind": "concept",
+              "label": "Devoto(a) de Òrìṣà",
+              "yoruba": "Olórìṣà",
+              "pronunciation": "Ô-lô-ri-cha",
+              "summary": "quem cultua Òrìṣà",
+              "explanation": "Oní + Òrìṣà: “quem tem Òrìṣà”, o devoto. O prefixo oní/ol- (quem tem, dono de) forma muitas palavras: olúwo, oníṣẹ́, olùkọ́.",
+              "uses": [],
+              "phrases": [],
+              "context": "Muitas palavras usadas nos terreiros brasileiros vêm do Yorùbá, às vezes com a forma adaptada ao português. Este tema liga os termos originais aos usos da casa de axé.",
+              "variations": [],
+              "related": [
+                "casa-axe-6",
+                "casa-axe-7"
+              ],
+              "exercises": [
+                "Leia “Olórìṣà” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Olórìṣà”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Devoto(a) de Òrìṣà"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            }
+          ]
+        },
+        {
           "id": "corpo",
           "kind": "topic",
           "label": "Partes do corpo",
@@ -2497,10 +3467,18 @@
               "uses": [
                 "Use este termo para nomear partes do corpo."
               ],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Orí mi ń fọ́ mi",
+                  "portuguese": "Estou com dor de cabeça",
+                  "pronunciation": "Ô-ri mi n fó mi",
+                  "note": ""
+                }
+              ],
               "context": "As partes do corpo formam muitas expressões Yorùbá de sentimento e de comportamento. O possessivo vem depois: orí mi = minha cabeça.",
               "variations": [],
               "related": [
+                "elem-5",
                 "corpo-2",
                 "corpo-3",
                 "corpo-4",
@@ -3017,15 +3995,19 @@
                   "portuguese": "Eu quero água",
                   "pronunciation": "Mô fé ô-mi",
                   "note": ""
+                },
+                {
+                  "yoruba": "Ẹ fún mi ní omi",
+                  "portuguese": "Me dê água, por favor (respeitoso)",
+                  "pronunciation": "É fun mi ni ô-mi",
+                  "note": ""
                 }
               ],
               "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
               "variations": [],
               "related": [
                 "comidas-2",
-                "comidas-3",
-                "comidas-4",
-                "comidas-5"
+                "comidas-3"
               ],
               "exercises": [
                 "Leia “Omi” em voz alta três vezes, respeitando os sinais de tom.",
@@ -3087,8 +4069,7 @@
               "related": [
                 "comidas-1",
                 "comidas-3",
-                "comidas-4",
-                "comidas-5"
+                "comidas-4"
               ],
               "exercises": [
                 "Leia “Oúnjẹ” em voz alta três vezes, respeitando os sinais de tom.",
@@ -3193,14 +4174,21 @@
               "uses": [
                 "Use este termo para reconhecer alimentos e fazer pedidos simples."
               ],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Mo fẹ́ jẹ àkàrà",
+                  "portuguese": "Quero comer àkàrà",
+                  "pronunciation": "Mô fé djé a-ka-ra",
+                  "note": ""
+                }
+              ],
               "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
               "variations": [],
               "related": [
-                "comidas-1",
                 "comidas-2",
                 "comidas-3",
-                "comidas-5"
+                "comidas-5",
+                "comidas-6"
               ],
               "exercises": [
                 "Leia “Ẹ̀wà” em voz alta três vezes, respeitando os sinais de tom.",
@@ -3253,10 +4241,10 @@
               "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
               "variations": [],
               "related": [
-                "comidas-1",
-                "comidas-2",
                 "comidas-3",
-                "comidas-4"
+                "comidas-4",
+                "comidas-6",
+                "comidas-7"
               ],
               "exercises": [
                 "Leia “Ọ̀gẹ̀dẹ̀” em voz alta três vezes, respeitando os sinais de tom.",
@@ -3309,10 +4297,10 @@
               "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
               "variations": [],
               "related": [
-                "comidas-1",
-                "comidas-2",
-                "comidas-3",
-                "comidas-4"
+                "comidas-4",
+                "comidas-5",
+                "comidas-7",
+                "comidas-8"
               ],
               "exercises": [
                 "Leia “Ọsàn” em voz alta três vezes, respeitando os sinais de tom.",
@@ -3365,10 +4353,10 @@
               "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
               "variations": [],
               "related": [
-                "comidas-1",
-                "comidas-2",
-                "comidas-3",
-                "comidas-4"
+                "comidas-5",
+                "comidas-6",
+                "comidas-8",
+                "comidas-9"
               ],
               "exercises": [
                 "Leia “Ẹran” em voz alta três vezes, respeitando os sinais de tom.",
@@ -3421,10 +4409,10 @@
               "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
               "variations": [],
               "related": [
-                "comidas-1",
-                "comidas-2",
-                "comidas-3",
-                "comidas-4"
+                "comidas-6",
+                "comidas-7",
+                "comidas-9",
+                "comidas-10"
               ],
               "exercises": [
                 "Leia “Ẹja” em voz alta três vezes, respeitando os sinais de tom.",
@@ -3477,10 +4465,10 @@
               "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
               "variations": [],
               "related": [
-                "comidas-1",
-                "comidas-2",
-                "comidas-3",
-                "comidas-4"
+                "comidas-7",
+                "comidas-8",
+                "comidas-10",
+                "comidas-11"
               ],
               "exercises": [
                 "Leia “Wàrà” em voz alta três vezes, respeitando os sinais de tom.",
@@ -3533,10 +4521,10 @@
               "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
               "variations": [],
               "related": [
-                "comidas-1",
-                "comidas-2",
-                "comidas-3",
-                "comidas-4"
+                "comidas-8",
+                "comidas-9",
+                "comidas-11",
+                "comidas-12"
               ],
               "exercises": [
                 "Leia “Kọ́fí” em voz alta três vezes, respeitando os sinais de tom.",
@@ -3570,6 +4558,329 @@
                 "confianca": "alta",
                 "nota": "",
                 "manus": "Não identifico discordância nesta revisão; manter o conteúdo atual e deixar a validação humana como etapa posterior.",
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "comidas-11",
+              "kind": "concept",
+              "label": "Noz-de-cola",
+              "yoruba": "Obì",
+              "pronunciation": "Ô-bi",
+              "summary": "noz-de-cola — o obi",
+              "explanation": "Noz-de-cola, o obi dos terreiros. Oferecer obì é gesto de hospitalidade e de respeito, e o obì também é usado em consultas simples.",
+              "uses": [],
+              "phrases": [],
+              "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
+              "variations": [],
+              "related": [
+                "ose-3",
+                "ose-4",
+                "comidas-9",
+                "comidas-10",
+                "comidas-12",
+                "comidas-13"
+              ],
+              "exercises": [
+                "Leia “Obì” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Obì”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Noz-de-cola"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "comidas-12",
+              "kind": "concept",
+              "label": "Orobô",
+              "yoruba": "Orógbó",
+              "pronunciation": "Ô-rô-gbô",
+              "summary": "orobô",
+              "explanation": "Fruto amargo (Garcinia kola), o orobô dos terreiros. Associado a Ṣàngó e a uma vida longa.",
+              "uses": [],
+              "phrases": [],
+              "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
+              "variations": [],
+              "related": [
+                "comidas-10",
+                "comidas-11",
+                "comidas-13",
+                "comidas-14"
+              ],
+              "exercises": [
+                "Leia “Orógbó” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Orógbó”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Orobô"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "comidas-13",
+              "kind": "concept",
+              "label": "Azeite de dendê",
+              "yoruba": "Epo pupa",
+              "pronunciation": "Ê-pô pu-pa",
+              "summary": "azeite de dendê",
+              "explanation": "Literalmente “óleo vermelho”: epo (óleo) + pupa (vermelho). O dendê da cozinha baiana e dos terreiros.",
+              "uses": [],
+              "phrases": [],
+              "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
+              "variations": [],
+              "related": [
+                "comidas-11",
+                "comidas-12",
+                "comidas-14",
+                "comidas-15"
+              ],
+              "exercises": [
+                "Leia “Epo pupa” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Epo pupa”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Azeite de dendê"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "comidas-14",
+              "kind": "concept",
+              "label": "Mel",
+              "yoruba": "Oyin",
+              "pronunciation": "Ô-in",
+              "summary": "mel",
+              "explanation": "Mel. Símbolo de doçura, muito presente em rezas e cantigas.",
+              "uses": [],
+              "phrases": [],
+              "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
+              "variations": [],
+              "related": [
+                "comidas-12",
+                "comidas-13",
+                "comidas-15",
+                "comidas-16"
+              ],
+              "exercises": [
+                "Leia “Oyin” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Oyin”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Mel"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "comidas-15",
+              "kind": "concept",
+              "label": "Sal",
+              "yoruba": "Iyọ̀",
+              "pronunciation": "I-ió",
+              "summary": "sal",
+              "explanation": "Sal. Na fala, o sal aparece como imagem do que dá sabor à vida.",
+              "uses": [],
+              "phrases": [],
+              "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
+              "variations": [],
+              "related": [
+                "comidas-13",
+                "comidas-14",
+                "comidas-16",
+                "comidas-17"
+              ],
+              "exercises": [
+                "Leia “Iyọ̀” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Iyọ̀”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Sal"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "comidas-16",
+              "kind": "concept",
+              "label": "Acaçá / ẹ̀kọ",
+              "yoruba": "Ẹ̀kọ",
+              "pronunciation": "É-kó",
+              "summary": "mingau de milho — base do acaçá",
+              "explanation": "Mingau ou pasta de milho. No Brasil, o acaçá (do Yorùbá àkàsà) é o ẹ̀kọ firme, envolto em folha de bananeira.",
+              "uses": [],
+              "phrases": [],
+              "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
+              "variations": [],
+              "related": [
+                "comidas-14",
+                "comidas-15",
+                "comidas-17",
+                "comidas-18"
+              ],
+              "exercises": [
+                "Leia “Ẹ̀kọ” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ̀kọ”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Acaçá / ẹ̀kọ"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "comidas-17",
+              "kind": "concept",
+              "label": "Acarajé / àkàrà",
+              "yoruba": "Àkàrà",
+              "pronunciation": "A-ka-ra",
+              "summary": "bolinho de feijão frito — o acarajé",
+              "explanation": "Bolinho de feijão-fradinho frito. O acarajé baiano vem de àkàrà + jẹ (comer): “comer àkàrà”.",
+              "uses": [],
+              "phrases": [],
+              "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
+              "variations": [],
+              "related": [
+                "comidas-15",
+                "comidas-16",
+                "comidas-18",
+                "comidas-19"
+              ],
+              "exercises": [
+                "Leia “Àkàrà” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Àkàrà”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Acarajé / àkàrà"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "comidas-18",
+              "kind": "concept",
+              "label": "Vinho de palma",
+              "yoruba": "Ẹmu",
+              "pronunciation": "É-mu",
+              "summary": "vinho de palma",
+              "explanation": "Bebida fermentada da seiva da palmeira. Ọtí é a palavra geral para bebida alcoólica.",
+              "uses": [],
+              "phrases": [],
+              "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
+              "variations": [],
+              "related": [
+                "comidas-16",
+                "comidas-17",
+                "comidas-19"
+              ],
+              "exercises": [
+                "Leia “Ẹmu” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹmu”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Vinho de palma"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "comidas-19",
+              "kind": "concept",
+              "label": "Verduras, folhas",
+              "yoruba": "Ẹ̀fọ́",
+              "pronunciation": "É-fó",
+              "summary": "verduras — origem do efó baiano",
+              "explanation": "Verduras e folhas comestíveis. Deu nome ao efó, prato baiano de folhas com dendê.",
+              "uses": [],
+              "phrases": [],
+              "context": "Vários pratos afro-brasileiros têm nome de origem Yorùbá; reconhecer as palavras ajuda a enxergar essa ligação entre a Bahia e a África Ocidental.",
+              "variations": [],
+              "related": [
+                "comidas-17",
+                "comidas-18"
+              ],
+              "exercises": [
+                "Leia “Ẹ̀fọ́” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹ̀fọ́”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Verduras, folhas"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
                 "gemini": null,
                 "humano": null
               }
@@ -3999,7 +5310,14 @@
               "uses": [
                 "Use este termo para identificar coisas."
               ],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Aṣọ funfun ni mo wọ̀",
+                  "portuguese": "Estou vestindo roupa branca",
+                  "pronunciation": "A-chó fun-fun ni mô uó",
+                  "note": ""
+                }
+              ],
               "context": "Muitos objetos modernos ganharam nomes emprestados do inglês (tábìlì, fóònù), adaptados aos sons e aos tons do Yorùbá.",
               "variations": [],
               "related": [
@@ -4131,9 +5449,7 @@
               "variations": [],
               "related": [
                 "animais-2",
-                "animais-3",
-                "animais-4",
-                "animais-5"
+                "animais-4"
               ],
               "exercises": [
                 "Leia “Ajá” em voz alta três vezes, respeitando os sinais de tom.",
@@ -4194,7 +5510,6 @@
               "variations": [],
               "related": [
                 "animais-1",
-                "animais-3",
                 "animais-4",
                 "animais-5"
               ],
@@ -4235,62 +5550,6 @@
               }
             },
             {
-              "id": "animais-3",
-              "kind": "concept",
-              "label": "Cavalo",
-              "yoruba": "Ẹṣin",
-              "pronunciation": "É-chin",
-              "summary": "cavalo",
-              "explanation": "Cavalo. Não confundir com ẹ̀sìn (religião), que tem outros tons.",
-              "uses": [
-                "Use este termo para nomear seres vivos."
-              ],
-              "phrases": [],
-              "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
-              "variations": [],
-              "related": [
-                "animais-1",
-                "animais-2",
-                "animais-4",
-                "animais-5"
-              ],
-              "exercises": [
-                "Leia “Ẹṣin” em voz alta três vezes, respeitando os sinais de tom.",
-                "Cubra o português e tente lembrar o significado de “Ẹṣin”."
-              ],
-              "sources": [
-                {
-                  "title": "Preply — Yoruba words for beginners",
-                  "url": "https://preply.com/en/blog/yoruba-words/",
-                  "scope": "vocabulário e frases introdutórias"
-                },
-                {
-                  "title": "Bowen — Grammar and dictionary of the Yoruba language (Smithsonian, 1858)",
-                  "url": "https://hdl.handle.net/10088/60927",
-                  "scope": "referência histórica de gramática e dicionário"
-                },
-                {
-                  "title": "Yoruba Dictionary",
-                  "url": "https://www.yorubadictionary.com/",
-                  "scope": "consulta lexical; acesso pode exigir verificação"
-                }
-              ],
-              "cards": [
-                "08-animais"
-              ],
-              "translations": [
-                "Cavalo"
-              ],
-              "review": {
-                "claude": "ok",
-                "confianca": "alta",
-                "nota": "",
-                "manus": "Não identifico discordância nesta revisão; manter o conteúdo atual e deixar a validação humana como etapa posterior.",
-                "gemini": null,
-                "humano": null
-              }
-            },
-            {
               "id": "animais-4",
               "kind": "concept",
               "label": "Vaca",
@@ -4307,8 +5566,8 @@
               "related": [
                 "animais-1",
                 "animais-2",
-                "animais-3",
-                "animais-5"
+                "animais-5",
+                "animais-6"
               ],
               "exercises": [
                 "Leia “Màlúù” em voz alta três vezes, respeitando os sinais de tom.",
@@ -4361,10 +5620,10 @@
               "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
               "variations": [],
               "related": [
-                "animais-1",
                 "animais-2",
-                "animais-3",
-                "animais-4"
+                "animais-4",
+                "animais-6",
+                "animais-7"
               ],
               "exercises": [
                 "Leia “Ewúrẹ́” em voz alta três vezes, respeitando os sinais de tom.",
@@ -4417,10 +5676,10 @@
               "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
               "variations": [],
               "related": [
-                "animais-1",
-                "animais-2",
-                "animais-3",
-                "animais-4"
+                "animais-4",
+                "animais-5",
+                "animais-7",
+                "animais-8"
               ],
               "exercises": [
                 "Leia “Adìẹ” em voz alta três vezes, respeitando os sinais de tom.",
@@ -4473,10 +5732,10 @@
               "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
               "variations": [],
               "related": [
-                "animais-1",
-                "animais-2",
-                "animais-3",
-                "animais-4"
+                "animais-5",
+                "animais-6",
+                "animais-8",
+                "animais-11"
               ],
               "exercises": [
                 "Leia “Ẹyẹ” em voz alta três vezes, respeitando os sinais de tom.",
@@ -4529,10 +5788,10 @@
               "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
               "variations": [],
               "related": [
-                "animais-1",
-                "animais-2",
-                "animais-3",
-                "animais-4"
+                "animais-6",
+                "animais-7",
+                "animais-11",
+                "animais-12"
               ],
               "exercises": [
                 "Leia “Ẹja” em voz alta três vezes, respeitando os sinais de tom.",
@@ -4571,113 +5830,329 @@
               }
             },
             {
-              "id": "animais-9",
+              "id": "animais-11",
               "kind": "concept",
-              "label": "Leão",
-              "yoruba": "Kìnnìún",
-              "pronunciation": "Kin-ni-un",
-              "summary": "leão",
-              "explanation": "Leão, símbolo de força e realeza nos provérbios.",
-              "uses": [
-                "Use este termo para nomear seres vivos."
+              "label": "Galo",
+              "yoruba": "Àkùkọ",
+              "pronunciation": "A-ku-kó",
+              "summary": "galo",
+              "explanation": "Galo. Galinha é adìẹ; o galo tem nome próprio.",
+              "uses": [],
+              "phrases": [
+                {
+                  "yoruba": "Àkùkọ ń kọ",
+                  "portuguese": "O galo está cantando",
+                  "pronunciation": "A-ku-kó n kó",
+                  "note": ""
+                }
               ],
-              "phrases": [],
               "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
               "variations": [],
               "related": [
-                "animais-1",
-                "animais-2",
-                "animais-3",
-                "animais-4"
+                "animais-7",
+                "animais-8",
+                "animais-12",
+                "animais-13"
               ],
               "exercises": [
-                "Leia “Kìnnìún” em voz alta três vezes, respeitando os sinais de tom.",
-                "Cubra o português e tente lembrar o significado de “Kìnnìún”."
+                "Leia “Àkùkọ” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Àkùkọ”."
               ],
-              "sources": [
-                {
-                  "title": "Preply — Yoruba words for beginners",
-                  "url": "https://preply.com/en/blog/yoruba-words/",
-                  "scope": "vocabulário e frases introdutórias"
-                },
-                {
-                  "title": "Bowen — Grammar and dictionary of the Yoruba language (Smithsonian, 1858)",
-                  "url": "https://hdl.handle.net/10088/60927",
-                  "scope": "referência histórica de gramática e dicionário"
-                },
-                {
-                  "title": "Yoruba Dictionary",
-                  "url": "https://www.yorubadictionary.com/",
-                  "scope": "consulta lexical; acesso pode exigir verificação"
-                }
-              ],
-              "cards": [
-                "08-animais"
-              ],
+              "sources": [],
+              "cards": [],
               "translations": [
-                "Leão"
+                "Galo"
               ],
               "review": {
                 "claude": "ok",
                 "confianca": "alta",
                 "nota": "",
-                "manus": "Não identifico discordância nesta revisão; manter o conteúdo atual e deixar a validação humana como etapa posterior.",
+                "manus": null,
                 "gemini": null,
                 "humano": null
               }
             },
             {
-              "id": "animais-10",
+              "id": "animais-12",
               "kind": "concept",
-              "label": "Elefante",
-              "yoruba": "Erin",
-              "pronunciation": "Ê-rin",
-              "summary": "elefante",
-              "explanation": "Elefante. Compare: erin (elefante), ẹ̀rin (quatro) e ẹ̀rín (riso).",
-              "uses": [
-                "Use este termo para nomear seres vivos."
-              ],
+              "label": "Pato",
+              "yoruba": "Pẹ́pẹ́yẹ",
+              "pronunciation": "Pé-pé-ié",
+              "summary": "pato",
+              "explanation": "Pato. Repare nos tons altos das duas primeiras sílabas.",
+              "uses": [],
               "phrases": [],
               "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
               "variations": [],
               "related": [
-                "animais-1",
-                "animais-2",
-                "animais-3",
-                "animais-4"
+                "animais-8",
+                "animais-11",
+                "animais-13",
+                "animais-14"
               ],
               "exercises": [
-                "Leia “Erin” em voz alta três vezes, respeitando os sinais de tom.",
-                "Cubra o português e tente lembrar o significado de “Erin”."
+                "Leia “Pẹ́pẹ́yẹ” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Pẹ́pẹ́yẹ”."
               ],
-              "sources": [
-                {
-                  "title": "Preply — Yoruba words for beginners",
-                  "url": "https://preply.com/en/blog/yoruba-words/",
-                  "scope": "vocabulário e frases introdutórias"
-                },
-                {
-                  "title": "Bowen — Grammar and dictionary of the Yoruba language (Smithsonian, 1858)",
-                  "url": "https://hdl.handle.net/10088/60927",
-                  "scope": "referência histórica de gramática e dicionário"
-                },
-                {
-                  "title": "Yoruba Dictionary",
-                  "url": "https://www.yorubadictionary.com/",
-                  "scope": "consulta lexical; acesso pode exigir verificação"
-                }
-              ],
-              "cards": [
-                "08-animais"
-              ],
+              "sources": [],
+              "cards": [],
               "translations": [
-                "Elefante"
+                "Pato"
               ],
               "review": {
                 "claude": "ok",
                 "confianca": "alta",
                 "nota": "",
-                "manus": "Não identifico discordância nesta revisão; manter o conteúdo atual e deixar a validação humana como etapa posterior.",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "animais-13",
+              "kind": "concept",
+              "label": "Bode",
+              "yoruba": "Òbúkọ",
+              "pronunciation": "Ô-bu-kó",
+              "summary": "bode (cabra macho)",
+              "explanation": "O macho da cabra (ewúrẹ́). Em Yorùbá, vários animais têm nomes diferentes para macho e fêmea.",
+              "uses": [],
+              "phrases": [],
+              "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
+              "variations": [],
+              "related": [
+                "animais-11",
+                "animais-12",
+                "animais-14",
+                "animais-15"
+              ],
+              "exercises": [
+                "Leia “Òbúkọ” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Òbúkọ”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Bode"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "animais-14",
+              "kind": "concept",
+              "label": "Carneiro",
+              "yoruba": "Àgbò",
+              "pronunciation": "A-gbô",
+              "summary": "carneiro",
+              "explanation": "Carneiro. A ovelha (fêmea) é àgùntàn.",
+              "uses": [],
+              "phrases": [],
+              "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
+              "variations": [],
+              "related": [
+                "animais-12",
+                "animais-13",
+                "animais-15",
+                "animais-16"
+              ],
+              "exercises": [
+                "Leia “Àgbò” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Àgbò”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Carneiro"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "animais-15",
+              "kind": "concept",
+              "label": "Porco",
+              "yoruba": "Ẹlẹ́dẹ̀",
+              "pronunciation": "É-lé-dé",
+              "summary": "porco",
+              "explanation": "Porco.",
+              "uses": [],
+              "phrases": [],
+              "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
+              "variations": [],
+              "related": [
+                "animais-13",
+                "animais-14",
+                "animais-16",
+                "animais-17"
+              ],
+              "exercises": [
+                "Leia “Ẹlẹ́dẹ̀” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹlẹ́dẹ̀”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Porco"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "animais-16",
+              "kind": "concept",
+              "label": "Pombo",
+              "yoruba": "Ẹyẹlé",
+              "pronunciation": "É-ié-lê",
+              "summary": "pombo",
+              "explanation": "Literalmente “pássaro da casa”: ẹyẹ (pássaro) + ilé (casa).",
+              "uses": [],
+              "phrases": [],
+              "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
+              "variations": [],
+              "related": [
+                "animais-14",
+                "animais-15",
+                "animais-17",
+                "animais-18"
+              ],
+              "exercises": [
+                "Leia “Ẹyẹlé” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹyẹlé”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Pombo"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "animais-17",
+              "kind": "concept",
+              "label": "Galinha-d’angola",
+              "yoruba": "Ẹtù",
+              "pronunciation": "É-tu",
+              "summary": "galinha-d'angola",
+              "explanation": "A galinha-d’angola, de penas pintadas. Também se ouve awó.",
+              "uses": [],
+              "phrases": [],
+              "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
+              "variations": [],
+              "related": [
+                "animais-15",
+                "animais-16",
+                "animais-18",
+                "animais-19"
+              ],
+              "exercises": [
+                "Leia “Ẹtù” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ẹtù”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Galinha-d’angola"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "animais-18",
+              "kind": "concept",
+              "label": "Igbin (caracol)",
+              "yoruba": "Ìgbín",
+              "pronunciation": "I-gbin",
+              "summary": "caracol grande — o igbin dos terreiros",
+              "explanation": "O caracol grande africano, conhecido no Brasil como igbin ou ibim. Símbolo de calma e frescor, associado a Ọbàtálá.",
+              "uses": [],
+              "phrases": [],
+              "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
+              "variations": [],
+              "related": [
+                "animais-16",
+                "animais-17",
+                "animais-19"
+              ],
+              "exercises": [
+                "Leia “Ìgbín” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ìgbín”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Igbin (caracol)"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "animais-19",
+              "kind": "concept",
+              "label": "Cágado, tartaruga",
+              "yoruba": "Ìjàpá",
+              "pronunciation": "I-dja-pa",
+              "summary": "cágado, tartaruga",
+              "explanation": "O cágado é personagem esperto e trapaceiro das histórias populares Yorùbá (àlọ́), como a raposa das fábulas.",
+              "uses": [],
+              "phrases": [],
+              "context": "Animais aparecem com frequência nos provérbios (òwe) e nas narrativas de Ifá, cada um carregando características simbólicas.",
+              "variations": [],
+              "related": [
+                "animais-17",
+                "animais-18"
+              ],
+              "exercises": [
+                "Leia “Ìjàpá” em voz alta três vezes, respeitando os sinais de tom.",
+                "Cubra o português e tente lembrar o significado de “Ìjàpá”."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "Cágado, tartaruga"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
                 "gemini": null,
                 "humano": null
               }
@@ -5823,7 +7298,14 @@
               "uses": [
                 "Use este termo para apresentar-se e pedir esclarecimento."
               ],
-              "phrases": [],
+              "phrases": [
+                {
+                  "yoruba": "Ó dàbọ̀, Bàbá",
+                  "portuguese": "Até logo, Baba",
+                  "pronunciation": "Ô da-bó, Ba-ba",
+                  "note": ""
+                }
+              ],
               "context": "Estas frases cobrem uma primeira conversa: apresentar-se, perguntar o nome, pedir que repitam e se despedir.",
               "variations": [],
               "related": [
@@ -6359,7 +7841,9 @@
               "variations": [],
               "related": [
                 "ese-ifa",
-                "instrumentos-consulta-1"
+                "instrumentos-consulta-1",
+                "odu-meji-n01",
+                "odu-meji-n02"
               ],
               "exercises": [
                 "Explique como 16 Odù principais chegam a 256 combinações."
@@ -7982,6 +9466,2223 @@
                 "confianca": "media",
                 "nota": "Antes: Ibòwò fún àṣà.",
                 "manus": "A forma com acentos é uma normalização plausível, mas “respeito à linhagem” é uma construção contextual; manter a nota para não apresentá-la como termo universal.",
+                "gemini": null,
+                "humano": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "ifa1-tema-11",
+          "kind": "topic",
+          "label": "Os 16 Odù Méjì",
+          "category": "ifá",
+          "children": [
+            {
+              "id": "odu-meji-n01",
+              "kind": "concept",
+              "label": "1. Èjì Ogbè",
+              "yoruba": "Èjì Ogbè",
+              "pronunciation": "Ê-dji Ô-gbê",
+              "summary": "1º Odù Méjì — marca I I I I",
+              "explanation": "O primeiro e mais velho dos Odù. Também chamado Ogbè Méjì. Forma par com Ọ̀yẹ̀kú Méjì: é associado à luz, ao dia e à abertura de caminhos.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): I I I I"
+              ],
+              "related": [
+                "odu-meji-n02",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Èjì Ogbè e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "1. Èjì Ogbè"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n02",
+              "kind": "concept",
+              "label": "2. Ọ̀yẹ̀kú Méjì",
+              "yoruba": "Ọ̀yẹ̀kú Méjì",
+              "pronunciation": "Ó-ié-ku Mê-dji",
+              "summary": "2º Odù Méjì — marca II II II II",
+              "explanation": "O segundo Odù, par de Èjì Ogbè: associado à escuridão, à noite e ao recolhimento. A dupla Ogbè–Ọ̀yẹ̀kú representa os opostos que se completam.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): II II II II"
+              ],
+              "related": [
+                "odu-meji-n01",
+                "odu-meji-n03",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ọ̀yẹ̀kú Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "2. Ọ̀yẹ̀kú Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n03",
+              "kind": "concept",
+              "label": "3. Ìwòrì Méjì",
+              "yoruba": "Ìwòrì Méjì",
+              "pronunciation": "I-uô-ri Mê-dji",
+              "summary": "3º Odù Méjì — marca II I I II",
+              "explanation": "O terceiro Odù na ordem de senioridade.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): II I I II"
+              ],
+              "related": [
+                "odu-meji-n04",
+                "odu-meji-n02",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ìwòrì Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "3. Ìwòrì Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n04",
+              "kind": "concept",
+              "label": "4. Òdí Méjì",
+              "yoruba": "Òdí Méjì",
+              "pronunciation": "Ô-di Mê-dji",
+              "summary": "4º Odù Méjì — marca I II II I",
+              "explanation": "O quarto Odù. Sua marca é o inverso da de Ìwòrì: onde há um traço passa a haver dois, e vice-versa.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): I II II I"
+              ],
+              "related": [
+                "odu-meji-n03",
+                "odu-meji-n05",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Òdí Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "4. Òdí Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n05",
+              "kind": "concept",
+              "label": "5. Ìrosùn Méjì",
+              "yoruba": "Ìrosùn Méjì",
+              "pronunciation": "I-rô-sun Mê-dji",
+              "summary": "5º Odù Méjì — marca I I II II",
+              "explanation": "O quinto Odù na ordem de senioridade.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): I I II II"
+              ],
+              "related": [
+                "odu-meji-n06",
+                "odu-meji-n04",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ìrosùn Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "5. Ìrosùn Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n06",
+              "kind": "concept",
+              "label": "6. Ọ̀wọ́nrín Méjì",
+              "yoruba": "Ọ̀wọ́nrín Méjì",
+              "pronunciation": "Ó-uón-rin Mê-dji",
+              "summary": "6º Odù Méjì — marca II II I I",
+              "explanation": "O sexto Odù. Sua marca é o inverso da de Ìrosùn.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): II II I I"
+              ],
+              "related": [
+                "odu-meji-n05",
+                "odu-meji-n07",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ọ̀wọ́nrín Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "6. Ọ̀wọ́nrín Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n07",
+              "kind": "concept",
+              "label": "7. Ọ̀bàrà Méjì",
+              "yoruba": "Ọ̀bàrà Méjì",
+              "pronunciation": "Ó-ba-ra Mê-dji",
+              "summary": "7º Odù Méjì — marca I II II II",
+              "explanation": "O sétimo Odù na ordem de senioridade.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): I II II II"
+              ],
+              "related": [
+                "odu-meji-n08",
+                "odu-meji-n06",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ọ̀bàrà Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "7. Ọ̀bàrà Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n08",
+              "kind": "concept",
+              "label": "8. Ọ̀kànràn Méjì",
+              "yoruba": "Ọ̀kànràn Méjì",
+              "pronunciation": "Ó-kan-ran Mê-dji",
+              "summary": "8º Odù Méjì — marca II II II I",
+              "explanation": "O oitavo Odù. Sua marca é o espelho da de Ọ̀bàrà.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): II II II I"
+              ],
+              "related": [
+                "odu-meji-n07",
+                "odu-meji-n09",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ọ̀kànràn Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "8. Ọ̀kànràn Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n09",
+              "kind": "concept",
+              "label": "9. Ògúndá Méjì",
+              "yoruba": "Ògúndá Méjì",
+              "pronunciation": "Ô-gun-da Mê-dji",
+              "summary": "9º Odù Méjì — marca I I I II",
+              "explanation": "O nono Odù na ordem de senioridade.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): I I I II"
+              ],
+              "related": [
+                "odu-meji-n10",
+                "odu-meji-n08",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ògúndá Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "9. Ògúndá Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n10",
+              "kind": "concept",
+              "label": "10. Ọ̀sá Méjì",
+              "yoruba": "Ọ̀sá Méjì",
+              "pronunciation": "Ó-sa Mê-dji",
+              "summary": "10º Odù Méjì — marca II I I I",
+              "explanation": "O décimo Odù. Sua marca é o espelho da de Ògúndá.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): II I I I"
+              ],
+              "related": [
+                "odu-meji-n09",
+                "odu-meji-n11",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ọ̀sá Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "10. Ọ̀sá Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n11",
+              "kind": "concept",
+              "label": "11. Ìká Méjì",
+              "yoruba": "Ìká Méjì",
+              "pronunciation": "I-ka Mê-dji",
+              "summary": "11º Odù Méjì — marca II I II II",
+              "explanation": "O décimo primeiro Odù na ordem de senioridade.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): II I II II"
+              ],
+              "related": [
+                "odu-meji-n12",
+                "odu-meji-n10",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ìká Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "11. Ìká Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n12",
+              "kind": "concept",
+              "label": "12. Òtúrúpọ̀n Méjì",
+              "yoruba": "Òtúrúpọ̀n Méjì",
+              "pronunciation": "Ô-tu-ru-pón Mê-dji",
+              "summary": "12º Odù Méjì — marca II II I II",
+              "explanation": "O décimo segundo Odù. Sua marca é o espelho da de Ìká.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): II II I II"
+              ],
+              "related": [
+                "odu-meji-n11",
+                "odu-meji-n13",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Òtúrúpọ̀n Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "12. Òtúrúpọ̀n Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n13",
+              "kind": "concept",
+              "label": "13. Òtúrá Méjì",
+              "yoruba": "Òtúrá Méjì",
+              "pronunciation": "Ô-tu-ra Mê-dji",
+              "summary": "13º Odù Méjì — marca I II I I",
+              "explanation": "O décimo terceiro Odù na ordem de senioridade.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): I II I I"
+              ],
+              "related": [
+                "odu-meji-n14",
+                "odu-meji-n12",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Òtúrá Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "13. Òtúrá Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n14",
+              "kind": "concept",
+              "label": "14. Ìrẹtẹ̀ Méjì",
+              "yoruba": "Ìrẹtẹ̀ Méjì",
+              "pronunciation": "I-ré-té Mê-dji",
+              "summary": "14º Odù Méjì — marca I I II I",
+              "explanation": "O décimo quarto Odù. Sua marca é o espelho da de Òtúrá.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): I I II I"
+              ],
+              "related": [
+                "odu-meji-n13",
+                "odu-meji-n15",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ìrẹtẹ̀ Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "14. Ìrẹtẹ̀ Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n15",
+              "kind": "concept",
+              "label": "15. Ọ̀ṣẹ́ Méjì",
+              "yoruba": "Ọ̀ṣẹ́ Méjì",
+              "pronunciation": "Ó-ché Mê-dji",
+              "summary": "15º Odù Méjì — marca I II I II",
+              "explanation": "O décimo quinto Odù na ordem de senioridade.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): I II I II"
+              ],
+              "related": [
+                "odu-meji-n16",
+                "odu-meji-n14",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Ọ̀ṣẹ́ Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "15. Ọ̀ṣẹ́ Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "odu-meji-n16",
+              "kind": "concept",
+              "label": "16. Òfún Méjì",
+              "yoruba": "Òfún Méjì",
+              "pronunciation": "Ô-fun Mê-dji",
+              "summary": "16º Odù Méjì — marca II I II I",
+              "explanation": "O décimo sexto e último dos Odù Méjì. Sua marca é o espelho da de Ọ̀ṣẹ́.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os 16 Odù Méjì são os Odù principais. Cada um tem uma marca de quatro linhas, lida de cima para baixo: um traço (I) ou dois traços (II). A ordem aqui é a de senioridade da tradição nigeriana; outras tradições podem ordenar de outra forma. Quando um Odù é o “espelho” de outro, sua marca é a mesma lida de baixo para cima. Não confundir com os odù do jogo de búzios (mẹ́rìndínlógún) do Candomblé, que têm outros nomes e outra ordem.",
+              "variations": [
+                "Marca (de cima para baixo): II I II I"
+              ],
+              "related": [
+                "odu-meji-n15",
+                "odu"
+              ],
+              "exercises": [
+                "Desenhe a marca de Òfún Méjì e diga sua posição na ordem."
+              ],
+              "sources": [],
+              "cards": [],
+              "translations": [
+                "16. Òfún Méjì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "ifa1-tema-12",
+          "kind": "topic",
+          "label": "Ọ̀sẹ̀: o cuidado do ojúbọ",
+          "category": "ifá",
+          "children": [
+            {
+              "id": "ose-1",
+              "kind": "concept",
+              "label": "Ọ̀sẹ̀ (cuidado periódico)",
+              "yoruba": "Ọ̀sẹ̀",
+              "pronunciation": "Ó-sé",
+              "summary": "o cuidado periódico do Òrìṣà; também 'semana'",
+              "explanation": "Ọ̀sẹ̀ é a semana tradicional e, por extensão, o cuidado feito com o Òrìṣà nesse ritmo. Na apostila da casa: o ọ̀sẹ̀ pode ser feito de 4 em 4 dias ou uma vez por semana, como autorresponsabilidade do iniciado.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [
+                "Na apostila: Ose."
+              ],
+              "related": [
+                "ose-2",
+                "ose-3"
+              ],
+              "exercises": [
+                "Por que o ọ̀sẹ̀ é chamado de autorresponsabilidade?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọ̀sẹ̀ (cuidado periódico)"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-2",
+              "kind": "concept",
+              "label": "Assentamento, altar",
+              "yoruba": "Ojúbọ",
+              "pronunciation": "Ô-dju-bó",
+              "summary": "o lugar de culto, o assentamento",
+              "explanation": "Literalmente “o lugar diante do qual se cultua” (ojú + bọ). É o assentamento do Òrìṣà ou de Èṣù: ojúbọ Òrìṣà, ojúbọ Èṣù.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [
+                "Na apostila: Ojubo."
+              ],
+              "related": [
+                "ose-1",
+                "ose-3",
+                "ose-4"
+              ],
+              "exercises": [
+                "O que é ojúbọ Èṣù?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Assentamento, altar"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-3",
+              "kind": "concept",
+              "label": "Obì de quatro gomos",
+              "yoruba": "Obì àbàtà",
+              "pronunciation": "Ô-bi a-ba-ta",
+              "summary": "o obì com gomos (lóbulos), usado no culto",
+              "explanation": "Tipo de obì que se abre em 3, 4, 5, 6 ou até 8 gomos. Na apostila da casa: usa-se normalmente o de 4 gomos para cultuar e consultar Òrìṣà ou Orí.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [],
+              "related": [
+                "ose-1",
+                "ose-2",
+                "ose-4",
+                "ose-5"
+              ],
+              "exercises": [
+                "Quantos gomos tem o obì àbàtà usado normalmente no ọ̀sẹ̀?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Obì de quatro gomos"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-4",
+              "kind": "concept",
+              "label": "Gomo do obì",
+              "yoruba": "Awẹ́ obì",
+              "pronunciation": "A-ué ô-bi",
+              "summary": "cada gomo (lóbulo) do obì",
+              "explanation": "Awẹ́ é cada parte em que o obì se abre. Os gomos são reconhecidos como macho (akọ) ou fêmea (abo). Na apostila da casa: num obì de 5 gomos ou mais, mantêm-se 2 machos e 2 fêmeas.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [
+                "Macho: akọ. Fêmea: abo."
+              ],
+              "related": [
+                "ose-2",
+                "ose-3",
+                "ose-5",
+                "ose-6"
+              ],
+              "exercises": [
+                "Como se diz 'macho' e 'fêmea' em Yorùbá?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Gomo do obì"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-5",
+              "kind": "concept",
+              "label": "Dois para cima, dois para baixo",
+              "yoruba": "Èjìré",
+              "pronunciation": "Ê-dji-rê",
+              "summary": "caída do obì: 2 abertos — resposta positiva",
+              "explanation": "Caída em que dois gomos ficam com a face aberta para cima e dois para baixo. Na apostila da casa: é resposta positiva (sim).",
+              "uses": [],
+              "phrases": [],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [],
+              "related": [
+                "ose-3",
+                "ose-4",
+                "ose-6",
+                "ose-7"
+              ],
+              "exercises": [
+                "Desenhe a caída Èjìré."
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Dois para cima, dois para baixo"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-6",
+              "kind": "concept",
+              "label": "Quatro para cima",
+              "yoruba": "Àláàfíà",
+              "pronunciation": "A-la-a-fi-a",
+              "summary": "caída do obì: 4 abertos — sim, paz",
+              "explanation": "Àláàfíà significa paz, bem-estar. Como caída, os quatro gomos ficam abertos para cima. Na apostila da casa: resposta positiva (sim).",
+              "uses": [],
+              "phrases": [
+                {
+                  "yoruba": "Àláàfíà ni",
+                  "portuguese": "Está tudo em paz",
+                  "pronunciation": "A-la-a-fi-a ni",
+                  "note": ""
+                }
+              ],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [],
+              "related": [
+                "ose-4",
+                "ose-5",
+                "ose-7",
+                "ose-8"
+              ],
+              "exercises": [
+                "Que outro sentido tem a palavra àláàfíà fora do obì?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Quatro para cima"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-7",
+              "kind": "concept",
+              "label": "Um para cima",
+              "yoruba": "Ọ̀kànràn",
+              "pronunciation": "Ó-kan-ran",
+              "summary": "caída do obì: 1 aberto — atenção",
+              "explanation": "Um gomo aberto para cima. É também o nome de um dos 16 Odù. Na apostila da casa: caída de atenção; costuma indicar uma ausência, uma falta com o espiritual. Pergunta-se então Ire dé?",
+              "uses": [],
+              "phrases": [],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [
+                "Na apostila: Okan / Okaran."
+              ],
+              "related": [
+                "odu-meji-n08",
+                "ose-5",
+                "ose-6",
+                "ose-8",
+                "ose-9"
+              ],
+              "exercises": [
+                "Que Odù tem o mesmo nome desta caída?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Um para cima"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-8",
+              "kind": "concept",
+              "label": "Três para cima",
+              "yoruba": "Ẹtawa",
+              "pronunciation": "É-ta-ua",
+              "summary": "caída do obì: 3 abertos — atenção à conduta",
+              "explanation": "Três gomos abertos para cima. Na apostila da casa: caída de atenção ligada ao comportamento (nervosismo, ansiedade, conduta). Pergunta-se então Ire dé?",
+              "uses": [],
+              "phrases": [],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [
+                "Na apostila: Iwá / Etawa."
+              ],
+              "related": [
+                "ose-6",
+                "ose-7",
+                "ose-9",
+                "ose-10"
+              ],
+              "exercises": [
+                "A caída Ẹtawa chama atenção para o quê?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Três para cima"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "Confirmar com Ya/baba a grafia e o nome usados na casa.",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-9",
+              "kind": "concept",
+              "label": "Quatro para baixo",
+              "yoruba": "Ọ̀yẹ̀kú",
+              "pronunciation": "Ó-ié-ku",
+              "summary": "caída do obì: nenhum aberto — atenção",
+              "explanation": "Os quatro gomos com a face fechada para cima. É também o nome do segundo Odù Méjì. Na apostila da casa: caída de atenção, também chamada Ìṣẹ́gun.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [
+                "Na apostila: Oyeku / Isegun."
+              ],
+              "related": [
+                "odu-meji-n02",
+                "ose-7",
+                "ose-8",
+                "ose-10",
+                "ose-11"
+              ],
+              "exercises": [
+                "Que Odù Méjì tem o mesmo nome desta caída?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Quatro para baixo"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-10",
+              "kind": "concept",
+              "label": "O ire se levanta?",
+              "yoruba": "Ire dé?",
+              "pronunciation": "I-rê dê?",
+              "summary": "pergunta feita após uma caída de atenção",
+              "explanation": "Literalmente “o ire chegou?”. Na apostila da casa: depois de uma caída de atenção, pergunta-se se o ire se levanta. Se sim, pergunta-se qual ire; se não, qual ibi (alerta).",
+              "uses": [],
+              "phrases": [],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [
+                "Na apostila: Irede?"
+              ],
+              "related": [
+                "ose-8",
+                "ose-9",
+                "ose-11",
+                "ose-12"
+              ],
+              "exercises": [
+                "O que se pergunta depois de um 'sim' ao Ire dé?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "O ire se levanta?"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "Confirmar com Ya/baba a forma da pergunta usada na casa.",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-11",
+              "kind": "concept",
+              "label": "Encerrar",
+              "yoruba": "Parí",
+              "pronunciation": "Pa-ri",
+              "summary": "terminar, encerrar",
+              "explanation": "Parí = terminar. Na apostila da casa: ao fim do ọ̀sẹ̀ pergunta-se ao obì se já é suficiente, se o ọ̀sẹ̀ se encerrou.",
+              "uses": [],
+              "phrases": [
+                {
+                  "yoruba": "Ó parí",
+                  "portuguese": "Terminou",
+                  "pronunciation": "Ô pa-ri",
+                  "note": ""
+                }
+              ],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [
+                "Na apostila: Pári Alaafia? (é o suficiente?)"
+              ],
+              "related": [
+                "ose-9",
+                "ose-10",
+                "ose-12",
+                "ose-13"
+              ],
+              "exercises": [
+                "Como se diz 'terminou'?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Encerrar"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-12",
+              "kind": "concept",
+              "label": "Saudação ao Orí",
+              "yoruba": "Ìbà Orí mi",
+              "pronunciation": "I-ba Ô-ri mi",
+              "summary": "eu saúdo o meu Orí",
+              "explanation": "Ìbà (reverência) + Orí mi (meu Orí). Na apostila da casa: faz parte das saudações de abertura, com as duas mãos na cabeça.",
+              "uses": [],
+              "phrases": [
+                {
+                  "yoruba": "Ìbà Olódùmarè",
+                  "portuguese": "Eu saúdo Olódùmarè",
+                  "pronunciation": "I-ba Ô-lô-du-ma-rê",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ìbà Òrìṣà mi",
+                  "portuguese": "Eu saúdo meu Òrìṣà",
+                  "pronunciation": "I-ba Ô-ri-cha mi",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ìbà Odù mi",
+                  "portuguese": "Eu saúdo meu Odù",
+                  "pronunciation": "I-ba Ô-du mi",
+                  "note": ""
+                }
+              ],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [],
+              "related": [
+                "ose-10",
+                "ose-11",
+                "ose-13"
+              ],
+              "exercises": [
+                "Monte três saudações com Ìbà."
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Saudação ao Orí"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ose-13",
+              "kind": "concept",
+              "label": "Água fresca",
+              "yoruba": "Omi tútù",
+              "pronunciation": "Ô-mi tu-tu",
+              "summary": "água fresca — e a bênção do frescor",
+              "explanation": "Omi (água) + tútù (fresco, frio). O frescor é imagem de calma e de bem-estar; por isso se diz que a água refresca o caminho e a casa.",
+              "uses": [],
+              "phrases": [
+                {
+                  "yoruba": "Omi tútù",
+                  "portuguese": "Água fresca",
+                  "pronunciation": "Ô-mi tu-tu",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ọ̀nà tútù",
+                  "portuguese": "Caminho fresco",
+                  "pronunciation": "Ó-na tu-tu",
+                  "note": ""
+                },
+                {
+                  "yoruba": "Ilé tútù",
+                  "portuguese": "Casa fresca",
+                  "pronunciation": "I-lê tu-tu",
+                  "note": ""
+                }
+              ],
+              "context": "Ọ̀sẹ̀ é o cuidado periódico do assentamento (ojúbọ), feito pelo próprio iniciado. Este tema reúne as palavras usadas nesse momento. O passo a passo é ensinado presencialmente pela casa.",
+              "variations": [
+                "Na apostila da casa: saúda-se o obì com água, dizendo que a água refresca os caminhos, a casa e o bem-estar."
+              ],
+              "related": [
+                "ose-11",
+                "ose-12"
+              ],
+              "exercises": [
+                "O que significa tútù, e por que o frescor é algo bom?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Água fresca"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "ifa1-tema-13",
+          "kind": "topic",
+          "label": "Ire e ibi: os caminhos da resposta",
+          "category": "ifá",
+          "children": [
+            {
+              "id": "ire-1",
+              "kind": "concept",
+              "label": "Ire (o bem)",
+              "yoruba": "Ire",
+              "pronunciation": "I-rê",
+              "summary": "bem, boa sorte, bênção",
+              "explanation": "Tudo o que é bom e vem para a pessoa. É o contrário de ibi. Cada tipo de ire tem um nome próprio: ire àìkú, ire ìlera, ire ajé…",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-2",
+                "ire-3"
+              ],
+              "exercises": [
+                "Cite três tipos de ire."
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ire (o bem)"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-2",
+              "kind": "concept",
+              "label": "Ire de vida longa",
+              "yoruba": "Ire àìkú",
+              "pronunciation": "I-rê a-i-ku",
+              "summary": "o bem da vida longa",
+              "explanation": "Àìkú = não morrer (cedo), vida longa.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-1",
+                "ire-3",
+                "ire-4"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ire de vida longa"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-3",
+              "kind": "concept",
+              "label": "Ire de saúde",
+              "yoruba": "Ire ìlera",
+              "pronunciation": "I-rê i-lê-ra",
+              "summary": "o bem da saúde",
+              "explanation": "Ìlera = saúde.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-1",
+                "ire-2",
+                "ire-4",
+                "ire-5"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ire de saúde"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-4",
+              "kind": "concept",
+              "label": "Ire de prosperidade",
+              "yoruba": "Ire ajé",
+              "pronunciation": "I-rê a-djê",
+              "summary": "o bem da prosperidade",
+              "explanation": "Ajé = prosperidade, riqueza; também nome da divindade da riqueza.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-2",
+                "ire-3",
+                "ire-5",
+                "ire-6"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ire de prosperidade"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-5",
+              "kind": "concept",
+              "label": "Ire de filhos",
+              "yoruba": "Ire ọmọ",
+              "pronunciation": "I-rê ó-mó",
+              "summary": "o bem dos filhos",
+              "explanation": "Ọmọ = filho(a).",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-3",
+                "ire-4",
+                "ire-6",
+                "ire-7"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ire de filhos"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-6",
+              "kind": "concept",
+              "label": "Ire de dinheiro",
+              "yoruba": "Ire owó",
+              "pronunciation": "I-rê ô-uô",
+              "summary": "o bem do dinheiro",
+              "explanation": "Owó = dinheiro. Atenção: ọwọ́ (com tons altos e ọ) é mão.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-4",
+                "ire-5",
+                "ire-7",
+                "ire-8"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ire de dinheiro"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-7",
+              "kind": "concept",
+              "label": "Ire de vitória",
+              "yoruba": "Ire ìṣẹ́gun",
+              "pronunciation": "I-rê i-ché-gun",
+              "summary": "o bem da vitória (sobre inimigos)",
+              "explanation": "Ìṣẹ́gun = vitória. Ìṣẹ́gun ọ̀tá = vitória sobre inimigos.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-5",
+                "ire-6",
+                "ire-8",
+                "ire-9"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ire de vitória"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-8",
+              "kind": "concept",
+              "label": "Ire de bom cônjuge",
+              "yoruba": "Ire aya",
+              "pronunciation": "I-rê a-ia",
+              "summary": "o bem de um bom casamento",
+              "explanation": "Aya = esposa; ọkọ = marido. Na apostila aparece como Ire Yawo (de ìyàwó, esposa).",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [
+                "Na apostila: Ire Yawo."
+              ],
+              "related": [
+                "ire-6",
+                "ire-7",
+                "ire-9",
+                "ire-10"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ire de bom cônjuge"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-9",
+              "kind": "concept",
+              "label": "Ibi (alerta)",
+              "yoruba": "Ibi",
+              "pronunciation": "I-bi",
+              "summary": "o mal, o alerta — contrário de ire",
+              "explanation": "O que é ruim ou ameaça a pessoa. Na apostila da casa: o ibi não é sentença: é um alerta para ter mais atenção ao que está acontecendo.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-7",
+                "ire-8",
+                "ire-10",
+                "ire-11"
+              ],
+              "exercises": [
+                "Qual a diferença entre ire e ibi?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ibi (alerta)"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-10",
+              "kind": "concept",
+              "label": "Alerta de morte ou acidente",
+              "yoruba": "Ibi ikú",
+              "pronunciation": "I-bi i-ku",
+              "summary": "alerta de morte precoce ou acidente",
+              "explanation": "Ikú = morte. Na tradição, Ikú é também uma das forças personificadas.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-8",
+                "ire-9",
+                "ire-11",
+                "ire-12"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Alerta de morte ou acidente"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-11",
+              "kind": "concept",
+              "label": "Alerta de doença",
+              "yoruba": "Ibi àrùn",
+              "pronunciation": "I-bi a-run",
+              "summary": "alerta de doença",
+              "explanation": "Àrùn = doença.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-9",
+                "ire-10",
+                "ire-12",
+                "ire-13"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Alerta de doença"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-12",
+              "kind": "concept",
+              "label": "Alerta de praga",
+              "yoruba": "Ibi ẹ̀pè",
+              "pronunciation": "I-bi é-pê",
+              "summary": "alerta de praga, maldição",
+              "explanation": "Ẹ̀pè = praga, maldição. Na apostila da casa: praga familiar.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-10",
+                "ire-11",
+                "ire-13",
+                "ire-14"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Alerta de praga"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-13",
+              "kind": "concept",
+              "label": "Alerta de inimigos",
+              "yoruba": "Ibi ọ̀tá",
+              "pronunciation": "I-bi ó-ta",
+              "summary": "alerta de inimigos",
+              "explanation": "Ọ̀tá = inimigo.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-11",
+                "ire-12",
+                "ire-14"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Alerta de inimigos"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "ire-14",
+              "kind": "concept",
+              "label": "Forças negativas",
+              "yoruba": "Ajogun",
+              "pronunciation": "A-djô-gun",
+              "summary": "as forças que lutam contra o ser humano",
+              "explanation": "Os ajogun são, nos ensinamentos de Ifá, as forças negativas que ameaçam a vida: entre elas Ikú (morte) e Àrùn (doença). Na apostila da casa: aparece como Ibi ajogun.",
+              "uses": [],
+              "phrases": [],
+              "context": "Ire é o bem que vem; ibi é o alerta. Na consulta ao obì, depois de saber se a resposta é positiva ou de atenção, pergunta-se qual ire ou qual ibi. Estes são os nomes usados.",
+              "variations": [],
+              "related": [
+                "ire-12",
+                "ire-13"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Forças negativas"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "ifa1-tema-14",
+          "kind": "topic",
+          "label": "Elementos do ojúbọ",
+          "category": "ifá",
+          "children": [
+            {
+              "id": "elem-1",
+              "kind": "concept",
+              "label": "Gim, bebida",
+              "yoruba": "Ọtí",
+              "pronunciation": "Ó-ti",
+              "summary": "bebida alcoólica — o gim do ọ̀sẹ̀",
+              "explanation": "Ọtí é a palavra geral para bebida alcoólica. Na apostila da casa: o gim traz prazer e força à comunicação.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-2",
+                "elem-3"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Gim, bebida"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-2",
+              "kind": "concept",
+              "label": "Pimenta-da-costa",
+              "yoruba": "Ataare",
+              "pronunciation": "A-ta-a-rê",
+              "summary": "pimenta-da-costa (atarê)",
+              "explanation": "A pimenta-da-costa, o atarê dos terreiros. Na apostila da casa: potencializa a palavra dita (ọfọ̀).",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-1",
+                "elem-3",
+                "elem-4"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Pimenta-da-costa"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-3",
+              "kind": "concept",
+              "label": "Pó vermelho (osun)",
+              "yoruba": "Osùn",
+              "pronunciation": "Ô-sun",
+              "summary": "pó vermelho (camwood)",
+              "explanation": "Pó vermelho da madeira do osùn. Na apostila da casa: ligado à fertilidade, aos descendentes e ao financeiro.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [
+                "Não confundir com Ọ̀ṣun, a Òrìṣà."
+              ],
+              "related": [
+                "elem-1",
+                "elem-2",
+                "elem-4",
+                "elem-5"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Pó vermelho (osun)"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-4",
+              "kind": "concept",
+              "label": "Efum (argila branca)",
+              "yoruba": "Ẹfun",
+              "pronunciation": "É-fun",
+              "summary": "argila branca, o efum",
+              "explanation": "Argila branca (caulim). Na apostila da casa: para iluminar e aplacar; não é pemba de giz.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-2",
+                "elem-3",
+                "elem-5",
+                "elem-6"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Efum (argila branca)"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-5",
+              "kind": "concept",
+              "label": "Manteiga de karité",
+              "yoruba": "Òrí",
+              "pronunciation": "Ô-ri",
+              "summary": "manteiga de karité — a 'banha de orí'",
+              "explanation": "Òrí, com tom baixo no o, é a manteiga de karité; orí, com tom médio, é a cabeça. Na apostila da casa: protege, acalma e neutraliza (cabeça, umbigo, mãos e pés).",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-3",
+                "elem-4",
+                "elem-6",
+                "elem-7"
+              ],
+              "exercises": [
+                "Qual a diferença entre òrí e orí?"
+              ],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Manteiga de karité"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-6",
+              "kind": "concept",
+              "label": "Água de coco",
+              "yoruba": "Omi àgbọn",
+              "pronunciation": "Ô-mi a-gbón",
+              "summary": "água de coco",
+              "explanation": "Omi (água) + àgbọn (coco). Na apostila da casa: oferece vida longa, frescor e proteção ao Orí.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-4",
+                "elem-5",
+                "elem-7",
+                "elem-8"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Água de coco"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-7",
+              "kind": "concept",
+              "label": "Bagre",
+              "yoruba": "Ẹja àrọ̀",
+              "pronunciation": "É-dja a-ró",
+              "summary": "bagre",
+              "explanation": "Ẹja (peixe) + àrọ̀ (bagre). Na apostila da casa: remove obstáculos do caminho e dá direção com tranquilidade.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-5",
+                "elem-6",
+                "elem-8",
+                "elem-9"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Bagre"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-8",
+              "kind": "concept",
+              "label": "Cana-de-açúcar",
+              "yoruba": "Ìrèké",
+              "pronunciation": "I-rê-kê",
+              "summary": "cana-de-açúcar",
+              "explanation": "Cana-de-açúcar. Na apostila da casa: traz doçura e amabilidade.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-6",
+                "elem-7",
+                "elem-9",
+                "elem-10"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Cana-de-açúcar"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-9",
+              "kind": "concept",
+              "label": "Inhame",
+              "yoruba": "Iṣu",
+              "pronunciation": "I-chu",
+              "summary": "inhame",
+              "explanation": "Inhame, alimento base da culinária Yorùbá.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-7",
+                "elem-8",
+                "elem-10",
+                "elem-11"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Inhame"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-10",
+              "kind": "concept",
+              "label": "Feijão-fradinho cozido",
+              "yoruba": "Ẹ̀kuru",
+              "pronunciation": "É-ku-ru",
+              "summary": "massa de feijão-fradinho cozida — o ekuru",
+              "explanation": "Massa de feijão-fradinho cozida no vapor, sem tempero: o ekuru dos terreiros.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-8",
+                "elem-9",
+                "elem-11",
+                "elem-12"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Feijão-fradinho cozido"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-11",
+              "kind": "concept",
+              "label": "Milho",
+              "yoruba": "Àgbàdo",
+              "pronunciation": "A-gba-dô",
+              "summary": "milho",
+              "explanation": "Milho. Do milho se fazem o ẹ̀kọ e o àkàsà (acaçá).",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-9",
+                "elem-10",
+                "elem-12"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Milho"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "elem-12",
+              "kind": "concept",
+              "label": "Dinheiro",
+              "yoruba": "Owó",
+              "pronunciation": "Ô-uô",
+              "summary": "dinheiro",
+              "explanation": "Dinheiro. Na apostila da casa: pode ser oferecido para trazer sorte e prosperidade.",
+              "uses": [],
+              "phrases": [],
+              "context": "Os elementos que se oferecem no ọ̀sẹ̀. Os sentidos indicados são os ensinados na apostila da casa; outras casas podem dar outros sentidos.",
+              "variations": [],
+              "related": [
+                "elem-10",
+                "elem-11"
+              ],
+              "exercises": [],
+              "sources": [
+                {
+                  "title": "Apostila “Ose Orisa” — Ẹgbẹ́ Tundé",
+                  "url": "",
+                  "scope": "vocabulário e uso na casa"
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Dinheiro"
+              ],
+              "review": {
+                "claude": "ok",
+                "confianca": "alta",
+                "nota": "",
+                "manus": null,
                 "gemini": null,
                 "humano": null
               }
