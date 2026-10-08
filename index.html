@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#45624d" />
+  <meta name="description" content="Ọ̀nà Yorùbá — Ifá e Língua: árvore interativa de estudo." />
+  <title>Ọ̀nà Yorùbá — Ifá e Língua</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="Ir para o início">
+        <span class="brand-mark" aria-hidden="true"><span></span></span>
+        <span><strong>Ọ̀nà Yorùbá</strong><small>Ifá e Língua</small></span>
+      </a>
+      <div class="topbar-meta"><span class="eyebrow">Biblioteca viva</span><span class="sync-dot"></span><span>Conteúdo local</span></div>
+    </header>
+    <div class="workspace">
+      <aside class="sidebar" aria-label="Navegação do conteúdo">
+        <div class="side-intro"><p class="eyebrow">Mapa de estudo</p><h1>Escolha um caminho.</h1><p>Explore por nível, tema ou termo. O conteúdo cresce sem perder a trilha.</p></div>
+        <div class="search-wrap"><label for="search">Buscar</label><div class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Português ou Yorùbá" autocomplete="off" /><kbd>⌘ K</kbd></div></div>
+        <div class="filters"><label for="level-filter">Nível</label><select id="level-filter"><option value="all">Todos os níveis</option></select><label for="category-filter">Categoria</label><select id="category-filter"><option value="all">Todas as categorias</option></select></div>
+        <div class="tree-heading"><span>Árvore</span><button id="expand-all" class="text-button" type="button">Expandir</button></div>
+        <nav id="tree" class="tree" aria-label="Árvore de conhecimento"></nav>
+        <div class="sidebar-footer"><span class="seal">◇</span><span><strong>Estudo gradual</strong><small>Os vazios também fazem parte do mapa.</small></span></div>
+      </aside>
+      <main class="main-content">
+        <section id="welcome" class="welcome-view">
+          <div class="welcome-kicker"><span class="line"></span><span>Ọ̀nà · caminho</span><span class="line"></span></div>
+          <h2>Uma árvore para<br /><em>aprender com tempo.</em></h2>
+          <p>Uma base para língua Yorùbá e Ifá, construída em camadas: do primeiro termo ao contexto, da palavra à prática de estudo.</p>
+          <div class="welcome-actions"><button id="start-button" class="primary-button" type="button">Começar pelo Nível 1 <span>↗</span></button><button id="random-button" class="secondary-button" type="button">Escolher um tema</button></div>
+          <div class="welcome-grid"><article><span class="card-index">01</span><strong>Uma única base</strong><p>O JSON é a fonte de verdade para a árvore, detalhes e futuros cards.</p></article><article><span class="card-index">02</span><strong>Campos preparados</strong><p>O que ainda não existe fica visível como espaço de aprofundamento.</p></article><article><span class="card-index">03</span><strong>Seu ritmo</strong><p>Marque o que estudou e retome de onde parou neste navegador.</p></article></div>
+        </section>
+        <section id="detail" class="detail-view" hidden></section>
+      </main>
+      <aside class="insight-panel" aria-label="Progresso e contexto">
+        <div class="progress-card"><div class="panel-label"><span>Seu percurso</span><span id="progress-percent">0%</span></div><div class="progress-track"><span id="progress-bar"></span></div><p><strong id="progress-count">0</strong> de <span id="concept-count">0</span> itens marcados como estudados.</p><button id="clear-progress" class="text-button" type="button">Limpar progresso</button></div>
+        <div class="now-card"><p class="eyebrow">Como usar</p><h3>Abra uma camada por vez.</h3><p>A árvore organiza o mapa. O detalhe mostra o que já existe e sinaliza, sem inventar, o que ainda será acrescentado.</p><div class="mini-legend"><span><i class="dot filled"></i> estudado</span><span><i class="dot empty"></i> a estudar</span></div></div>
+        <div class="now-card"><p class="eyebrow">Como ler a pronúncia</p><ul class="pron-key"><li><b>é / ó</b>abertas (ẹ, ọ): pé, pó</li><li><b>ê / ô</b>fechadas (e, o): vê, avô</li><li><b>ch</b>som de ṣ</li><li><b>dj</b>som de j</li><li><b>gb</b>g e b num só golpe</li><li><b>h</b>aspirado, como rr carioca</li><li><b>r</b>sempre brando, como em caro</li><li><b>tons</b>leia nos sinais do Yorùbá: ´ alto · sem sinal médio · ` baixo</li></ul></div>
+        <div class="quote-card"><span class="quote-mark">“</span><p>O conhecimento cresce quando encontra cuidado, memória e prática.</p><small>Nota de percurso</small></div>
+      </aside>
+    </div>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="app.js" type="module"></script>
+</body>
+</html>
