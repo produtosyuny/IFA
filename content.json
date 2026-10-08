@@ -4,7 +4,7 @@
     "name": "Ọ̀nà Yorùbá — Ifá e Língua",
     "language": "pt-BR",
     "description": "Árvore de estudo de língua Yorùbá e Ifá.",
-    "version": "0.10.0",
+    "version": "0.11.0",
     "contentStatus": "camadas-1-e-2-em-revisao",
     "emptyFieldPolicy": "Campos ainda não desenvolvidos ficam vazios para receber conteúdo depois.",
     "sharedFields": [
@@ -21,7 +21,7 @@
       "sources",
       "cards"
     ],
-    "lastExpansion": "Seção Ìtàn com 6 histórias e Bloco 1 (Ifá N1 e Ire/Ibi) reescrito com explicações aprofundadas e mais frases.",
+    "lastExpansion": "Nova árvore Ìtàn (biblioteca de histórias) com 20 histórias: Orí, caráter, Èṣù, Ọ̀rúnmìlà e Ifá, criação e histórias dos Òrìṣà.",
     "pronunciationKey": {
       "é / ó": "vogais abertas (ẹ, ọ), como em pé e pó",
       "ê / ô": "vogais fechadas (e, o), como em vê e avô",
@@ -2218,7 +2218,7 @@
                 {
                   "yoruba": "Ẹja márùn-ún",
                   "portuguese": "Cinco peixes",
-                  "pronunciation": "É-dja ma-run---un",
+                  "pronunciation": "É-dja ma-run un",
                   "note": ""
                 }
               ],
@@ -2483,7 +2483,7 @@
                 {
                   "yoruba": "Ọmọ mẹ́sàn-án",
                   "portuguese": "Nove crianças",
-                  "pronunciation": "Ó-mó mé-san---an",
+                  "pronunciation": "Ó-mó mé-san an",
                   "note": ""
                 }
               ],
@@ -2673,6 +2673,15 @@
               "tags": [
                 "funfum",
                 "funfun"
+              ],
+              "itan": [
+                {
+                  "id": "itan-obatala-preso",
+                  "titulo": "Ọbàtálá preso em Ọ̀yọ́",
+                  "texto": "Ọbàtálá decidiu visitar Ṣàngó em Ọ̀yọ́. Antes de partir, consultou Ifá, que o orientou a fazer ẹbọ e a ter paciência com tudo o que acontecesse no caminho. No percurso, Èṣù o testou várias vezes, sujando suas roupas brancas, e ele suportou calado.\n\nJá perto de Ọ̀yọ́, Ọbàtálá encontrou um cavalo fugido de Ṣàngó e foi devolvê-lo. Os soldados o acusaram de roubo e o prenderam. Por sete anos, o reino sofreu: seca, doenças, mulheres sem filhos. Ṣàngó consultou Ifá e descobriu o inocente na prisão. Libertou-o, vestiu-o de branco e mandou buscar água para lavá-lo.",
+                  "licao": "Paciência e ìwà pẹ̀lẹ́ diante da injustiça. No Brasil, esta história dá origem às Águas de Oxalá.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -2938,6 +2947,15 @@
               },
               "tags": [
                 "awo ewe"
+              ],
+              "itan": [
+                {
+                  "id": "itan-osanyin-vento",
+                  "titulo": "As folhas de Ọ̀sanyìn e o vento de Ọya",
+                  "texto": "Ọ̀sanyìn guardava todas as folhas e seus segredos numa cabaça, só para si. Os outros Òrìṣà não tinham acesso a elas, e Ṣàngó reclamou com Ọya.\n\nỌya agitou a saia e levantou um vento forte. A cabaça caiu, se abriu, e as folhas se espalharam pelo mundo. Cada Òrìṣà apanhou as que pôde, e assim cada um passou a ter suas folhas. Mas o segredo das palavras que fazem as folhas agirem continuou com Ọ̀sanyìn.",
+                  "licao": "Kò sí ewé, kò sí Òrìṣà — sem folha não há Òrìṣà. Todos têm suas folhas, mas o àṣẹ delas pertence a Ọ̀sanyìn.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -4920,6 +4938,15 @@
               "tags": [
                 "ikum",
                 "ikun"
+              ],
+              "itan": [
+                {
+                  "id": "itan-obaluaye",
+                  "titulo": "Ọbalúayé e a dança coberta de palha",
+                  "texto": "Ọbalúayé tinha a pele marcada pela doença e por isso andava coberto de palha. Numa festa dos Òrìṣà, ficou à margem: ninguém o convidava para dançar.\n\nỌya percebeu e o chamou para a roda. Quando dançaram, seu vento levantou a palha, e por baixo dela apareceu um Òrìṣà radiante como o sol. Desde então, os dois são próximos.",
+                  "licao": "Quem parece afastado guarda muitas vezes a maior luz. Olhar além da aparência é um ensinamento.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             }
           ]
@@ -5691,6 +5718,15 @@
                 "orobo",
                 "orobô",
                 "orogbo"
+              ],
+              "itan": [
+                {
+                  "id": "itan-sango-koso",
+                  "titulo": "Ọba kò so — o rei não se enforcou",
+                  "texto": "Ṣàngó foi rei de Ọ̀yọ́, guerreiro poderoso que dominava o fogo e o raio. Um dia, testando seus poderes, provocou um raio que destruiu o próprio palácio e matou pessoas da sua casa. Desgostoso, deixou a cidade.\n\nSeus inimigos espalharam que o rei tinha se enforcado em Kòso. Mas seus seguidores responderam: Ọba kò so! — o rei não se enforcou. Ṣàngó tinha se tornado Òrìṣà, e os raios que caíram logo depois foram a prova de que continuava vivo.",
+                  "licao": "O poder pede controle. E a memória de quem é grande não se apaga pela palavra dos inimigos.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -5973,6 +6009,15 @@
               },
               "tags": [
                 "emu"
+              ],
+              "itan": [
+                {
+                  "id": "itan-criacao",
+                  "titulo": "A criação da terra em Ilé-Ifẹ̀",
+                  "texto": "No começo, abaixo do ọ̀run só havia água e pântano. Olódùmarè entregou a Ọbàtálá (Òrìṣà-ńlá) a missão de criar a terra firme: deu-lhe uma corrente para descer, uma concha de caracol cheia de terra, uma galinha de cinco dedos e uma semente de palmeira.\n\nNo caminho, Ọbàtálá encontrou vinho de palma (ẹmu), bebeu e adormeceu. Odùduwà, vendo a missão parada, pegou os materiais, desceu pela corrente, espalhou a terra sobre as águas e soltou a galinha, que ciscou e espalhou a terra em todas as direções. Assim nasceu a terra firme, no lugar chamado Ilé-Ifẹ̀ — por isso considerada o berço do mundo e do povo Yorùbá.\n\nQuando acordou, Ọbàtálá recebeu outra tarefa: modelar os corpos humanos. Diz-se que, por causa do episódio do vinho, seus devotos evitam o ẹmu, e que ele protege especialmente as pessoas que nasceram com alguma diferença no corpo.",
+                  "licao": "A palavra dada e a missão recebida pedem atenção; o descuido custa caro. E ninguém é dono de tudo: a obra do mundo foi feita por mais de um.",
+                  "fonte": "Mito de criação Yorùbá amplamente documentado; há versões diferentes entre cidades e casas. Confirmar com o baba."
+                }
               ]
             },
             {
@@ -6059,7 +6104,16 @@
                 "manus": null,
                 "gemini": null,
                 "humano": null
-              }
+              },
+              "itan": [
+                {
+                  "id": "itan-sango-koso",
+                  "titulo": "Ọba kò so — o rei não se enforcou",
+                  "texto": "Ṣàngó foi rei de Ọ̀yọ́, guerreiro poderoso que dominava o fogo e o raio. Um dia, testando seus poderes, provocou um raio que destruiu o próprio palácio e matou pessoas da sua casa. Desgostoso, deixou a cidade.\n\nSeus inimigos espalharam que o rei tinha se enforcado em Kòso. Mas seus seguidores responderam: Ọba kò so! — o rei não se enforcou. Ṣàngó tinha se tornado Òrìṣà, e os raios que caíram logo depois foram a prova de que continuava vivo.",
+                  "licao": "O poder pede controle. E a memória de quem é grande não se apaga pela palavra dos inimigos.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
+              ]
             }
           ]
         },
@@ -6663,6 +6717,15 @@
               },
               "tags": [
                 "bata"
+              ],
+              "itan": [
+                {
+                  "id": "itan-sango-koso",
+                  "titulo": "Ọba kò so — o rei não se enforcou",
+                  "texto": "Ṣàngó foi rei de Ọ̀yọ́, guerreiro poderoso que dominava o fogo e o raio. Um dia, testando seus poderes, provocou um raio que destruiu o próprio palácio e matou pessoas da sua casa. Desgostoso, deixou a cidade.\n\nSeus inimigos espalharam que o rei tinha se enforcado em Kòso. Mas seus seguidores responderam: Ọba kò so! — o rei não se enforcou. Ṣàngó tinha se tornado Òrìṣà, e os raios que caíram logo depois foram a prova de que continuava vivo.",
+                  "licao": "O poder pede controle. E a memória de quem é grande não se apaga pela palavra dos inimigos.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             }
           ]
@@ -6735,6 +6798,15 @@
               },
               "tags": [
                 "aja"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ogun-caminho",
+                  "titulo": "Ògún abre o caminho",
+                  "texto": "Quando os Òrìṣà desceram para viver na terra, encontraram uma mata fechada que nenhum deles conseguia atravessar. Tentaram com as ferramentas que tinham, e tudo quebrava.\n\nSó Ògún, que conhecia o segredo do ferro, conseguiu: com seu facão abriu o caminho para todos passarem. Em agradecimento, os Òrìṣà quiseram fazê-lo rei, mas Ògún preferiu continuar na mata, caçando e trabalhando o ferro.",
+                  "licao": "Ògún é o que abre caminhos com trabalho e tecnologia. Por isso se diz que ele vem à frente.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -7065,6 +7137,22 @@
               },
               "tags": [
                 "eye"
+              ],
+              "itan": [
+                {
+                  "id": "itan-osun-pavao",
+                  "titulo": "Ọ̀ṣun leva a mensagem ao ọ̀run",
+                  "texto": "Os Òrìṣà se rebelaram e quiseram governar o mundo sem Olódùmarè. Ele então segurou a chuva. Veio a seca, a fome, e ninguém conseguia chegar ao ọ̀run para pedir perdão.\n\nỌ̀ṣun se transformou numa ave — em muitas versões, um pavão — e voou até o ọ̀run. O caminho era longo e o sol queimou suas penas, que ficaram escuras, e ela chegou transformada em urubu (igún). Olódùmarè, tocado pelo sacrifício, mandou a chuva de volta e fez de Ọ̀ṣun sua mensageira.",
+                  "licao": "Quem se sacrifica pelo coletivo é ouvido. Por isso o urubu é respeitado: ele leva as mensagens ao ọ̀run.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                },
+                {
+                  "id": "itan-osoosi",
+                  "titulo": "Ọ̀ṣọ́ọ̀sì, o caçador de uma flecha só",
+                  "texto": "Na festa do inhame novo, um pássaro enorme e maligno pousou no telhado do palácio e ameaçou a cidade. O rei chamou os melhores caçadores. O caçador de vinte flechas errou todas; o de quarenta também; o de cinquenta, o mesmo.\n\nPor fim veio um caçador que só tinha uma flecha. Antes, sua mãe fez o ẹbọ indicado pelo babaláwo. Ele mirou, disparou a única flecha e derrubou o pássaro. O povo gritou: Ọ̀ṣọ́ọ̀sì! — o caçador é popular!",
+                  "licao": "Uma flecha certeira, com orientação e ẹbọ, vale mais que muitas lançadas sem preparo.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -7500,6 +7588,15 @@
                 "ibi",
                 "ibim",
                 "igbin"
+              ],
+              "itan": [
+                {
+                  "id": "itan-criacao",
+                  "titulo": "A criação da terra em Ilé-Ifẹ̀",
+                  "texto": "No começo, abaixo do ọ̀run só havia água e pântano. Olódùmarè entregou a Ọbàtálá (Òrìṣà-ńlá) a missão de criar a terra firme: deu-lhe uma corrente para descer, uma concha de caracol cheia de terra, uma galinha de cinco dedos e uma semente de palmeira.\n\nNo caminho, Ọbàtálá encontrou vinho de palma (ẹmu), bebeu e adormeceu. Odùduwà, vendo a missão parada, pegou os materiais, desceu pela corrente, espalhou a terra sobre as águas e soltou a galinha, que ciscou e espalhou a terra em todas as direções. Assim nasceu a terra firme, no lugar chamado Ilé-Ifẹ̀ — por isso considerada o berço do mundo e do povo Yorùbá.\n\nQuando acordou, Ọbàtálá recebeu outra tarefa: modelar os corpos humanos. Diz-se que, por causa do episódio do vinho, seus devotos evitam o ẹmu, e que ele protege especialmente as pessoas que nasceram com alguma diferença no corpo.",
+                  "licao": "A palavra dada e a missão recebida pedem atenção; o descuido custa caro. E ninguém é dono de tudo: a obra do mundo foi feita por mais de um.",
+                  "fonte": "Mito de criação Yorùbá amplamente documentado; há versões diferentes entre cidades e casas. Confirmar com o baba."
+                }
               ]
             },
             {
@@ -8365,7 +8462,7 @@
               "kind": "concept",
               "label": "Eu sou brasileiro(a)",
               "yoruba": "Ọmọ orílẹ̀-èdè Brazil ni mí",
-              "pronunciation": "Ó-mó ô-ri-lé---ê-dê Bra-z-i-l ni mi",
+              "pronunciation": "Ó-mó ô-ri-lé ê-dê Bra-zil ni mi",
               "summary": "eu sou brasileiro(a)",
               "explanation": "Literalmente “sou filho(a) do país Brasil”: orílẹ̀-èdè = país, nação.",
               "uses": [
@@ -8375,7 +8472,7 @@
                 {
                   "yoruba": "Ọmọ orílẹ̀-èdè Brazil ni mí, mo ń kọ́ èdè Yorùbá",
                   "portuguese": "Sou brasileiro(a) e estou aprendendo Yorùbá",
-                  "pronunciation": "Ó-mó ô-ri-lé---ê-dê Bra-z-i-l ni mi, mô n kó ê-dê Iô-ru-ba",
+                  "pronunciation": "Ó-mó ô-ri-lé ê-dê Bra-zil ni mi, mô n kó ê-dê Iô-ru-ba",
                   "note": ""
                 }
               ],
@@ -8984,6 +9081,15 @@
               },
               "tags": [
                 "ifa"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ikin",
+                  "titulo": "Os ikin que Ọ̀rúnmìlà deixou",
+                  "texto": "Conta-se que Ọ̀rúnmìlà viveu um tempo na terra, ensinando e aconselhando. Um dia, ofendido por um dos seus — em muitas versões, um de seus próprios filhos, que lhe faltou com o respeito —, decidiu voltar para o ọ̀run.\n\nSem ele, tudo começou a dar errado: as mulheres não tinham filhos, os doentes não saravam, a chuva não vinha. Os filhos foram até ele implorar que voltasse. Ọ̀rúnmìlà não voltou, mas entregou a cada um dezesseis sementes de palmeira, os ikin, e disse: quando precisarem de mim, perguntem a eles — e eu responderei.",
+                  "licao": "É por isso que se consulta Ifá pelos ikin: eles são a voz de Ọ̀rúnmìlà entre nós. E o respeito ao mais velho e ao mestre mantém a sabedoria por perto.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -9038,6 +9144,15 @@
               "tags": [
                 "orunmila",
                 "orunmilá"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ikin",
+                  "titulo": "Os ikin que Ọ̀rúnmìlà deixou",
+                  "texto": "Conta-se que Ọ̀rúnmìlà viveu um tempo na terra, ensinando e aconselhando. Um dia, ofendido por um dos seus — em muitas versões, um de seus próprios filhos, que lhe faltou com o respeito —, decidiu voltar para o ọ̀run.\n\nSem ele, tudo começou a dar errado: as mulheres não tinham filhos, os doentes não saravam, a chuva não vinha. Os filhos foram até ele implorar que voltasse. Ọ̀rúnmìlà não voltou, mas entregou a cada um dezesseis sementes de palmeira, os ikin, e disse: quando precisarem de mim, perguntem a eles — e eu responderei.",
+                  "licao": "É por isso que se consulta Ifá pelos ikin: eles são a voz de Ọ̀rúnmìlà entre nós. E o respeito ao mais velho e ao mestre mantém a sabedoria por perto.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -9289,7 +9404,16 @@
                 "manus": null,
                 "gemini": null,
                 "humano": null
-              }
+              },
+              "itan": [
+                {
+                  "id": "itan-ceu",
+                  "titulo": "Quando o céu se afastou",
+                  "texto": "No princípio, o ọ̀run ficava tão perto da terra que as pessoas podiam tocá-lo com a mão. Elas iam e vinham, e chegavam a tirar pedaços do céu para comer.\n\nCom o tempo, passaram a tratá-lo sem respeito: limpavam nele as mãos sujas, batiam nele com o pilão ao socar o inhame. Olódùmarè então afastou o ọ̀run para longe, e desde então ele só pode ser alcançado pelas oferendas, pelas rezas e pelos mensageiros.",
+                  "licao": "O sagrado pede respeito. Quando é tratado com descaso, se afasta — e a ponte passa a depender dos mensageiros.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
+              ]
             },
             {
               "id": "ifa1-01-ifa-orunmila-8",
@@ -10329,6 +10453,13 @@
                   "texto": "Ọ̀rúnmìlà casou-se com Ìwà, uma mulher de beleza e qualidades raras — em várias versões, filha de Sùúrù, a Paciência. Ìwà tinha seus próprios modos, e com o tempo Ọ̀rúnmìlà perdeu a paciência com ela e a tratou mal. Ìwà foi embora.\n\nDepois da partida dela, tudo começou a dar errado: a fortuna de Ọ̀rúnmìlà se desfez, o respeito das pessoas sumiu. Ele saiu à procura de Ìwà, cantando e perguntando por ela por toda parte. Quando finalmente a encontrou, ela não quis voltar, mas lhe ensinou que, se ele cuidasse do próprio caráter, ela estaria sempre com ele.",
                   "licao": "Riqueza, prestígio e até um bom Orí não se sustentam sem bom caráter. Ìwà (caráter) e Sùúrù (paciência) andam juntas.",
                   "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                },
+                {
+                  "id": "itan-obatala-preso",
+                  "titulo": "Ọbàtálá preso em Ọ̀yọ́",
+                  "texto": "Ọbàtálá decidiu visitar Ṣàngó em Ọ̀yọ́. Antes de partir, consultou Ifá, que o orientou a fazer ẹbọ e a ter paciência com tudo o que acontecesse no caminho. No percurso, Èṣù o testou várias vezes, sujando suas roupas brancas, e ele suportou calado.\n\nJá perto de Ọ̀yọ́, Ọbàtálá encontrou um cavalo fugido de Ṣàngó e foi devolvê-lo. Os soldados o acusaram de roubo e o prenderam. Por sete anos, o reino sofreu: seca, doenças, mulheres sem filhos. Ṣàngó consultou Ifá e descobriu o inocente na prisão. Libertou-o, vestiu-o de branco e mandou buscar água para lavá-lo.",
+                  "licao": "Paciência e ìwà pẹ̀lẹ́ diante da injustiça. No Brasil, esta história dá origem às Águas de Oxalá.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
                 }
               ]
             },
@@ -10829,6 +10960,13 @@
                   "texto": "Nos versos, quem consulta Ifá recebe uma orientação de ẹbọ. Os que fazem o ẹbọ e reservam a parte de Èṣù veem o caminho se abrir; os que ignoram a orientação ou esquecem Èṣù encontram o caminho fechado. Esse padrão se repete em inúmeras histórias.\n\nÈṣù é quem leva o ẹbọ ao ọ̀run e quem faz a ponte entre as pessoas, os Òrìṣà e Olódùmarè. Por isso ele é saudado primeiro e recebe a sua parte.",
                   "licao": "Fazer o que foi orientado — e reconhecer o mensageiro — é parte da resposta.",
                   "fonte": "Ensinamento recorrente nos versos de Ifá. Confirmar com o baba a prática da casa."
+                },
+                {
+                  "id": "itan-osoosi",
+                  "titulo": "Ọ̀ṣọ́ọ̀sì, o caçador de uma flecha só",
+                  "texto": "Na festa do inhame novo, um pássaro enorme e maligno pousou no telhado do palácio e ameaçou a cidade. O rei chamou os melhores caçadores. O caçador de vinte flechas errou todas; o de quarenta também; o de cinquenta, o mesmo.\n\nPor fim veio um caçador que só tinha uma flecha. Antes, sua mãe fez o ẹbọ indicado pelo babaláwo. Ele mirou, disparou a única flecha e derrubou o pássaro. O povo gritou: Ọ̀ṣọ́ọ̀sì! — o caçador é popular!",
+                  "licao": "Uma flecha certeira, com orientação e ẹbọ, vale mais que muitas lançadas sem preparo.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
                 }
               ]
             },
@@ -11372,6 +11510,15 @@
               },
               "tags": [
                 "aye"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ceu",
+                  "titulo": "Quando o céu se afastou",
+                  "texto": "No princípio, o ọ̀run ficava tão perto da terra que as pessoas podiam tocá-lo com a mão. Elas iam e vinham, e chegavam a tirar pedaços do céu para comer.\n\nCom o tempo, passaram a tratá-lo sem respeito: limpavam nele as mãos sujas, batiam nele com o pilão ao socar o inhame. Olódùmarè então afastou o ọ̀run para longe, e desde então ele só pode ser alcançado pelas oferendas, pelas rezas e pelos mensageiros.",
+                  "licao": "O sagrado pede respeito. Quando é tratado com descaso, se afasta — e a ponte passa a depender dos mensageiros.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -11409,6 +11556,22 @@
               "tags": [
                 "orum",
                 "orun"
+              ],
+              "itan": [
+                {
+                  "id": "itan-osun-pavao",
+                  "titulo": "Ọ̀ṣun leva a mensagem ao ọ̀run",
+                  "texto": "Os Òrìṣà se rebelaram e quiseram governar o mundo sem Olódùmarè. Ele então segurou a chuva. Veio a seca, a fome, e ninguém conseguia chegar ao ọ̀run para pedir perdão.\n\nỌ̀ṣun se transformou numa ave — em muitas versões, um pavão — e voou até o ọ̀run. O caminho era longo e o sol queimou suas penas, que ficaram escuras, e ela chegou transformada em urubu (igún). Olódùmarè, tocado pelo sacrifício, mandou a chuva de volta e fez de Ọ̀ṣun sua mensageira.",
+                  "licao": "Quem se sacrifica pelo coletivo é ouvido. Por isso o urubu é respeitado: ele leva as mensagens ao ọ̀run.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                },
+                {
+                  "id": "itan-ceu",
+                  "titulo": "Quando o céu se afastou",
+                  "texto": "No princípio, o ọ̀run ficava tão perto da terra que as pessoas podiam tocá-lo com a mão. Elas iam e vinham, e chegavam a tirar pedaços do céu para comer.\n\nCom o tempo, passaram a tratá-lo sem respeito: limpavam nele as mãos sujas, batiam nele com o pilão ao socar o inhame. Olódùmarè então afastou o ọ̀run para longe, e desde então ele só pode ser alcançado pelas oferendas, pelas rezas e pelos mensageiros.",
+                  "licao": "O sagrado pede respeito. Quando é tratado com descaso, se afasta — e a ponte passa a depender dos mensageiros.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -13658,6 +13821,15 @@
               "tags": [
                 "ibi arum",
                 "ibi arun"
+              ],
+              "itan": [
+                {
+                  "id": "itan-obaluaye",
+                  "titulo": "Ọbalúayé e a dança coberta de palha",
+                  "texto": "Ọbalúayé tinha a pele marcada pela doença e por isso andava coberto de palha. Numa festa dos Òrìṣà, ficou à margem: ninguém o convidava para dançar.\n\nỌya percebeu e o chamou para a roda. Quando dançaram, seu vento levantou a palha, e por baixo dela apareceu um Òrìṣà radiante como o sol. Desde então, os dois são próximos.",
+                  "licao": "Quem parece afastado guarda muitas vezes a maior luz. Olhar além da aparência é um ensinamento.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -13921,6 +14093,15 @@
               "tags": [
                 "osum",
                 "osun"
+              ],
+              "itan": [
+                {
+                  "id": "itan-osun-buzios",
+                  "titulo": "Ọ̀ṣun e os búzios",
+                  "texto": "Ọ̀ṣun desejava aprender a arte da adivinhação, mas esse saber não lhe era dado. Um dia, Èṣù roubou as roupas brancas de Ọbàtálá enquanto ele se banhava no rio. Ọ̀ṣun conseguiu recuperá-las e devolvê-las.\n\nAgradecido, Ọbàtálá lhe deu o que ela mais queria: o conhecimento do jogo de búzios, os dezesseis búzios com que se consultam os Òrìṣà.",
+                  "licao": "O conhecimento chega a quem age com generosidade. No Brasil, o jogo de búzios (merindilogun) é associado a Ọ̀ṣun.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -14389,6 +14570,15 @@
               },
               "tags": [
                 "ikin"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ikin",
+                  "titulo": "Os ikin que Ọ̀rúnmìlà deixou",
+                  "texto": "Conta-se que Ọ̀rúnmìlà viveu um tempo na terra, ensinando e aconselhando. Um dia, ofendido por um dos seus — em muitas versões, um de seus próprios filhos, que lhe faltou com o respeito —, decidiu voltar para o ọ̀run.\n\nSem ele, tudo começou a dar errado: as mulheres não tinham filhos, os doentes não saravam, a chuva não vinha. Os filhos foram até ele implorar que voltasse. Ọ̀rúnmìlà não voltou, mas entregou a cada um dezesseis sementes de palmeira, os ikin, e disse: quando precisarem de mim, perguntem a eles — e eu responderei.",
+                  "licao": "É por isso que se consulta Ifá pelos ikin: eles são a voz de Ọ̀rúnmìlà entre nós. E o respeito ao mais velho e ao mestre mantém a sabedoria por perto.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -14586,6 +14776,15 @@
               "tags": [
                 "merindinlogum",
                 "merindinlogun"
+              ],
+              "itan": [
+                {
+                  "id": "itan-osun-buzios",
+                  "titulo": "Ọ̀ṣun e os búzios",
+                  "texto": "Ọ̀ṣun desejava aprender a arte da adivinhação, mas esse saber não lhe era dado. Um dia, Èṣù roubou as roupas brancas de Ọbàtálá enquanto ele se banhava no rio. Ọ̀ṣun conseguiu recuperá-las e devolvê-las.\n\nAgradecido, Ọbàtálá lhe deu o que ela mais queria: o conhecimento do jogo de búzios, os dezesseis búzios com que se consultam os Òrìṣà.",
+                  "licao": "O conhecimento chega a quem age com generosidade. No Brasil, o jogo de búzios (merindilogun) é associado a Ọ̀ṣun.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -14933,6 +15132,15 @@
               },
               "tags": [
                 "idakeje"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ogun-ire",
+                  "titulo": "Ògún em Ìrè",
+                  "texto": "Depois de muitas guerras, Ògún voltou a Ìrè, a cidade de que era rei, cansado e com sede. Ninguém o saudou, ninguém lhe ofereceu água nem vinho de palma. Furioso com o que pareceu desprezo, Ògún atacou e matou muitos.\n\nSó depois soube a verdade: era dia de um ritual de silêncio, e ninguém podia falar. Arrependido, Ògún cravou a espada no chão e entrou na terra, dizendo que viria sempre que fosse chamado.",
+                  "licao": "A raiva antes de entender destrói o que se ama. Escutar e perguntar antes de agir é sabedoria — e o arrependimento verdadeiro muda o caminho.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             }
           ]
@@ -15586,6 +15794,13 @@
                   "texto": "Ọ̀rúnmìlà casou-se com Ìwà, uma mulher de beleza e qualidades raras — em várias versões, filha de Sùúrù, a Paciência. Ìwà tinha seus próprios modos, e com o tempo Ọ̀rúnmìlà perdeu a paciência com ela e a tratou mal. Ìwà foi embora.\n\nDepois da partida dela, tudo começou a dar errado: a fortuna de Ọ̀rúnmìlà se desfez, o respeito das pessoas sumiu. Ele saiu à procura de Ìwà, cantando e perguntando por ela por toda parte. Quando finalmente a encontrou, ela não quis voltar, mas lhe ensinou que, se ele cuidasse do próprio caráter, ela estaria sempre com ele.",
                   "licao": "Riqueza, prestígio e até um bom Orí não se sustentam sem bom caráter. Ìwà (caráter) e Sùúrù (paciência) andam juntas.",
                   "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                },
+                {
+                  "id": "itan-obatala-preso",
+                  "titulo": "Ọbàtálá preso em Ọ̀yọ́",
+                  "texto": "Ọbàtálá decidiu visitar Ṣàngó em Ọ̀yọ́. Antes de partir, consultou Ifá, que o orientou a fazer ẹbọ e a ter paciência com tudo o que acontecesse no caminho. No percurso, Èṣù o testou várias vezes, sujando suas roupas brancas, e ele suportou calado.\n\nJá perto de Ọ̀yọ́, Ọbàtálá encontrou um cavalo fugido de Ṣàngó e foi devolvê-lo. Os soldados o acusaram de roubo e o prenderam. Por sete anos, o reino sofreu: seca, doenças, mulheres sem filhos. Ṣàngó consultou Ifá e descobriu o inocente na prisão. Libertou-o, vestiu-o de branco e mandou buscar água para lavá-lo.",
+                  "licao": "Paciência e ìwà pẹ̀lẹ́ diante da injustiça. No Brasil, esta história dá origem às Águas de Oxalá.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
                 }
               ]
             },
@@ -17188,6 +17403,13 @@
                   "texto": "Quando as divindades vieram organizar o mundo, os dezesseis primeiros se reuniram para decidir tudo e deixaram Ọ̀ṣun de fora, por ser mulher. Nada do que faziam dava certo: a chuva não caía, as coisas não frutificavam.\n\nEles foram a Olódùmarè perguntar o que estava errado. Olódùmarè quis saber quantos tinham vindo e por que Ọ̀ṣun não estava entre eles. Os dezesseis voltaram, pediram desculpas a Ọ̀ṣun e a incluíram nas decisões — e o mundo passou a funcionar. Em muitas versões, o filho de Ọ̀ṣun dá nome ao Odù Ọ̀sẹ́tùrá.",
                   "licao": "Nada se completa sem o feminino. Excluir quem tem seu lugar desequilibra o todo.",
                   "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                },
+                {
+                  "id": "itan-criacao",
+                  "titulo": "A criação da terra em Ilé-Ifẹ̀",
+                  "texto": "No começo, abaixo do ọ̀run só havia água e pântano. Olódùmarè entregou a Ọbàtálá (Òrìṣà-ńlá) a missão de criar a terra firme: deu-lhe uma corrente para descer, uma concha de caracol cheia de terra, uma galinha de cinco dedos e uma semente de palmeira.\n\nNo caminho, Ọbàtálá encontrou vinho de palma (ẹmu), bebeu e adormeceu. Odùduwà, vendo a missão parada, pegou os materiais, desceu pela corrente, espalhou a terra sobre as águas e soltou a galinha, que ciscou e espalhou a terra em todas as direções. Assim nasceu a terra firme, no lugar chamado Ilé-Ifẹ̀ — por isso considerada o berço do mundo e do povo Yorùbá.\n\nQuando acordou, Ọbàtálá recebeu outra tarefa: modelar os corpos humanos. Diz-se que, por causa do episódio do vinho, seus devotos evitam o ẹmu, e que ele protege especialmente as pessoas que nasceram com alguma diferença no corpo.",
+                  "licao": "A palavra dada e a missão recebida pedem atenção; o descuido custa caro. E ninguém é dono de tudo: a obra do mundo foi feita por mais de um.",
+                  "fonte": "Mito de criação Yorùbá amplamente documentado; há versões diferentes entre cidades e casas. Confirmar com o baba."
                 }
               ]
             },
@@ -17291,6 +17513,22 @@
               },
               "tags": [
                 "osanyin"
+              ],
+              "itan": [
+                {
+                  "id": "itan-osanyin-roca",
+                  "titulo": "Ọ̀sanyìn e a roça de Ọ̀rúnmìlà",
+                  "texto": "Ọ̀rúnmìlà precisava limpar sua roça e chamou Ọ̀sanyìn para capinar o mato. No fim do dia, a roça estava intacta. Ọ̀rúnmìlà foi ver o que tinha acontecido, e Ọ̀sanyìn explicou: aquela folha cura a febre, esta outra protege a criança, aquela acalma a cabeça… Ele não podia cortar remédio.\n\nỌ̀rúnmìlà entendeu que tinha diante de si o dono do saber das folhas. Desde então os dois caminham juntos: não há trabalho de Ifá sem as folhas de Ọ̀sanyìn.",
+                  "licao": "O que parece mato pode ser remédio. Reconhecer o saber do outro é parte da sabedoria.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                },
+                {
+                  "id": "itan-osanyin-vento",
+                  "titulo": "As folhas de Ọ̀sanyìn e o vento de Ọya",
+                  "texto": "Ọ̀sanyìn guardava todas as folhas e seus segredos numa cabaça, só para si. Os outros Òrìṣà não tinham acesso a elas, e Ṣàngó reclamou com Ọya.\n\nỌya agitou a saia e levantou um vento forte. A cabaça caiu, se abriu, e as folhas se espalharam pelo mundo. Cada Òrìṣà apanhou as que pôde, e assim cada um passou a ter suas folhas. Mas o segredo das palavras que fazem as folhas agirem continuou com Ọ̀sanyìn.",
+                  "licao": "Kò sí ewé, kò sí Òrìṣà — sem folha não há Òrìṣà. Todos têm suas folhas, mas o àṣẹ delas pertence a Ọ̀sanyìn.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -17516,6 +17754,15 @@
               "tags": [
                 "ogum",
                 "ogun"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ogun-caminho",
+                  "titulo": "Ògún abre o caminho",
+                  "texto": "Quando os Òrìṣà desceram para viver na terra, encontraram uma mata fechada que nenhum deles conseguia atravessar. Tentaram com as ferramentas que tinham, e tudo quebrava.\n\nSó Ògún, que conhecia o segredo do ferro, conseguiu: com seu facão abriu o caminho para todos passarem. Em agradecimento, os Òrìṣà quiseram fazê-lo rei, mas Ògún preferiu continuar na mata, caçando e trabalhando o ferro.",
+                  "licao": "Ògún é o que abre caminhos com trabalho e tecnologia. Por isso se diz que ele vem à frente.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -17997,6 +18244,15 @@
               "tags": [
                 "asiri",
                 "axiri"
+              ],
+              "itan": [
+                {
+                  "id": "itan-oya-bufalo",
+                  "titulo": "Ọya e a pele de búfalo",
+                  "texto": "Um caçador viu um búfalo tirar a pele na mata e virar uma mulher belíssima. Era Ọya. Ele escondeu a pele, e ela, sem poder voltar a ser búfalo, aceitou casar com ele, com a condição de que ninguém jamais falasse do seu segredo.\n\nAnos depois, as outras esposas, por ciúme, descobriram a pele e zombaram de Ọya. Ela vestiu a pele de novo e partiu. Antes de ir, deixou aos filhos um par de chifres: quando precisassem, bastava bater um no outro e ela viria socorrê-los.",
+                  "licao": "O segredo confiado deve ser guardado. E a mãe não abandona os filhos, mesmo de longe.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -19008,6 +19264,15 @@
               },
               "tags": [
                 "ipamo"
+              ],
+              "itan": [
+                {
+                  "id": "itan-oya-bufalo",
+                  "titulo": "Ọya e a pele de búfalo",
+                  "texto": "Um caçador viu um búfalo tirar a pele na mata e virar uma mulher belíssima. Era Ọya. Ele escondeu a pele, e ela, sem poder voltar a ser búfalo, aceitou casar com ele, com a condição de que ninguém jamais falasse do seu segredo.\n\nAnos depois, as outras esposas, por ciúme, descobriram a pele e zombaram de Ọya. Ela vestiu a pele de novo e partiu. Antes de ir, deixou aos filhos um par de chifres: quando precisassem, bastava bater um no outro e ela viria socorrê-los.",
+                  "licao": "O segredo confiado deve ser guardado. E a mãe não abandona os filhos, mesmo de longe.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -19577,6 +19842,15 @@
               },
               "tags": [
                 "ikin"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ikin",
+                  "titulo": "Os ikin que Ọ̀rúnmìlà deixou",
+                  "texto": "Conta-se que Ọ̀rúnmìlà viveu um tempo na terra, ensinando e aconselhando. Um dia, ofendido por um dos seus — em muitas versões, um de seus próprios filhos, que lhe faltou com o respeito —, decidiu voltar para o ọ̀run.\n\nSem ele, tudo começou a dar errado: as mulheres não tinham filhos, os doentes não saravam, a chuva não vinha. Os filhos foram até ele implorar que voltasse. Ọ̀rúnmìlà não voltou, mas entregou a cada um dezesseis sementes de palmeira, os ikin, e disse: quando precisarem de mim, perguntem a eles — e eu responderei.",
+                  "licao": "É por isso que se consulta Ifá pelos ikin: eles são a voz de Ọ̀rúnmìlà entre nós. E o respeito ao mais velho e ao mestre mantém a sabedoria por perto.",
+                  "fonte": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -19829,6 +20103,15 @@
               },
               "tags": [
                 "idakeje"
+              ],
+              "itan": [
+                {
+                  "id": "itan-ogun-ire",
+                  "titulo": "Ògún em Ìrè",
+                  "texto": "Depois de muitas guerras, Ògún voltou a Ìrè, a cidade de que era rei, cansado e com sede. Ninguém o saudou, ninguém lhe ofereceu água nem vinho de palma. Furioso com o que pareceu desprezo, Ògún atacou e matou muitos.\n\nSó depois soube a verdade: era dia de um ritual de silêncio, e ninguém podia falar. Arrependido, Ògún cravou a espada no chão e entrou na terra, dizendo que viria sempre que fosse chamado.",
+                  "licao": "A raiva antes de entender destrói o que se ama. Escutar e perguntar antes de agir é sabedoria — e o arrependimento verdadeiro muda o caminho.",
+                  "fonte": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba."
+                }
               ]
             },
             {
@@ -20238,6 +20521,1090 @@
           },
           "tags": [
             "ifa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "itan-biblioteca",
+      "kind": "level",
+      "label": "Ìtàn · Biblioteca de histórias",
+      "shortLabel": "Ìtàn",
+      "description": "Histórias tradicionais de Ifá e dos Òrìṣà, recontadas de forma resumida, com a lição de cada uma e os verbetes ligados a ela.",
+      "category": "ìtàn",
+      "children": [
+        {
+          "id": "itan-tema-1",
+          "kind": "topic",
+          "label": "Orí e destino",
+          "category": "ìtàn",
+          "children": [
+            {
+              "id": "itan-ori",
+              "kind": "concept",
+              "label": "A escolha do Orí: Afuwapé e seus amigos",
+              "yoruba": "Àyànmọ́ Orí",
+              "pronunciation": "A-ian-mó Ô-ri",
+              "summary": "O destino se escolhe antes de nascer, mas a escolha é feita com mais sabedoria por quem consulta, ouve e age. Daí a importância de Ifá e do ẹbọ.",
+              "explanation": "Três amigos — Afuwapé, Orísẹ̀kú e Orílẹ̀mọ̀ru — estavam no ọ̀run, prestes a vir ao mundo. Antes da viagem, cada um precisava escolher um Orí na casa de Àjàlá, o oleiro que molda as cabeças. Àjàlá era descuidado: muitas cabeças saíam rachadas ou mal cozidas.\n\nAfuwapé, antes de ir, consultou Ifá. Os babaláwo o orientaram a fazer ẹbọ, e ele fez. Os outros dois foram direto, sem consultar ninguém.\n\nNa casa de Àjàlá, Orísẹ̀kú e Orílẹ̀mọ̀ru escolheram cabeças bonitas por fora, mas defeituosas. Afuwapé, guiado pela orientação recebida, escolheu um Orí bom. Na terra, ele prosperou; os amigos, por mais que se esforçassem, viviam em dificuldade, e só então entenderam a diferença.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "ori",
+                "ifa1-01-ifa-orunmila-4",
+                "destino-2",
+                "ori-carater-1"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "A escolha do Orí: Afuwapé e seus amigos"
+              ],
+              "tags": [
+                "a escolha do ori: afuwape e seus amigos",
+                "ajala",
+                "ayanmo ori",
+                "historia",
+                "itan",
+                "ori"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-ori-mar",
+              "kind": "concept",
+              "label": "Quem pode seguir alguém além do mar?",
+              "yoruba": "Orí",
+              "pronunciation": "Ô-ri",
+              "summary": "Nenhuma divindade apoia alguém sem o consentimento do seu Orí. Por isso se saúda e se cuida do Orí antes de tudo.",
+              "explanation": "Conta-se que Ọ̀rúnmìlà perguntou a seus seguidores — divindades e pessoas — quem seria capaz de acompanhá-lo numa viagem para além do grande mar, de onde ninguém volta. Um a um, todos deram desculpas: tinham compromissos, tinham medo, não podiam.\n\nSó um respondeu que iria até o fim com ele: o Orí. Porque o Orí é o único que acompanha cada pessoa em toda a sua jornada, até depois da morte.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "ori",
+                "ori-carater-1",
+                "traducao-1",
+                "ose-12"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Quem pode seguir alguém além do mar?"
+              ],
+              "tags": [
+                "historia",
+                "itan",
+                "ori",
+                "quem pode seguir alguem alem do mar?"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "itan-tema-2",
+          "kind": "topic",
+          "label": "Caráter",
+          "category": "ìtàn",
+          "children": [
+            {
+              "id": "itan-iwa",
+              "kind": "concept",
+              "label": "Ọ̀rúnmìlà e Ìwà",
+              "yoruba": "Ìwà",
+              "pronunciation": "I-ua",
+              "summary": "Riqueza, prestígio e até um bom Orí não se sustentam sem bom caráter. Ìwà (caráter) e Sùúrù (paciência) andam juntas.",
+              "explanation": "Ọ̀rúnmìlà casou-se com Ìwà, uma mulher de beleza e qualidades raras — em várias versões, filha de Sùúrù, a Paciência. Ìwà tinha seus próprios modos, e com o tempo Ọ̀rúnmìlà perdeu a paciência com ela e a tratou mal. Ìwà foi embora.\n\nDepois da partida dela, tudo começou a dar errado: a fortuna de Ọ̀rúnmìlà se desfez, o respeito das pessoas sumiu. Ele saiu à procura de Ìwà, cantando e perguntando por ela por toda parte. Quando finalmente a encontrou, ela não quis voltar, mas lhe ensinou que, se ele cuidasse do próprio caráter, ela estaria sempre com ele.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "iwa-pele",
+                "ifa1-01-ifa-orunmila-5",
+                "ifa1-05-ori-iwa-5",
+                "ori-carater-2",
+                "ori-carater-5",
+                "maturidade-1"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọ̀rúnmìlà e Ìwà"
+              ],
+              "tags": [
+                "carater",
+                "historia",
+                "itan",
+                "iwa",
+                "orunmila",
+                "orunmila e iwa"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "itan-tema-3",
+          "kind": "topic",
+          "label": "Èṣù e os caminhos",
+          "category": "ìtàn",
+          "children": [
+            {
+              "id": "itan-esu-fila",
+              "kind": "concept",
+              "label": "O chapéu de duas cores de Èṣù",
+              "yoruba": "Èṣù",
+              "pronunciation": "Ê-chu",
+              "summary": "Cada um vê a sua parte da verdade. E quem esquece de reconhecer Èṣù, o senhor dos caminhos e da comunicação, descobre como uma palavra mal-entendida pode virar conflito.",
+              "explanation": "Dois amigos inseparáveis tinham roças vizinhas, separadas por um caminho. Todos os dias trabalhavam lado a lado e diziam que nada no mundo os faria brigar — e se esqueciam de reconhecer Èṣù.\n\nUm dia, Èṣù passou pelo caminho entre os dois usando um chapéu vermelho de um lado e branco do outro. Depois que ele passou, um amigo comentou o homem de chapéu vermelho; o outro jurou que o chapéu era branco. Cada um tinha visto um lado só. A discussão virou briga, e a briga quase acabou com a amizade, até que Èṣù voltou e mostrou o chapéu inteiro.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "esu",
+                "orisa-contexto-2",
+                "ifa1-08-iba-esu-5",
+                "interpretacao-4"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional Yorùbá muito difundida, contada em várias versões (a cor dos lados varia). Confirmar com o baba a versão da casa.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "O chapéu de duas cores de Èṣù"
+              ],
+              "tags": [
+                "esu",
+                "exu",
+                "historia",
+                "itan",
+                "o chapeu de duas cores de esu"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-esu-ebo",
+              "kind": "concept",
+              "label": "Por que Èṣù recebe parte de todo ẹbọ",
+              "yoruba": "Ẹbọ",
+              "pronunciation": "É-bó",
+              "summary": "Fazer o que foi orientado — e reconhecer o mensageiro — é parte da resposta.",
+              "explanation": "Nos versos, quem consulta Ifá recebe uma orientação de ẹbọ. Os que fazem o ẹbọ e reservam a parte de Èṣù veem o caminho se abrir; os que ignoram a orientação ou esquecem Èṣù encontram o caminho fechado. Esse padrão se repete em inúmeras histórias.\n\nÈṣù é quem leva o ẹbọ ao ọ̀run e quem faz a ponte entre as pessoas, os Òrìṣà e Olódùmarè. Por isso ele é saudado primeiro e recebe a sua parte.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "esu",
+                "ebo",
+                "ifa1-07-ebo-2",
+                "ifa1-07-ebo-3"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Ensinamento recorrente nos versos de Ifá. Confirmar com o baba a prática da casa.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Por que Èṣù recebe parte de todo ẹbọ"
+              ],
+              "tags": [
+                "ebo",
+                "exu",
+                "historia",
+                "itan",
+                "por que esu recebe parte de todo ebo"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "itan-tema-5",
+          "kind": "topic",
+          "label": "Ọ̀rúnmìlà e Ifá",
+          "category": "ìtàn",
+          "children": [
+            {
+              "id": "itan-ikin",
+              "kind": "concept",
+              "label": "Os ikin que Ọ̀rúnmìlà deixou",
+              "yoruba": "Ìkín",
+              "pronunciation": "I-kin",
+              "summary": "É por isso que se consulta Ifá pelos ikin: eles são a voz de Ọ̀rúnmìlà entre nós. E o respeito ao mais velho e ao mestre mantém a sabedoria por perto.",
+              "explanation": "Conta-se que Ọ̀rúnmìlà viveu um tempo na terra, ensinando e aconselhando. Um dia, ofendido por um dos seus — em muitas versões, um de seus próprios filhos, que lhe faltou com o respeito —, decidiu voltar para o ọ̀run.\n\nSem ele, tudo começou a dar errado: as mulheres não tinham filhos, os doentes não saravam, a chuva não vinha. Os filhos foram até ele implorar que voltasse. Ọ̀rúnmìlà não voltou, mas entregou a cada um dezesseis sementes de palmeira, os ikin, e disse: quando precisarem de mim, perguntem a eles — e eu responderei.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "instrumentos-consulta-2",
+                "materialidade-3",
+                "orunmila",
+                "ifa"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Os ikin que Ọ̀rúnmìlà deixou"
+              ],
+              "tags": [
+                "historia",
+                "ikin",
+                "itan",
+                "orunmila",
+                "os ikin que orunmila deixou"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-osanyin-roca",
+              "kind": "concept",
+              "label": "Ọ̀sanyìn e a roça de Ọ̀rúnmìlà",
+              "yoruba": "Ọ̀sanyìn",
+              "pronunciation": "Ó-san-in",
+              "summary": "O que parece mato pode ser remédio. Reconhecer o saber do outro é parte da sabedoria.",
+              "explanation": "Ọ̀rúnmìlà precisava limpar sua roça e chamou Ọ̀sanyìn para capinar o mato. No fim do dia, a roça estava intacta. Ọ̀rúnmìlà foi ver o que tinha acontecido, e Ọ̀sanyìn explicou: aquela folha cura a febre, esta outra protege a criança, aquela acalma a cabeça… Ele não podia cortar remédio.\n\nỌ̀rúnmìlà entendeu que tinha diante de si o dono do saber das folhas. Desde então os dois caminham juntos: não há trabalho de Ifá sem as folhas de Ọ̀sanyìn.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "orisa-contexto-4"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọ̀sanyìn e a roça de Ọ̀rúnmìlà"
+              ],
+              "tags": [
+                "historia",
+                "itan",
+                "orunmila",
+                "osanyin",
+                "osanyin e a roca de orunmila",
+                "ossaim",
+                "ossain"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "itan-tema-4",
+          "kind": "topic",
+          "label": "Céu, terra e criação",
+          "category": "ìtàn",
+          "children": [
+            {
+              "id": "itan-criacao",
+              "kind": "concept",
+              "label": "A criação da terra em Ilé-Ifẹ̀",
+              "yoruba": "Ilé-Ifẹ̀",
+              "pronunciation": "I-lê I-fé",
+              "summary": "A palavra dada e a missão recebida pedem atenção; o descuido custa caro. E ninguém é dono de tudo: a obra do mundo foi feita por mais de um.",
+              "explanation": "No começo, abaixo do ọ̀run só havia água e pântano. Olódùmarè entregou a Ọbàtálá (Òrìṣà-ńlá) a missão de criar a terra firme: deu-lhe uma corrente para descer, uma concha de caracol cheia de terra, uma galinha de cinco dedos e uma semente de palmeira.\n\nNo caminho, Ọbàtálá encontrou vinho de palma (ẹmu), bebeu e adormeceu. Odùduwà, vendo a missão parada, pegou os materiais, desceu pela corrente, espalhou a terra sobre as águas e soltou a galinha, que ciscou e espalhou a terra em todas as direções. Assim nasceu a terra firme, no lugar chamado Ilé-Ifẹ̀ — por isso considerada o berço do mundo e do povo Yorùbá.\n\nQuando acordou, Ọbàtálá recebeu outra tarefa: modelar os corpos humanos. Diz-se que, por causa do episódio do vinho, seus devotos evitam o ẹmu, e que ele protege especialmente as pessoas que nasceram com alguma diferença no corpo.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "animais-18",
+                "comidas-18",
+                "orisa-contexto-1"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Mito de criação Yorùbá amplamente documentado; há versões diferentes entre cidades e casas. Confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "A criação da terra em Ilé-Ifẹ̀"
+              ],
+              "tags": [
+                "a criacao da terra em ile-ife",
+                "historia",
+                "ife",
+                "ile-ife",
+                "itan",
+                "obatala",
+                "oduduwa",
+                "oxala"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-ceu",
+              "kind": "concept",
+              "label": "Quando o céu se afastou",
+              "yoruba": "Ọ̀run",
+              "pronunciation": "Ó-run",
+              "summary": "O sagrado pede respeito. Quando é tratado com descaso, se afasta — e a ponte passa a depender dos mensageiros.",
+              "explanation": "No princípio, o ọ̀run ficava tão perto da terra que as pessoas podiam tocá-lo com a mão. Elas iam e vinham, e chegavam a tirar pedaços do céu para comer.\n\nCom o tempo, passaram a tratá-lo sem respeito: limpavam nele as mãos sujas, batiam nele com o pilão ao socar o inhame. Olódùmarè então afastou o ọ̀run para longe, e desde então ele só pode ser alcançado pelas oferendas, pelas rezas e pelos mensageiros.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "ifa1-09-aye-orun-2",
+                "ifa1-09-aye-orun-1",
+                "ifa1-01-ifa-orunmila-7"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Quando o céu se afastou"
+              ],
+              "tags": [
+                "historia",
+                "itan",
+                "olorum",
+                "orun",
+                "quando o ceu se afastou"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "itan-tema-6",
+          "kind": "topic",
+          "label": "Histórias dos Òrìṣà",
+          "category": "ìtàn",
+          "children": [
+            {
+              "id": "itan-osun",
+              "kind": "concept",
+              "label": "Ọ̀ṣun e os dezesseis",
+              "yoruba": "Ọ̀ṣun",
+              "pronunciation": "Ó-chun",
+              "summary": "Nada se completa sem o feminino. Excluir quem tem seu lugar desequilibra o todo.",
+              "explanation": "Quando as divindades vieram organizar o mundo, os dezesseis primeiros se reuniram para decidir tudo e deixaram Ọ̀ṣun de fora, por ser mulher. Nada do que faziam dava certo: a chuva não caía, as coisas não frutificavam.\n\nEles foram a Olódùmarè perguntar o que estava errado. Olódùmarè quis saber quantos tinham vindo e por que Ọ̀ṣun não estava entre eles. Os dezesseis voltaram, pediram desculpas a Ọ̀ṣun e a incluíram nas decisões — e o mundo passou a funcionar. Em muitas versões, o filho de Ọ̀ṣun dá nome ao Odù Ọ̀sẹ́tùrá.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "orisa-contexto-1"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Reconto resumido de narrativa tradicional amplamente documentada (ver Wándé Abímbọ́lá, Ifá: An Exposition of Ifá Literary Corpus, 1976). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọ̀ṣun e os dezesseis"
+              ],
+              "tags": [
+                "historia",
+                "itan",
+                "osun",
+                "osun e os dezesseis",
+                "oxum"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-osun-buzios",
+              "kind": "concept",
+              "label": "Ọ̀ṣun e os búzios",
+              "yoruba": "Mẹ́rìndínlógún",
+              "pronunciation": "Mé-rin-din-lô-gun",
+              "summary": "O conhecimento chega a quem age com generosidade. No Brasil, o jogo de búzios (merindilogun) é associado a Ọ̀ṣun.",
+              "explanation": "Ọ̀ṣun desejava aprender a arte da adivinhação, mas esse saber não lhe era dado. Um dia, Èṣù roubou as roupas brancas de Ọbàtálá enquanto ele se banhava no rio. Ọ̀ṣun conseguiu recuperá-las e devolvê-las.\n\nAgradecido, Ọbàtálá lhe deu o que ela mais queria: o conhecimento do jogo de búzios, os dezesseis búzios com que se consultam os Òrìṣà.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "odu-meji-2",
+                "elem-3"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọ̀ṣun e os búzios"
+              ],
+              "tags": [
+                "buzios",
+                "exu",
+                "historia",
+                "itan",
+                "merindilogun",
+                "merindinlogun",
+                "obatala",
+                "osun e os buzios",
+                "oxala",
+                "oxum"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-osun-pavao",
+              "kind": "concept",
+              "label": "Ọ̀ṣun leva a mensagem ao ọ̀run",
+              "yoruba": "Ọ̀ṣun",
+              "pronunciation": "Ó-chun",
+              "summary": "Quem se sacrifica pelo coletivo é ouvido. Por isso o urubu é respeitado: ele leva as mensagens ao ọ̀run.",
+              "explanation": "Os Òrìṣà se rebelaram e quiseram governar o mundo sem Olódùmarè. Ele então segurou a chuva. Veio a seca, a fome, e ninguém conseguia chegar ao ọ̀run para pedir perdão.\n\nỌ̀ṣun se transformou numa ave — em muitas versões, um pavão — e voou até o ọ̀run. O caminho era longo e o sol queimou suas penas, que ficaram escuras, e ela chegou transformada em urubu (igún). Olódùmarè, tocado pelo sacrifício, mandou a chuva de volta e fez de Ọ̀ṣun sua mensageira.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "ifa1-09-aye-orun-2",
+                "animais-7"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọ̀ṣun leva a mensagem ao ọ̀run"
+              ],
+              "tags": [
+                "historia",
+                "itan",
+                "osun",
+                "osun leva a mensagem ao orun",
+                "oxum",
+                "pavao",
+                "urubu"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-ogun-caminho",
+              "kind": "concept",
+              "label": "Ògún abre o caminho",
+              "yoruba": "Ògún",
+              "pronunciation": "Ô-gun",
+              "summary": "Ògún é o que abre caminhos com trabalho e tecnologia. Por isso se diz que ele vem à frente.",
+              "explanation": "Quando os Òrìṣà desceram para viver na terra, encontraram uma mata fechada que nenhum deles conseguia atravessar. Tentaram com as ferramentas que tinham, e tudo quebrava.\n\nSó Ògún, que conhecia o segredo do ferro, conseguiu: com seu facão abriu o caminho para todos passarem. Em agradecimento, os Òrìṣà quiseram fazê-lo rei, mas Ògún preferiu continuar na mata, caçando e trabalhando o ferro.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "animais-1",
+                "ancestralidade-5"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ògún abre o caminho"
+              ],
+              "tags": [
+                "historia",
+                "itan",
+                "ogum",
+                "ogun",
+                "ogun abre o caminho"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-ogun-ire",
+              "kind": "concept",
+              "label": "Ògún em Ìrè",
+              "yoruba": "Ìrè",
+              "pronunciation": "I-rê",
+              "summary": "A raiva antes de entender destrói o que se ama. Escutar e perguntar antes de agir é sabedoria — e o arrependimento verdadeiro muda o caminho.",
+              "explanation": "Depois de muitas guerras, Ògún voltou a Ìrè, a cidade de que era rei, cansado e com sede. Ninguém o saudou, ninguém lhe ofereceu água nem vinho de palma. Furioso com o que pareceu desprezo, Ògún atacou e matou muitos.\n\nSó depois soube a verdade: era dia de um ritual de silêncio, e ninguém podia falar. Arrependido, Ògún cravou a espada no chão e entrou na terra, dizendo que viria sempre que fosse chamado.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "dialogo-consulta-6",
+                "reservado-publico-5"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ògún em Ìrè"
+              ],
+              "tags": [
+                "historia",
+                "ire",
+                "itan",
+                "ogum",
+                "ogun",
+                "ogun em ire"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-sango-koso",
+              "kind": "concept",
+              "label": "Ọba kò so — o rei não se enforcou",
+              "yoruba": "Ọba kò so",
+              "pronunciation": "Ó-ba kô sô",
+              "summary": "O poder pede controle. E a memória de quem é grande não se apaga pela palavra dos inimigos.",
+              "explanation": "Ṣàngó foi rei de Ọ̀yọ́, guerreiro poderoso que dominava o fogo e o raio. Um dia, testando seus poderes, provocou um raio que destruiu o próprio palácio e matou pessoas da sua casa. Desgostoso, deixou a cidade.\n\nSeus inimigos espalharam que o rei tinha se enforcado em Kòso. Mas seus seguidores responderam: Ọba kò so! — o rei não se enforcou. Ṣàngó tinha se tornado Òrìṣà, e os raios que caíram logo depois foram a prova de que continuava vivo.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "objetos-9",
+                "comidas-20",
+                "comidas-12"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọba kò so — o rei não se enforcou"
+              ],
+              "tags": [
+                "historia",
+                "itan",
+                "koso",
+                "oba ko so",
+                "oba ko so — o rei nao se enforcou",
+                "sango",
+                "shango",
+                "xango"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-obatala-preso",
+              "kind": "concept",
+              "label": "Ọbàtálá preso em Ọ̀yọ́",
+              "yoruba": "Ọbàtálá",
+              "pronunciation": "Ó-ba-ta-la",
+              "summary": "Paciência e ìwà pẹ̀lẹ́ diante da injustiça. No Brasil, esta história dá origem às Águas de Oxalá.",
+              "explanation": "Ọbàtálá decidiu visitar Ṣàngó em Ọ̀yọ́. Antes de partir, consultou Ifá, que o orientou a fazer ẹbọ e a ter paciência com tudo o que acontecesse no caminho. No percurso, Èṣù o testou várias vezes, sujando suas roupas brancas, e ele suportou calado.\n\nJá perto de Ọ̀yọ́, Ọbàtálá encontrou um cavalo fugido de Ṣàngó e foi devolvê-lo. Os soldados o acusaram de roubo e o prenderam. Por sete anos, o reino sofreu: seca, doenças, mulheres sem filhos. Ṣàngó consultou Ifá e descobriu o inocente na prisão. Libertou-o, vestiu-o de branco e mandou buscar água para lavá-lo.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "cores-1",
+                "iwa-pele",
+                "ori-carater-5"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọbàtálá preso em Ọ̀yọ́"
+              ],
+              "tags": [
+                "aguas de oxala",
+                "historia",
+                "itan",
+                "obatala",
+                "obatala preso em oyo",
+                "oxala",
+                "xango"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-oya-bufalo",
+              "kind": "concept",
+              "label": "Ọya e a pele de búfalo",
+              "yoruba": "Ọya",
+              "pronunciation": "Ó-ia",
+              "summary": "O segredo confiado deve ser guardado. E a mãe não abandona os filhos, mesmo de longe.",
+              "explanation": "Um caçador viu um búfalo tirar a pele na mata e virar uma mulher belíssima. Era Ọya. Ele escondeu a pele, e ela, sem poder voltar a ser búfalo, aceitou casar com ele, com a condição de que ninguém jamais falasse do seu segredo.\n\nAnos depois, as outras esposas, por ciúme, descobriram a pele e zombaram de Ọya. Ela vestiu a pele de novo e partiu. Antes de ir, deixou aos filhos um par de chifres: quando precisassem, bastava bater um no outro e ela viria socorrê-los.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "limites-responsabilidade-1",
+                "etica-palavra-2"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọya e a pele de búfalo"
+              ],
+              "tags": [
+                "bufalo",
+                "historia",
+                "iansa",
+                "iansã",
+                "itan",
+                "oya",
+                "oya e a pele de bufalo"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-osoosi",
+              "kind": "concept",
+              "label": "Ọ̀ṣọ́ọ̀sì, o caçador de uma flecha só",
+              "yoruba": "Ọ̀ṣọ́ọ̀sì",
+              "pronunciation": "Ó-chó-ó-si",
+              "summary": "Uma flecha certeira, com orientação e ẹbọ, vale mais que muitas lançadas sem preparo.",
+              "explanation": "Na festa do inhame novo, um pássaro enorme e maligno pousou no telhado do palácio e ameaçou a cidade. O rei chamou os melhores caçadores. O caçador de vinte flechas errou todas; o de quarenta também; o de cinquenta, o mesmo.\n\nPor fim veio um caçador que só tinha uma flecha. Antes, sua mãe fez o ẹbọ indicado pelo babaláwo. Ele mirou, disparou a única flecha e derrubou o pássaro. O povo gritou: Ọ̀ṣọ́ọ̀sì! — o caçador é popular!",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "ebo",
+                "animais-7"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọ̀ṣọ́ọ̀sì, o caçador de uma flecha só"
+              ],
+              "tags": [
+                "historia",
+                "itan",
+                "osoosi",
+                "osoosi, o cacador de uma flecha so",
+                "oxossi",
+                "oxóssi"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-obaluaye",
+              "kind": "concept",
+              "label": "Ọbalúayé e a dança coberta de palha",
+              "yoruba": "Ọbalúayé",
+              "pronunciation": "Ó-ba-lu-a-iê",
+              "summary": "Quem parece afastado guarda muitas vezes a maior luz. Olhar além da aparência é um ensinamento.",
+              "explanation": "Ọbalúayé tinha a pele marcada pela doença e por isso andava coberto de palha. Numa festa dos Òrìṣà, ficou à margem: ninguém o convidava para dançar.\n\nỌya percebeu e o chamou para a roda. Quando dançaram, seu vento levantou a palha, e por baixo dela apareceu um Òrìṣà radiante como o sol. Desde então, os dois são próximos.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "ire-11",
+                "corpo-10"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "Ọbalúayé e a dança coberta de palha"
+              ],
+              "tags": [
+                "historia",
+                "iansa",
+                "iansã",
+                "itan",
+                "obaluaie",
+                "obaluaiê",
+                "obaluaye",
+                "obaluaye e a danca coberta de palha",
+                "omolu"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            },
+            {
+              "id": "itan-osanyin-vento",
+              "kind": "concept",
+              "label": "As folhas de Ọ̀sanyìn e o vento de Ọya",
+              "yoruba": "Ewé",
+              "pronunciation": "Ê-uê",
+              "summary": "Kò sí ewé, kò sí Òrìṣà — sem folha não há Òrìṣà. Todos têm suas folhas, mas o àṣẹ delas pertence a Ọ̀sanyìn.",
+              "explanation": "Ọ̀sanyìn guardava todas as folhas e seus segredos numa cabaça, só para si. Os outros Òrìṣà não tinham acesso a elas, e Ṣàngó reclamou com Ọya.\n\nỌya agitou a saia e levantou um vento forte. A cabaça caiu, se abriu, e as folhas se espalharam pelo mundo. Cada Òrìṣà apanhou as que pôde, e assim cada um passou a ter suas folhas. Mas o segredo das palavras que fazem as folhas agirem continuou com Ọ̀sanyìn.",
+              "uses": [],
+              "phrases": [],
+              "context": "História tradicional recontada de forma resumida. As versões variam entre casas e linhagens; a da sua casa prevalece.\n\nOdù: a confirmar com o baba.",
+              "variations": [
+                "Odù ligado a esta história: a confirmar com o baba."
+              ],
+              "related": [
+                "orisa-contexto-4",
+                "cores-5"
+              ],
+              "exercises": [
+                "Conte esta história com suas palavras.",
+                "Que lição dela você leva para a sua vida?"
+              ],
+              "sources": [
+                {
+                  "title": "Narrativa tradicional amplamente conhecida no Brasil e na Nigéria, recontada de forma resumida (ver também Reginaldo Prandi, Mitologia dos Orixás, 2001). As versões variam entre casas; confirmar com o baba.",
+                  "url": "",
+                  "scope": ""
+                }
+              ],
+              "cards": [],
+              "translations": [
+                "As folhas de Ọ̀sanyìn e o vento de Ọya"
+              ],
+              "tags": [
+                "as folhas de osanyin e o vento de oya",
+                "ewe",
+                "folhas",
+                "historia",
+                "iansa",
+                "itan",
+                "ossaim",
+                "ossain",
+                "xango"
+              ],
+              "review": {
+                "claude": "pendente",
+                "confianca": "media",
+                "nota": "",
+                "manus": null,
+                "gemini": null,
+                "humano": null
+              }
+            }
           ]
         }
       ]
